@@ -1,2 +1,2 @@
 # phrdang.github.io
-Personal website
+Rebecca Dang's personal website
