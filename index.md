@@ -19,6 +19,7 @@ Pronouns: she/her
 * Visit [Omega](https://omegarobotics.wordpress.com)
 * [Sponsor Omega](https://bit.ly/sponsoromega)
 * Email: ftc9656omega@gmail.com
+* Checkout my project, [Learn Code](https://omega9656.github.io/learn-code)!
 
 
 ## 🌱 I’m currently learning ...
