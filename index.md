@@ -8,8 +8,8 @@ Pronouns: she/her
 
 ## 🍎 Education
 
-- Evergreen Valley High School c/o 2021 | **4.0 (unweighted)**
-- Evergreen Valley College | **4.0 (unweighted, dual enrollment)**
+- Evergreen Valley High School c/o 2021 \| **4.0 (unweighted)**
+- Evergreen Valley College \| **4.0 (unweighted, dual enrollment)**
   - CIT 20 (Intro to Python)
   - COMSC 75 (Intro to Java)
   - COMSC 76 (Intro to Data Structures)
