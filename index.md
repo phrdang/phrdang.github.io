@@ -19,7 +19,7 @@ Pronouns: she/her
 
 **Vice President at Code 4 Tomorrow**
 
-* GitHub: [@code-for-tomorrow](https://github.com/code-for-tomorrow)
+* GitHub: [@code4tomorrow](https://github.com/code4tomorrow)
 * Visit [Code 4 Tomorrow](https://code4tomorrow.org)
 * Visit C4T's [Linktree](https://linktr.ee/code4tomorrow)
 * Donate to C4T's [GoFundMe](https://gf.me/u/x4zn9m)
