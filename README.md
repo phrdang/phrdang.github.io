@@ -1,3 +1,3 @@
-# phrdang.github.io
+# Rebecca Dang
 
-Rebecca Dang's personal website
+Student
