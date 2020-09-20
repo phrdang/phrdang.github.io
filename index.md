@@ -17,6 +17,9 @@ Pronouns: she/her
 
 ## 🔭 I’m currently working on ...
 
+**Enoch Bot**
+* A Discord bot for Code 4 Tomorrow servers
+
 **Vice President at Code 4 Tomorrow**
 
 * GitHub: [@code4tomorrow](https://github.com/code4tomorrow)
@@ -36,6 +39,8 @@ Pronouns: she/her
 
 ## 🌱 I’m currently learning ...
 
+- Google Sheets API
+- discord.py API
 - Discrete Mathematics
 - GitHub Pages
   - Jekyll
