@@ -26,14 +26,14 @@ Pronouns: she/her
 * GitHub: [@code4tomorrow](https://github.com/code4tomorrow)
 * Visit [Code 4 Tomorrow](https://code4tomorrow.org)
 * Donate to C4T's [GoFundMe](https://gf.me/u/x4zn9m)
-* Work Email: rebeccad@code4tomorrow.org
-* General Organization Email: hello@code4tomorrow.org
+* Work Email: [rebeccad@code4tomorrow.org](mailto:rebeccad@code4tomorrow.org)
+* General Organization Email: [hello@code4tomorrow.org](mailto:hello@code4tomorrow.org)
 
 **Mentor & Former Co-Captain at FTC 9656 Omega (*FIRST* Tech Challenge)**
 * GitHub: [@omega9656](https://github.com/omega9656)
 * Visit [Omega](https://omegarobotics.wordpress.com)
 * [Sponsor Omega](https://bit.ly/sponsoromega)
-* Email: ftc9656omega@gmail.com
+* Email: [ftc9656omega@gmail.com](mailto:ftc9656omega@gmail.com)
 * Check out my project, [Learn Code](https://omega9656.github.io/learn-code)!
 
 
@@ -42,7 +42,8 @@ Pronouns: she/her
 - discord.py API
 
 ## 📫 How to reach me
-- Email: ph.rdang@gmail.com
+- Personal Email: [ph.rdang@gmail.com](mailto:ph.rdang@gmail.com)
+- School Email: [rdang@berkeley.edu](mailto:rdang@berkeley.edu)
 - [LinkedIn](https://linkedin.com/in/dang-rebecca)
 - Instagram: [@dang_rebecca](https://instagram.com/dang_rebecca)
 - [Website](https://phrdang.github.io)
