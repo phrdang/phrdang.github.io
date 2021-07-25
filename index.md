@@ -20,7 +20,7 @@ Pronouns: she/her
 
 **Enoch Bot**
 * A Discord bot designed for Code 4 Tomorrow servers
-* [Learn more](https://phrdang.gitbook.io/enoch-bot)
+* [Learn more](https://enoch.code4tomorrow.org)
 
 **Mentor & Former VP at Code 4 Tomorrow**
 * GitHub: [@code4tomorrow](https://github.com/code4tomorrow)
