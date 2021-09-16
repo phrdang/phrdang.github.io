@@ -26,7 +26,7 @@ Pronouns: she/her
 
 ## 💼 Experience
 
-### Client Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
+### Client Software Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
 *Sep 2021 - Present*
 
 - Currently redesigning [Aurora Solar](https://www.aurorasolar.com/)'s admin portal (for more info see **Projects**)
@@ -71,7 +71,7 @@ Pronouns: she/her
   - Authentication: Okta, OAuth2
 
 ### Enoch Bot
-*Aug 2020 – Present*
+*Aug 2020 – Sep 2021*
 
 - Programmed a Discord bot using the [Discord.py API](https://discordpy.readthedocs.io/en/latest/) for use in [Code 4 Tomorrow](https://code4tomorrow.org) Discord servers with 500+ users
 - Features:
@@ -113,6 +113,7 @@ Pronouns: she/her
 - School Email: rdang@berkeley.edu
 - Code 4 Tomorrow Email: rebeccad@code4tomorrow.org
 - [LinkedIn](https://linkedin.com/in/dang-rebecca)
+- [GitHub](https://github.com/phrdang)
 - Instagram: [@dang_rebecca](https://instagram.com/dang_rebecca)
 - [Website](https://phrdang.github.io)
   
