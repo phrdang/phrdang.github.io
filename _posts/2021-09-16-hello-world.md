@@ -13,3 +13,7 @@ who I am and what I do, check out the [About](/about) page.
 print('Congrats! You clicked on the post and found the secret code snippet!')
 print('What a cool kid 😎')
 {% endhighlight %}
+
+<br>
+
+<div class="tenor-gif-embed" data-postid="19587009" data-share-method="host" data-aspect-ratio="1.34454" data-width="100%"><a href="https://tenor.com/view/nice-yess-awesome-mr-robot-elliot-alderson-gif-19587009">Nice Yess GIF</a>from <a href="https://tenor.com/search/nice-gifs">Nice GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
