@@ -1,6 +1,15 @@
 # Rebecca Dang
 
-[go to test page](test.md)
+#### Contents
+
+1. [Hello world!](#-hello-world)
+2. [Education](#-education)
+3. [Experience](#-experience)
+4. [Projects](#-projects)
+5. [I'm currently learning...](#-im-currently-learning-)
+6. [Skills](#-skills)
+7. [Contact me](#-contact-me)
+
 ### 👋 Hello world!
 
 Pronouns: she/her
@@ -35,7 +44,6 @@ Pronouns: she/her
 - [Website](https://code4tomorrow.org)
 - General Email: hello@code4tomorrow.org
 - Personal Email: rebeccad@code4tomorrow.org
-
 
 ### Co-Captain at FTC 9656 Omega ([*FIRST* Tech Challenge](https://www.firstinspires.org/robotics/ftc))
 *Aug 2018 – Feb 2021*
