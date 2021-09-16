@@ -1,3 +1,3 @@
-# Rebecca Dang
+# phrdang.github.io
 
-Hey there internet stranger! Welcome to my personal website.
+Rebecca Dang's personal website
