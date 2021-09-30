@@ -1,11 +1,14 @@
 ---
 layout: page
 title: 📋 Credits
-permalink: /credits/
+permalink: /credits
 ---
 
-- Jekyll Theme: [Minima](https://github.com/jekyll/minima)
-  - [MIT License](LICENSE.txt)
+### Jekyll Theme: Minima
+
+- [GitHub](https://github.com/jekyll/minima)
+- [MIT License](LICENSE.txt)
+
 > The MIT License (MIT)
 >
 > Copyright (c) 2016-present Parker Moore and the minima contributors
@@ -27,4 +30,7 @@ permalink: /credits/
 > LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 > THE SOFTWARE.
-- PDF Embeds in HTML: [Suneel Omrey](https://stackoverflow.com/questions/39777166/display-pdf-image-in-markdown)
+
+### PDF Embeds in HTML
+
+[Suneel Omrey](https://stackoverflow.com/questions/39777166/display-pdf-image-in-markdown)
