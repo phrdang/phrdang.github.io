@@ -14,6 +14,7 @@ permalink: /contact
 
 - [LinkedIn](https://linkedin.com/in/dang-rebecca)
 - [GitHub](https://github.com/phrdang)
+- [Devpost](https://devpost.com/phrdang)
 - [Instagram](https://instagram.com/dang_rebecca)
 - [Facebook](https://facebook.com/rebeccapdang)
 - [Website](https://phrdang.github.io) (you're already here!)
