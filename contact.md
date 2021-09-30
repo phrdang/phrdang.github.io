@@ -1,15 +1,16 @@
 ---
 layout: page
 title: 📫 Contact
-permalink: /contact/
+permalink: /contact
 ---
 
-## Email
+## ✉️ Email
 
 - [rdang@berkeley.edu](mailto:rdang@berkeley.edu)
 - [rebeccad@code4tomorrow.org](mailto:rebeccad@code4tomorrow.org)
+- [rdang@aurorasolar.com](mailto:rdang@aurorasolar.com)
 
-## Socials
+## 👋 Socials
 
 - [LinkedIn](https://linkedin.com/in/dang-rebecca)
 - [GitHub](https://github.com/phrdang)
