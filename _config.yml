@@ -15,7 +15,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    # twitter: jekyllrb
+    twitter: phrdang
     github: phrdang
     # devto: jekyll
     # dribbble: jekyll
@@ -25,8 +25,8 @@ minima:
     linkedin: dang-rebecca
     # pinterest: jekyll
     # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
+    youtube_channel: UCq3namVrMCnhWHKe8HeasAg
+    youtube_channel_name: Rebecca Dang
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
