@@ -23,19 +23,22 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 
 | School | Dates | Major | GPA | Relevant Coursework |
 |--------|-------|-------|-----|------------------|
-| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | None yet :) | - Structure and Interpretation of Computer Programs (Python) (Fall 2021) |
+| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | 3.9 | - Structure and Interpretation of Computer Programs (Python) <br>- Spring 2022: Data Structures (Java) |
 | Evergreen Valley College | Jun 2019 - Jul 2020 | N/A (dual enrollment during high school) | 4.0 | - Discrete Structures <br>- Intro to Data Structures (Java) <br>- Intro to Program Structures (Java) <br>- Program Design & Development (Python) |
 | Evergreen Valley High School | Aug 2017 - Jun 2021 | N/A | 4.0 (Valedictorian) | - Database Design and SQL Programming <br>- AP Calculus BC <br>- AP Calculus AB |
 
 ## 💼 Experience
 
+### Incoming Software Engineer Intern at [Bloomberg](https://www.bloomberg.com/company)
+May 2022 - Aug 2022 | New York, NY
+
 ### Client Software Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
-*Sep 2021 - Present*
+Sep 2021 - Present | Berkeley, CA
 
-- Currently redesigning [Aurora Solar](https://www.aurorasolar.com/)'s admin portal (for more info see [Projects](#-projects))
+- Redesigned [Aurora Solar](https://www.aurorasolar.com/)'s admin portal (for more info see [Projects](#-projects))
 
-### Mentor & Former VP at Code 4 Tomorrow
-*Apr 2020 - Present*
+### Mentor & Former Vice President at Code 4 Tomorrow
+Apr 2020 - Present | Remote
 
 - Created Java, Python, and HTML/CSS [curricula](https://code4tomorrow.org/courses); taught beginner and advanced Python courses
 - Set up continuous integration on C4T’s [GitHub repositories](https://github.com/code4tomorrow)
@@ -49,7 +52,7 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 - Personal Email: [rebeccad@code4tomorrow.org](mailto:rebeccad@code4tomorrow.org)
 
 ### Co-Captain at FTC 9656 Omega ([*FIRST* Tech Challenge](https://www.firstinspires.org/robotics/ftc))
-*Aug 2018 – Feb 2021*
+Aug 2018 – Feb 2021 | San Jose, CA
 
 - [Programmed](https://github.com/omega9656) the robot to accomplish autonomous and remotely controlled tasks to score points
 - Created [website](https://omega9656.github.io/learn-code) to train members in Java, bash, Git, and GitHub containing programming tutorials, exercises, and solutions
@@ -66,15 +69,14 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 ## 🔭 Projects
 
 ### [Berkeley Codebase](https://codebase.berkeley.edu): Aurora Solar
-*Sep 2021 - Present*
+Sep 2021 - Dec 2021
 
-- Currently redesigning [Aurora Solar](https://www.aurorasolar.com/)'s admin portal with:
+- Redesigned [Aurora Solar](https://www.aurorasolar.com/)'s admin portal with:
   - Frontend: [React](https://reactjs.org/), [blueprint.js](https://blueprintjs.com/)
-  - Backend: Python server with [Flask](https://palletsprojects.com/p/flask/) connection, open API
-  - Authentication: [Okta](https://www.okta.com/), [OAuth2](https://oauth.net/2/)
+  - Testing: [Cypress](https://www.cypress.io/)
 
 ### Enoch Bot
-*Aug 2020 – Sep 2021*
+Aug 2020 – Sep 2021
 
 - Programmed a [Discord](https://discord.com) bot using the [Discord.py API](https://discordpy.readthedocs.io/en/latest/) for use in [Code 4 Tomorrow](https://code4tomorrow.org) Discord servers with 500+ users
 - Features:
@@ -89,7 +91,7 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 - Collaborated with other student developers to expand the bot’s features; reviewed pull requests
 
 ### Psyber
-*Jan 2019*
+Jan 2019
 
 - A [website](https://phrdang.github.io/pixelhacks3/) to teach teach cybersecurity including a cybersecurity quiz, Caesar cipher, and informational articles
 - Won Best Beginner Hack at [PixelHacks III](https://devpost.com/software/psyber)
@@ -108,16 +110,14 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 - HTML
 - CSS
 - JavaScript
+- React
+- blueprint.js
 - SQL
 
 ## 🌱 I’m currently learning ...
 
-- React
-- blueprint.js
-- Flask
-- Open APIs
-- Okta
-- OAuth2
+- Typescript
+- [MIT Missing Semester](https://missing.csail.mit.edu/)
 
 ## ⚡ Fun fact
 🐦 My favorite book is [Six of Crows](https://www.goodreads.com/book/show/23437156-six-of-crows) by Leigh Bardugo!
