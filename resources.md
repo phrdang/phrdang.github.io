@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Resources 
+title: 📚 Resources 
 permalink: /resources
 ---
 
 > Looking for a compendium of online programming-related resources? You've come to the right place!
 
-TODO star good resources ⭐️
-**For especially cool resources, I've put a star**
+**For especially cool resources, I've put a star!**
 
 #### Contents
 
-- [Learning to Code](#learning-to-code)
+- [🍎 Learning to Code](#-learning-to-code)
   - [General: Do it Yourself](#general-do-it-yourself)
   - [General: Classes](#general-classes)
   - [Python](#python)
@@ -21,19 +20,31 @@ TODO star good resources ⭐️
   - [Terminal-Based Text Editors](#terminal-based-text-editors)
   - [Git, GitHub](#git-github)
   - [Other](#other)
-- [Writing Code](#writing-code)
+- [💻 Writing Code](#-writing-code)
   - [Desktop Apps](#desktop-apps)
   - [In Browser](#in-browser)
-- [Documentation and Reference](#documentation-and-reference)
+- [📖 Documentation and Reference](#-documentation-and-reference)
+  - [General](#general)
+  - [Java](#java-1)
+  - [Python](#python-1)
+  - [Web Development](#web-development-1)
+  - [Command Line](#command-line)
+  - [Git, GitHub](#git-github-1)
+  - [Regular Expressions](#regular-expressions)
+  - [Time Complexity](#time-complexity)
   - [GitHub Pages](#github-pages)
-- [Recruiting](#recruiting)
+  - [Other](#other-1)
+- [🤝 Recruiting](#-recruiting)
+  - [General](#general-1)
   - [Technical Interviewing](#technical-interviewing)
   - [Interviewing in General](#interviewing-in-general)
   - [Job Postings](#job-postings)
   - [Coding For Fun / Practice / Fundamentals](#coding-for-fun--practice--fundamentals)
-- [Community and Misc](#community-and-misc)
+- [🤠 Community and Misc](#-community-and-misc)
+  - [Blogs](#blogs)
+  - [Misc](#misc)
 
-# Learning to Code
+# 🍎 Learning to Code
 
 ## General: Do it Yourself
 
@@ -106,7 +117,7 @@ TODO star good resources ⭐️
 - [Code.org: How the Internet Works](https://youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 - [Runestone Academy](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) (open source, interactive textbooks)
 
-# Writing Code
+# 💻 Writing Code
 
 ## Desktop Apps
 
@@ -128,53 +139,81 @@ TODO star good resources ⭐️
 - [Google Colaboratory](https://colab.research.google.com)
 - [Scratch](https://scratch.mit.edu)
 
-# Documentation and Reference
+# 📖 Documentation and Reference
 
-- [Python 3 Docs](https://docs.python.org/3/library/index.html)
-- [W3C Cheatsheet](https://www.w3.org/2009/cheatsheet/) (HTML, JS, CSS, SVG, XPath)
-- [List of Command Line Commands](https://www.codecademy.com/articles/command-line-commands) (bash)
-- [GitHub Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-- [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
-- [W3Schools](https://www.w3schools.com/) (HTML, CSS, JS, Python, Java, SQL, XML, and more)
-- [HTML Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
-- [StackOverflow: Reference - What does this regex mean?](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
-- [How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)
-- [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
-- [HTML Reference - A free guide to all HTML elements and attributes](https://htmlreference.io/)
-- [React Docs](https://reactjs.org/docs/getting-started.html)
-- [Markdown Guide](https://www.markdownguide.org/)
-- [Make a README](https://www.makeareadme.com/)
-- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
-- [Roger Dudler: git - the simple guide](https://rogerdudler.github.io/git-guide/)
+## General
+
 - [Devhints / Rico's Cheatsheets](https://devhints.io/)
-- [Basic Editing in Visual Studio Code](https://code.visualstudio.com/docs/editor/codebasics)
-- [Omar Sharaki: Git Commands to Live By](https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139)
-- [Oh Shit, Git!?!](https://ohshitgit.com/) (undoing stuff with git)
 - [Dev Resources](https://devresourc.es/) (basically like this page but more)
+- [W3Schools](https://www.w3schools.com/) (HTML, CSS, JS, Python, Java, SQL, XML, and more)
+- [Codecademy Docs](https://www.codecademy.com/resources/docs) (community-driven collection of documentation for popular programming languages and frameworks)
+
+## Java
+
+- [How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)
+
+## Python
+
+- [Python 3 Docs](https://docs.python.org/3/library/index.html) ⭐️
+- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) ⭐️
+
+## Web Development
+
+- [W3C Cheatsheet](https://www.w3.org/2009/cheatsheet/) (HTML, JS, CSS, SVG, XPath)
+- [HTML Reference - A free guide to all HTML elements and attributes](https://htmlreference.io/) ⭐️
+- [MDN Web Docs: HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
+- [CSS Reference - A free visual guide to CSS](https://cssreference.io/) ⭐️
+- [CSS Tricks](https://css-tricks.com/) ⭐️
+- [How to Center in CSS](http://howtocenterincss.com/)
+- [React Docs](https://reactjs.org/docs/getting-started.html) ⭐️
 - [Hawk Ticehurst: The Mega Full-Stack Web Development Resource Guide](https://hawkticehurst.com/writing/mega-full-stack-resource-guide/)
-- [Git Command Explorer](https://gitexplorer.com/)
-- [UltimateGitResource](https://github.com/GoldinGuy/UltimateGitResource)
 - [Web Development at Berkeley: Dev & Design Resources](https://www.notion.so/WDB-Dev-Design-Resources-b6d91c1b96834a8d8c86614e3c70bd74)
 - [Berkeley Codebase Resources](https://www.notion.so/berkeleycodebase/Codebase-Public-4fa3c7bcd749416392624391e91c279e) (web development, Git)
-- [CSS Tricks](https://css-tricks.com/)
-- [Codecademy Docs](https://www.codecademy.com/resources/docs) (community-driven collection of documentation for popular programming languages and frameworks)
+
+## Command Line
+
+- [List of Command Line Commands](https://www.codecademy.com/articles/command-line-commands) (bash)
+- [Linux man pages online](https://man7.org/linux/man-pages/index.html) (bash command manuals)
+
+## Git, GitHub
+
+- [Git Docs](https://git-scm.com/doc) ⭐️
+- [Roger Dudler: git - the simple guide](https://rogerdudler.github.io/git-guide/) ⭐️
+- [Oh Shit, Git!?!](https://ohshitgit.com/) (undoing stuff with git) ⭐️
+- [Git Command Explorer](https://gitexplorer.com/) ⭐️
+- [GitHub Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+- [Omar Sharaki: Git Commands to Live By](https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139)
+- [UltimateGitResource](https://github.com/GoldinGuy/UltimateGitResource)
+
+## Regular Expressions
+
+- [Regex101](https://regex101.com/) (test regular expressions) ⭐️
+- [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) ⭐️
+- [StackOverflow: Reference - What does this regex mean?](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
+
+## Time Complexity
+
 - [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
 - [Python Time Complexity](https://wiki.python.org/moin/TimeComplexity)
-- [How to Center in CSS](http://howtocenterincss.com/)
-- [Regex101](https://regex101.com/) (test regular expressions)
-- [Linux man pages online](https://man7.org/linux/man-pages/index.html) (bash command manuals)
-- [VimAwesome](https://vimawesome.com/) (cool Vim plugins)
-- [MDN Web Docs: HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [Choose a License](https://choosealicense.com/) (guide to different types of open source licenses)
-- [Git Docs](https://git-scm.com/doc)
 
 ## GitHub Pages
 
-- [GitHub Metadata](https://jekyll.github.io/github-metadata/site.github/)
 - [GitHub Pages Docs](https://docs.github.com/en/pages)
 - [Jekyll Docs](https://jekyllrb.com/docs/)
+- [GitHub Metadata](https://jekyll.github.io/github-metadata/site.github/)
 
-# Recruiting
+## Other
+
+- [Choose a License](https://choosealicense.com/) (guide to different types of open source licenses) ⭐️
+- [Markdown Guide](https://www.markdownguide.org/) ⭐️
+- [Make a README](https://www.makeareadme.com/) ⭐️
+- [Basic Editing in Visual Studio Code](https://code.visualstudio.com/docs/editor/codebasics)
+- [VimAwesome](https://vimawesome.com/) (cool Vim plugins)
+
+# 🤝 Recruiting
+
+## General
 
 - [Association of Women in EECS at Berkeley: Resources Portal](https://www.notion.so/aweberkeley/AWE-Resources-Portal-4e3dd8492e2f445e9a6f6c1248ad0c4f)
 - [Web Development at Berkeley: Industry Resources](https://www.notion.so/Industry-Resources-2ca6a1d1ee9e4ae98c5ab325c0eed5e2)
@@ -182,7 +221,7 @@ TODO star good resources ⭐️
 
 ## Technical Interviewing
 
-- [Leetcode](https://leetcode.com/)
+- [Leetcode](https://leetcode.com/) ⭐
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeSignal](https://codesignal.com/)
 - [BinarySearch](https://binarysearch.com/) (collaborative)
@@ -213,15 +252,21 @@ TODO star good resources ⭐️
 - [CodinGame](https://www.codingame.com/start) (coding challenges, but game-ified)
 - [Vim Golf](http://www.vimgolf.com/) (complete Vim challenges and try to do them in the fewest number of keystrokes)
 
-# Community and Misc
+# 🤠 Community and Misc
 
-- [Steven Jeuris: CamelCase vs underscores: Scientific showdown](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
+## Blogs
+
+- [Gordon Zhu: How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) ⭐
+- [Edward Angert: Emacs, Nano, or Vim: Choose your Terminal-Based Text Editor Wisely](https://medium.com/linode-cube/emacs-nano-or-vim-choose-your-terminal-based-text-editor-wisely-8f3826c92a68)
 - [Adam Towers: How to Customize Your Terminal and BASH Profile from Scratch](https://medium.com/@adamtowers/how-to-customize-your-terminal-and-bash-profile-from-scratch-9ab079256380)
 - [Git shell coloring](https://gist.github.com/vratiu/9780109)
-- [Edward Angert: Emacs, Nano, or Vim: Choose your Terminal-Based Text Editor Wisely](https://medium.com/linode-cube/emacs-nano-or-vim-choose-your-terminal-based-text-editor-wisely-8f3826c92a68)
-- [Embed like Gist](https://emgithub.com/)
-- [GitHub Education](https://education.github.com/) (get the student developer pack (aka a bunch of free stuff) here!)
-- [Gordon Zhu: How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603)
-- [HTTP Status Dogs](https://httpstatusdogs.com/) (HTTP status codes + dogs. because why not?)
+- [Steven Jeuris: CamelCase vs underscores: Scientific showdown](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
 
-TODO reddit saved posts/comments
+## Misc
+
+- [GitHub Education](https://education.github.com/) (get the student developer pack (aka a bunch of free stuff) here!) ⭐
+- [r/cscareerquestions](https://reddit.com/r/cscareerquestions)
+- [HTTP Status Dogs](https://httpstatusdogs.com/) (HTTP status codes + dogs. because why not?)
+- [Embed like Gist](https://emgithub.com/)
+
+*This page was last modified: 23 Jan 2022*

@@ -52,6 +52,7 @@ header_pages:
  - about.md
  - resume.html
  - contact.md
+ - resources.md
  - credits.md
 
 # Build settings
