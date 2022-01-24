@@ -29,8 +29,18 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 
 ## 💼 Experience
 
-### Incoming Software Engineer Intern at [Bloomberg](https://www.bloomberg.com/company)
+### Software Engineer Intern at [Bloomberg](https://www.bloomberg.com/company)
 May 2022 - Aug 2022 | New York, NY
+
+### Junior Mentor at [Computer Science Mentors](https://csmentors.berkeley.edu)
+Jan 2022 - Present | Berkeley, CA
+
+- Taught weekly sections to support students taking CS 88: Computational Structures in Data Science at UC Berkeley
+
+### Academic Intern for [CS 61A at UC Berkeley](https://cs61a.org)
+Jan 2022 - Present | Berkeley, CA
+
+- Answered student questions during lab sections and/or office hours for CS 61A: Structure and Interpretation of Computer Programs
 
 ### Client Software Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
 Sep 2021 - Present | Berkeley, CA
