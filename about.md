@@ -40,7 +40,7 @@ Jan 2022 - Present | Berkeley, CA
 ### Academic Intern for [CS 61A at UC Berkeley](https://cs61a.org)
 Jan 2022 - Present | Berkeley, CA
 
-- Answered student questions during lab sections and/or office hours for CS 61A: Structure and Interpretation of Computer Programs
+- Answered student questions during weekly lab sections for CS 61A: Structure and Interpretation of Computer Programs
 
 ### Client Software Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
 Sep 2021 - Present | Berkeley, CA
