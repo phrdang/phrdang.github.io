@@ -56,10 +56,15 @@ permalink: /resources
 - [Crash Course: Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [Association of Women in EECS at Berkeley: Technical Skill Development](https://www.notion.so/Technical-Skill-Development-717b07500b9849a2a12694af6d3d5566)
 - [Code.org](https://code.org)
+- [edX: Computer Science](https://www.edx.org/learn/computer-programming)
+- [Coursera: Computer Science](https://www.coursera.org/browse/computer-science)
+- [Udemy: Development](https://www.udemy.com/courses/development/)
+- [LinkedIn Learning](https://www.linkedin.com/learning/)
+  - Note: Some universities may provide access to this for free
 
 ## General: Classes
 
-- [Girls Who Code](https://girlswhocode.com/)
+- [Girls Who Code](https://girlswhocode.com/) ⭐
 - [Code 4 Tomorrow](https://code4tomorrow.org)
 - [MIT Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (practical software engineering skills, e.g. bash, Git, Vim) ⭐
 - [College Compendium](https://collegecompendium.org/) (audit university CS classes)
