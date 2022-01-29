@@ -42,6 +42,7 @@ permalink: /resources
   - [Coding For Fun / Practice / Fundamentals](#coding-for-fun--practice--fundamentals)
 - [🤠 Community and Misc](#-community-and-misc)
   - [Blogs](#blogs)
+  - [Asking for Help](#asking-for-help)
   - [Misc](#misc)
 
 # 🍎 Learning to Code
@@ -256,11 +257,18 @@ permalink: /resources
 
 ## Blogs
 
-- [Gordon Zhu: How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) ⭐
 - [Edward Angert: Emacs, Nano, or Vim: Choose your Terminal-Based Text Editor Wisely](https://medium.com/linode-cube/emacs-nano-or-vim-choose-your-terminal-based-text-editor-wisely-8f3826c92a68)
 - [Adam Towers: How to Customize Your Terminal and BASH Profile from Scratch](https://medium.com/@adamtowers/how-to-customize-your-terminal-and-bash-profile-from-scratch-9ab079256380)
 - [Git shell coloring](https://gist.github.com/vratiu/9780109)
 - [Steven Jeuris: CamelCase vs underscores: Scientific showdown](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
+
+## Asking for Help
+
+- [Gordon Zhu: How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) ⭐
+- [The XY Problem](https://xyproblem.info/)
+- [StackOverflow: How do I ask a good question?](https://stackoverflow.com/help/how-to-ask)
+- [Amy Hoy: Help Vampires: A Spotter's Guide](https://slash7.com/2006/12/22/vampires/)
+- [Mattia Maldini: The Plague of Help Vampire Hunters](https://medium.com/swlh/the-plague-of-help-vampire-hunters-73bd49236c2a)
 
 ## Misc
 
