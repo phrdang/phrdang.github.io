@@ -39,6 +39,7 @@ permalink: /resources
   - [Technical Interviewing](#technical-interviewing)
   - [Interviewing in General](#interviewing-in-general)
   - [Job Postings](#job-postings)
+  - [First/Second-Year Programs/Internships](#firstsecond-year-programsinternships)
   - [Coding For Fun / Practice / Fundamentals](#coding-for-fun--practice--fundamentals)
 - [🤠 Community and Misc](#-community-and-misc)
   - [Blogs](#blogs)
@@ -216,7 +217,6 @@ permalink: /resources
 
 ## General
 
-- [Association of Women in EECS at Berkeley: Resources Portal](https://www.notion.so/aweberkeley/AWE-Resources-Portal-4e3dd8492e2f445e9a6f6c1248ad0c4f)
 - [Web Development at Berkeley: Industry Resources](https://www.notion.so/Industry-Resources-2ca6a1d1ee9e4ae98c5ab325c0eed5e2)
 - [Steph's Guide to Landing Internships](https://www.notion.so/stephsu/Steph-s-Guide-to-Landing-Internships-5b0e1863e9784fddaf37add2a6f744ff)
 
@@ -243,6 +243,11 @@ permalink: /resources
 - [AngelList](https://angel.co/jobs) (startups)
 - [AnitaB Technology Jobs](https://careercenter.anitab.org/) (women in tech)
 - [Outreachy](https://www.outreachy.org/) (provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living)
+- [Idealist](https://www.idealist.org/en/) (tech for social good, volunteering)
+
+## First/Second-Year Programs/Internships
+
+TODO add
 
 ## Coding For Fun / Practice / Fundamentals
 
