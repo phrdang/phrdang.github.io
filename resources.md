@@ -37,10 +37,13 @@ permalink: /resources
 - [🤝 Recruiting](#-recruiting)
   - [General](#general-1)
   - [Technical Interviewing](#technical-interviewing)
-  - [Interviewing in General](#interviewing-in-general)
-  - [Job Postings](#job-postings)
+  - [Job Postings and Cool Programs](#job-postings-and-cool-programs)
+    - [First/Second Year/Minimal Experience/University Programs](#firstsecond-yearminimal-experienceuniversity-programs)
+    - [Fellowships](#fellowships)
   - [Coding For Fun / Practice / Fundamentals](#coding-for-fun--practice--fundamentals)
+  - [Compensation, Salary, Negotiation](#compensation-salary-negotiation)
 - [🤠 Community and Misc](#-community-and-misc)
+  - [Hackathons](#hackathons)
   - [Blogs](#blogs)
   - [Asking for Help](#asking-for-help)
   - [Misc](#misc)
@@ -221,9 +224,9 @@ permalink: /resources
 
 ## General
 
-- [Association of Women in EECS at Berkeley: Resources Portal](https://www.notion.so/aweberkeley/AWE-Resources-Portal-4e3dd8492e2f445e9a6f6c1248ad0c4f)
 - [Web Development at Berkeley: Industry Resources](https://www.notion.so/Industry-Resources-2ca6a1d1ee9e4ae98c5ab325c0eed5e2)
 - [Steph's Guide to Landing Internships](https://www.notion.so/stephsu/Steph-s-Guide-to-Landing-Internships-5b0e1863e9784fddaf37add2a6f744ff)
+- [Cram](https://www.cram.com/subjects/interview)
 
 ## Technical Interviewing
 
@@ -236,18 +239,44 @@ permalink: /resources
 - [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.crackingthecodinginterview.com/) (book)
 - [Instructions for the interviewer](https://hackmd.io/ekflQ-myQv6_0r7bsxGbgQ#) (good reference for what interviewers are thinking)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
-  
-## Interviewing in General
 
-- [Cram](https://www.cram.com/subjects/interview)
-- [Candor: Salary negotiation strategies everyone in tech already knows — but you don’t](https://candor.co/guides/salary-negotiation)
+## Job Postings and Cool Programs
 
-## Job Postings
+*Note: Some companies have "talent communities" you can join or job alerts you can sign up for if you want notifications about open positions or if you want to drop your resume.*
 
 - [LinkedIn](https://www.linkedin.com/)
 - [AngelList](https://angel.co/jobs) (startups)
 - [AnitaB Technology Jobs](https://careercenter.anitab.org/) (women in tech)
 - [Outreachy](https://www.outreachy.org/) (provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living)
+- [Include](https://www.include.io/) (inclusive recruiting)
+- [Pitt Computer Science Club (CSC): Summer 2022 Internships](https://github.com/pittcsc/Summer2022-Internships)
+- [Girls Who Code Summer Immersion Program](https://jobs.lever.co/girlswhocode?team=Summer%20Programs) (teaching opportunity)
+  - If you're part of Girls Who Code, they also have an email job blast
+
+### First/Second Year/Minimal Experience/University Programs
+
+*Note: Generally, large companies with career pages on their websites may have an "early career" or "university" subpage which contains these types of programs! The list below is by no means exhaustive.*
+
+- [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/)
+- [Meta University (formerly Facebook University)](https://www.metacareers.com/careerprograms/pathways/metauniversity)
+- [Twitter Early Career (Twitter Academy, First Flight, Early Bird, Take Flight, DevelopHER)](https://careers.twitter.com/en/early-career.html)
+- [Dropbox Launch](https://www.dropbox.com/jobs/teams/emerging-talent)
+- [Pinterest Apprenticeship & Development Programs](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/)
+- [Uber Career Prep Program](https://www.hiddengeniusproject.org/ubercareerprep/)
+- [EY Student Programs](https://www.ey.com/en_us/careers/student-programs)
+- [Jane Street Immersion Program (JSIP)](https://www.janestreet.com/join-jane-street/our-programs/jsip/)
+- [Summer of Bitcoin](https://www.summerofbitcoin.org/)
+- [Palantir Path](https://www.palantir.com/careers/students/path/)
+- [NVIDIA Ignite](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)
+- [Square Code Camp](https://squareup.com/us/en/code-camp)
+
+### Fellowships
+
+- [MLH Fellowship](https://fellowship.mlh.io/)
+- [Coding It Forward Fellowships](https://www.codingitforward.com/summer-fellowships) (US government)
+  - Has an email job blast anyone can sign up for
+- [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/)
+- [X-Force Fellowship](https://www.nsin.mil/x-force/) (security, US military)
 
 ## Coding For Fun / Practice / Fundamentals
 
@@ -258,7 +287,20 @@ permalink: /resources
 - [CodinGame](https://www.codingame.com/start) (coding challenges, but game-ified)
 - [Vim Golf](http://www.vimgolf.com/) (complete Vim challenges and try to do them in the fewest number of keystrokes)
 
+## Compensation, Salary, Negotiation
+
+- [Candor: Salary negotiation strategies everyone in tech already knows — but you don’t](https://candor.co/guides/salary-negotiation)
+- [Emile Petrone: Financial Advice](https://github.com/emilepetrone/financial_advice)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [Levels.fyi](https://www.levels.fyi/)
+- [Glassdoor](https://www.glassdoor.com/)
+
 # 🤠 Community and Misc
+
+## Hackathons
+
+- [Major League Hacking (MLH)](https://mlh.io)
+- [Devpost](https://devpost.com/)
 
 ## Blogs
 
@@ -281,5 +323,3 @@ permalink: /resources
 - [r/cscareerquestions](https://reddit.com/r/cscareerquestions)
 - [HTTP Status Dogs](https://httpstatusdogs.com/) (HTTP status codes + dogs. because why not?)
 - [Embed like Gist](https://emgithub.com/)
-
-*This page was last modified: 23 Jan 2022*
