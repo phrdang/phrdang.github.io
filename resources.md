@@ -294,6 +294,11 @@ permalink: /resources
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [Levels.fyi](https://www.levels.fyi/)
 - [Glassdoor](https://www.glassdoor.com/)
+- [AngelList Startup Salaries](https://angel.co/salaries)
+- [LinkedIn Salaries](https://www.linkedin.com/salary/)
+- [Salary.com](https://www.salary.com/)
+- [Payscale](https://www.payscale.com/)
+- [UC Berkeley Career Center Survey](https://career.berkeley.edu/survey/survey)
 
 # 🤠 Community and Misc
 
