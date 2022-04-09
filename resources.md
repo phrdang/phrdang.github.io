@@ -252,6 +252,7 @@ permalink: /resources
 - [Pitt Computer Science Club (CSC): Summer 2022 Internships](https://github.com/pittcsc/Summer2022-Internships)
 - [Girls Who Code Summer Immersion Program](https://jobs.lever.co/girlswhocode?team=Summer%20Programs) (teaching opportunity)
   - If you're part of Girls Who Code, they also have an email job blast
+- [MLH Career Lab](https://careerlab.mlh.io/)
 
 ### First/Second Year/Minimal Experience/University Programs
 
