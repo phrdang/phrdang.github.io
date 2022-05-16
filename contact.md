@@ -8,7 +8,6 @@ permalink: /contact
 
 - [rdang@berkeley.edu](mailto:rdang@berkeley.edu)
 - [rebeccad@code4tomorrow.org](mailto:rebeccad@code4tomorrow.org)
-- [rdang@aurorasolar.com](mailto:rdang@aurorasolar.com)
 
 ## 👋 Socials
 
