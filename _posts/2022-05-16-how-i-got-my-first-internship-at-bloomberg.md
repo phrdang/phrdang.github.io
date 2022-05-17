@@ -8,12 +8,12 @@ Here's how I got my first software engineering internship (and my first job) at 
 
 #### Table of Contents
 
-- [The movivation](#the-movivation)
+- [The motivation](#the-motivation)
 - [The preparation](#the-preparation)
 - [The applications](#the-applications)
 - [The interviews](#the-interviews)
 
-## The movivation
+## The motivation
 
 I just wanted to preface this post by saying that the main reason why I wanted to write this was not to brag about how I got an internship, but rather to (1) reflect on how I got an internship so I can continuously improve and (2) so that I can help other people get CS internships. I also wanted to preface this post by saying that each person's experience getting into software engineering will be different so take my advice and experience with a grain of salt.
 
