@@ -125,6 +125,7 @@ permalink: /resources
 - [Computer Science Visualizations](https://youtube.com/playlist?list=PL2aHrV9pFqNRS2b2XX2BvgQIPKh72xREP) (sorting algorithms, Halting Problem)
 - [Code.org: How the Internet Works](https://youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 - [Runestone Academy](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) (open source, interactive textbooks)
+- [Learn Crypto](https://learncrypto.com/)
 
 # 💻 Writing Code
 
@@ -331,3 +332,4 @@ permalink: /resources
 - [r/cscareerquestions](https://reddit.com/r/cscareerquestions)
 - [HTTP Status Dogs](https://httpstatusdogs.com/) (HTTP status codes + dogs. because why not?)
 - [Embed like Gist](https://emgithub.com/)
+- [Terry D. Johnson: Advice for first year undergraduate engineers](https://docs.google.com/document/d/19UJ1IesSjN9B9sQn2IEM9baQV-E-oMveiM9WSLBcI8s/edit)
