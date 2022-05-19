@@ -40,4 +40,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "webrick"
 
-gem "nokogiri", ">= 1.13.4"
+gem "nokogiri", ">= 1.13.5"
