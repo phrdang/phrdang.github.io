@@ -23,7 +23,7 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 
 | School | Dates | Major | GPA | Relevant Coursework |
 |--------|-------|-------|-----|------------------|
-| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | 3.9 | - Structure and Interpretation of Computer Programs (Python) <br>- Spring 2022: Data Structures (Java) |
+| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | 3.9 | - Structure and Interpretation of Computer Programs (Python) <br>- Data Structures (Java) |
 | Evergreen Valley College | Jun 2019 - Jul 2020 | N/A (dual enrollment during high school) | 4.0 | - Discrete Structures <br>- Intro to Data Structures (Java) <br>- Intro to Program Structures (Java) <br>- Program Design & Development (Python) |
 | Evergreen Valley High School | Aug 2017 - Jun 2021 | N/A | 4.0 (Valedictorian) | - Database Design and SQL Programming <br>- AP Calculus BC <br>- AP Calculus AB |
 
@@ -32,20 +32,25 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 ### Software Engineer Intern at [Bloomberg](https://www.bloomberg.com/company)
 May 2022 - Aug 2022 | New York, NY
 
-### Junior Mentor at [Computer Science Mentors](https://csmentors.berkeley.edu)
-Jan 2022 - Present | Berkeley, CA
-
-- Taught weekly sections to support students taking CS 88: Computational Structures in Data Science at UC Berkeley
-
-### Academic Intern for [CS 61A at UC Berkeley](https://cs61a.org)
-Jan 2022 - Present | Berkeley, CA
-
-- Answered student questions during weekly lab sections for CS 61A: Structure and Interpretation of Computer Programs
+- Engineering Web, Internal Apps, Law & Data Department
 
 ### Client Software Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
 Sep 2021 - Present | Berkeley, CA
 
-- Redesigned [Aurora Solar](https://www.aurorasolar.com/)'s admin portal (for more info see [Projects](#-projects))
+- Spring 2022: Creating [Bill.com](https://www.bill.com)’s developer portal using React; Material UI; AWS Amplify, Cognito, DynamoDB, & Lambda; and Google OAuth
+- Fall 2021: Rebuilt [Aurora Solar](https://www.aurorasolar.com)’s admin portal using React and blueprint.js; implemented end-to-end testing using Cypress
+
+### Senior Mentor at [Computer Science Mentors](https://csmentors.berkeley.edu)
+Jan 2022 - Present | Berkeley, CA
+
+- Taught weekly sections to support students taking [CS 88](https://cs88-website.github.io): Computational Structures in Data Science at UC Berkeley
+- Topics covered include Python, control, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
+
+### Academic Intern for [CS 61A at UC Berkeley](https://cs61a.org)
+Jan 2022 - May 2022 | Berkeley, CA
+
+- Answered student questions during weekly lab sections for CS 61A: Structure and Interpretation of Computer Programs
+- Topics covered include Python, control, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, SQL, Scheme, interpreters, regular expressions, and Backus-Naur Form
 
 ### Mentor & Former Vice President at Code 4 Tomorrow
 Apr 2020 - Present | Remote
@@ -78,13 +83,6 @@ Aug 2018 – Feb 2021 | San Jose, CA
 
 ## 🔭 Projects
 
-### [Berkeley Codebase](https://codebase.berkeley.edu): Aurora Solar
-Sep 2021 - Dec 2021
-
-- Redesigned [Aurora Solar](https://www.aurorasolar.com/)'s admin portal with:
-  - Frontend: [React](https://reactjs.org/), [blueprint.js](https://blueprintjs.com/)
-  - Testing: [Cypress](https://www.cypress.io/)
-
 ### Enoch Bot
 Aug 2020 – Sep 2021
 
@@ -114,15 +112,19 @@ Jan 2019
 - Java
 - Git
 - GitHub
+- Writing documentation
 
 ### Familiar
 
+- React
+- SQL
+- JavaScript
 - HTML
 - CSS
-- JavaScript
-- React
 - blueprint.js
-- SQL
+- Material UI
+- Continuous integration
+- Scheme
 
 ## 🌱 I’m currently learning ...
 
