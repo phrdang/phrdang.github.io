@@ -64,6 +64,7 @@ permalink: /resources
 - [Udemy: Development](https://www.udemy.com/courses/development/)
 - [LinkedIn Learning](https://www.linkedin.com/learning/)
   - Note: Some universities may provide access to this for free
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 ## General: Classes
 
