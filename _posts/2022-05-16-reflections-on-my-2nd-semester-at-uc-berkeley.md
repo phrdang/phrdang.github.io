@@ -9,3 +9,4 @@ TODO
 link to previous post
 
 1. priorities - you can choose them.
+2. take advantage of free @berkeley.edu software and access (e.g. WSJ+, Adobe products)
