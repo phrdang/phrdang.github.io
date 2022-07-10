@@ -64,6 +64,7 @@ permalink: /resources
 - [Udemy: Development](https://www.udemy.com/courses/development/)
 - [LinkedIn Learning](https://www.linkedin.com/learning/)
   - Note: Some universities may provide access to this for free
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 ## General: Classes
 
@@ -268,11 +269,19 @@ permalink: /resources
 - [Pinterest Apprenticeship & Development Programs](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/)
 - [Uber Career Prep Program](https://www.hiddengeniusproject.org/ubercareerprep/)
 - [EY Student Programs](https://www.ey.com/en_us/careers/student-programs)
-- [Jane Street Immersion Program (JSIP)](https://www.janestreet.com/join-jane-street/our-programs/jsip/)
+- [Jane Street Programs](https://www.janestreet.com/join-jane-street/our-programs/)
 - [Summer of Bitcoin](https://www.summerofbitcoin.org/)
 - [Palantir Path](https://www.palantir.com/careers/students/path/)
 - [NVIDIA Ignite](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)
 - [Square Code Camp](https://squareup.com/us/en/code-camp)
+- Girls Who Code
+  - [Summer Immersion Program](https://girlswhocode.com/programs/summer-immersion-program) (for high schoolers)
+  - [Self-Paced Program](https://girlswhocode.com/programs/summer-immersion-program) (for high schoolers)
+  - [Work Prep](https://girlswhocode.zendesk.com/hc/en-us/categories/4681185195291-Workforce-Programs-)
+  - [Leadership Academy](https://girlswhocode.zendesk.com/hc/en-us/categories/4681185195291-Workforce-Programs-)
+  - [Lyft Early Talent Access (ETA) Program - Summer 2022](https://boards.greenhouse.io/lyft/jobs/6147494002?gh_jid=6147494002)
+- [AnitaB Apprenticeship Pathway Program](https://anitab.org/audience/individuals/#) (for underrepresented groups in tech)
+- [Myntor](https://www.myntor.io/jobs) (high school jobs/internships)
 
 ### Fellowships
 
@@ -333,3 +342,4 @@ permalink: /resources
 - [HTTP Status Dogs](https://httpstatusdogs.com/) (HTTP status codes + dogs. because why not?)
 - [Embed like Gist](https://emgithub.com/)
 - [Terry D. Johnson: Advice for first year undergraduate engineers](https://docs.google.com/document/d/19UJ1IesSjN9B9sQn2IEM9baQV-E-oMveiM9WSLBcI8s/edit)
+- [Hacker Typer](https://hackertyper.netlify.app/) (feel like a hacker without being one)
