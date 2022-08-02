@@ -33,6 +33,10 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 May 2022 - Aug 2022 | New York, NY
 
 - Engineering Web, Internal Apps, Law & Data Department
+- Bloomberg Law (BLAW) Platform Enablement Team
+- Tech Stack Used: Ruby on Rails, Caddy, Istio, Redis, Sinatra
+- Project name: Authorization Service for BLAW API Gateway
+- Description: Integrated an authorization service, BLAW's Draft Analyzer API, and the core BLAW code base on a test environment in Bloomberg's in-house CI/CD web app. This authorization service is hit by an API Gateway in order to authorize user requests to [bloomberglaw.com](https://bloomberglaw.com)
 
 ### Client Software Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
 Sep 2021 - Present | Berkeley, CA
@@ -106,16 +110,11 @@ Jan 2019
 
 ## 👩🏻‍🎓 Skills
 
-### Proficient
-
 - Python
 - Java
 - Git
 - GitHub
 - Writing documentation
-
-### Familiar
-
 - React
 - SQL
 - JavaScript
@@ -125,6 +124,9 @@ Jan 2019
 - Material UI
 - Continuous integration
 - Scheme
+- Ruby on Rails
+- Caddy
+- Redis
 
 ## 🌱 I’m currently learning ...
 
