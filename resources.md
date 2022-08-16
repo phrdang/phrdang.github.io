@@ -343,3 +343,4 @@ permalink: /resources
 - [Embed like Gist](https://emgithub.com/)
 - [Terry D. Johnson: Advice for first year undergraduate engineers](https://docs.google.com/document/d/19UJ1IesSjN9B9sQn2IEM9baQV-E-oMveiM9WSLBcI8s/edit)
 - [Hacker Typer](https://hackertyper.netlify.app/) (feel like a hacker without being one)
+- [Google Site Reliability Engineering Book](https://sre.google/sre-book/table-of-contents/)
