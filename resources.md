@@ -37,13 +37,15 @@ permalink: /resources
 - [🤝 Recruiting](#-recruiting)
   - [General](#general-1)
   - [Technical Interviewing](#technical-interviewing)
-  - [Interviewing in General](#interviewing-in-general)
-  - [Job Postings](#job-postings)
+  - [Job Postings and Cool Programs](#job-postings-and-cool-programs)
     - [First/Second Year/Minimal Experience/University Programs](#firstsecond-yearminimal-experienceuniversity-programs)
     - [Fellowships](#fellowships)
   - [Coding For Fun / Practice / Fundamentals](#coding-for-fun--practice--fundamentals)
+  - [Compensation, Salary, Negotiation](#compensation-salary-negotiation)
 - [🤠 Community and Misc](#-community-and-misc)
+  - [Hackathons](#hackathons)
   - [Blogs](#blogs)
+  - [Asking for Help](#asking-for-help)
   - [Misc](#misc)
 
 # 🍎 Learning to Code
@@ -57,10 +59,16 @@ permalink: /resources
 - [Crash Course: Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [Association of Women in EECS at Berkeley: Technical Skill Development](https://www.notion.so/Technical-Skill-Development-717b07500b9849a2a12694af6d3d5566)
 - [Code.org](https://code.org)
+- [edX: Computer Science](https://www.edx.org/learn/computer-programming)
+- [Coursera: Computer Science](https://www.coursera.org/browse/computer-science)
+- [Udemy: Development](https://www.udemy.com/courses/development/)
+- [LinkedIn Learning](https://www.linkedin.com/learning/)
+  - Note: Some universities may provide access to this for free
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 ## General: Classes
 
-- [Girls Who Code](https://girlswhocode.com/)
+- [Girls Who Code](https://girlswhocode.com/) ⭐
 - [Code 4 Tomorrow](https://code4tomorrow.org)
 - [MIT Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (practical software engineering skills, e.g. bash, Git, Vim) ⭐
 - [College Compendium](https://collegecompendium.org/) (audit university CS classes)
@@ -223,6 +231,7 @@ permalink: /resources
 - If you are part of the Association of Women in EECS at UC Berkeley, check out the AWE Resources Portal ⭐️ (not linked here because it is internal only)
 - [Web Development at Berkeley: Industry Resources](https://www.notion.so/Industry-Resources-2ca6a1d1ee9e4ae98c5ab325c0eed5e2)
 - [Steph's Guide to Landing Internships](https://www.notion.so/stephsu/Steph-s-Guide-to-Landing-Internships-5b0e1863e9784fddaf37add2a6f744ff)
+- [Cram](https://www.cram.com/subjects/interview)
 
 ## Technical Interviewing
 
@@ -237,13 +246,10 @@ permalink: /resources
 - [Instructions for the interviewer](https://hackmd.io/ekflQ-myQv6_0r7bsxGbgQ#) (good reference for what interviewers are thinking)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
 - [Online Assessments and interviews guide](https://github.com/Leader-board/OA-and-Interviews)
-  
-## Interviewing in General
 
-- [Cram](https://www.cram.com/subjects/interview)
-- [Candor: Salary negotiation strategies everyone in tech already knows — but you don’t](https://candor.co/guides/salary-negotiation)
+## Job Postings and Cool Programs
 
-## Job Postings
+*Note: Some companies have "talent communities" you can join or job alerts you can sign up for if you want notifications about open positions or if you want to drop your resume.*
 
 - [LinkedIn](https://www.linkedin.com/)
 - [AngelList](https://angel.co/jobs) (startups)
@@ -251,7 +257,7 @@ permalink: /resources
 - [Outreachy](https://www.outreachy.org/) (provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living)
 - [Include](https://www.include.io/) (inclusive recruiting)
 - [Idealist](https://www.idealist.org/en/) (tech for social good, volunteering)
-- [Pitt Computer Science Club (CSC): Summer 2022 Internships](https://github.com/pittcsc/Summer2022-Internships)
+- [Pitt Computer Science Club (CSC): Summer Internships](https://github.com/pittcsc/Summer2023-Internships)
 - [Girls Who Code Summer Immersion Program](https://jobs.lever.co/girlswhocode?team=Summer%20Programs) (teaching opportunity)
   - If you're part of Girls Who Code, they also have an email job blast
 - [MLH Career Lab](https://careerlab.mlh.io/)
@@ -299,15 +305,40 @@ permalink: /resources
 - [CodinGame](https://www.codingame.com/start) (coding challenges, but game-ified)
 - [Vim Golf](http://www.vimgolf.com/) (complete Vim challenges and try to do them in the fewest number of keystrokes)
 
+## Compensation, Salary, Negotiation
+
+- [Candor: Salary negotiation strategies everyone in tech already knows — but you don’t](https://candor.co/guides/salary-negotiation)
+- [Emile Petrone: Financial Advice](https://github.com/emilepetrone/financial_advice)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [Levels.fyi](https://www.levels.fyi/)
+- [Glassdoor](https://www.glassdoor.com/)
+- [AngelList Startup Salaries](https://angel.co/salaries)
+- [LinkedIn Salaries](https://www.linkedin.com/salary/)
+- [Salary.com](https://www.salary.com/)
+- [Payscale](https://www.payscale.com/)
+- [UC Berkeley Career Center Survey](https://career.berkeley.edu/survey/survey)
+
 # 🤠 Community and Misc
+
+## Hackathons
+
+- [Major League Hacking (MLH)](https://mlh.io)
+- [Devpost](https://devpost.com/)
 
 ## Blogs
 
-- [Gordon Zhu: How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) ⭐
 - [Edward Angert: Emacs, Nano, or Vim: Choose your Terminal-Based Text Editor Wisely](https://medium.com/linode-cube/emacs-nano-or-vim-choose-your-terminal-based-text-editor-wisely-8f3826c92a68)
 - [Adam Towers: How to Customize Your Terminal and BASH Profile from Scratch](https://medium.com/@adamtowers/how-to-customize-your-terminal-and-bash-profile-from-scratch-9ab079256380)
 - [Git shell coloring](https://gist.github.com/vratiu/9780109)
 - [Steven Jeuris: CamelCase vs underscores: Scientific showdown](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
+
+## Asking for Help
+
+- [Gordon Zhu: How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) ⭐
+- [The XY Problem](https://xyproblem.info/)
+- [StackOverflow: How do I ask a good question?](https://stackoverflow.com/help/how-to-ask)
+- [Amy Hoy: Help Vampires: A Spotter's Guide](https://slash7.com/2006/12/22/vampires/)
+- [Mattia Maldini: The Plague of Help Vampire Hunters](https://medium.com/swlh/the-plague-of-help-vampire-hunters-73bd49236c2a)
 
 ## Misc
 
