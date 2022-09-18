@@ -140,6 +140,7 @@ permalink: /resources
 - [Glitch](https://glitch.com) (write full stack web apps)
 - [Google Colaboratory](https://colab.research.google.com)
 - [Scratch](https://scratch.mit.edu)
+- [code.cs61a.org](https://code.cs61a.org/) (made for UC Berkeley's [CS 61A](https://cs61a.org) course; allows you to write code for Python, SQL, and Scheme. Also has nice SQL visualizations and linked list visualizations)
 
 # 📖 Documentation and Reference
 
@@ -182,7 +183,7 @@ permalink: /resources
 
 - [Git Docs](https://git-scm.com/doc) ⭐️
 - [Roger Dudler: git - the simple guide](https://rogerdudler.github.io/git-guide/) ⭐️
-- [Oh Shit, Git!?!](https://ohshitgit.com/) (undoing stuff with git) ⭐️
+- [Oh Shit, Git!?!](https://ohshitgit.com/)️ ⭐ (undoing stuff with git)
 - [Git Command Explorer](https://gitexplorer.com/) ⭐️
 - [GitHub Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [Omar Sharaki: Git Commands to Live By](https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139)
@@ -217,13 +218,11 @@ permalink: /resources
 
 ## General
 
-- [Association of Women in EECS at Berkeley: Resources Portal](https://www.notion.so/aweberkeley/AWE-Resources-Portal-4e3dd8492e2f445e9a6f6c1248ad0c4f)
+- [cscareers.dev](https://www.cscareers.dev/) ⭐️ - "The platform for landing your first software engineering job" according to their website
+  - [cscareers.dev Discord Server](https://cscareers.dev/discord) - Channels to check out leetcode problems by company, talk about your recruiting process, share salaries, etc.
+- If you are part of the Association of Women in EECS at UC Berkeley, check out the AWE Resources Portal ⭐️ (not linked here because it is internal only)
 - [Web Development at Berkeley: Industry Resources](https://www.notion.so/Industry-Resources-2ca6a1d1ee9e4ae98c5ab325c0eed5e2)
 - [Steph's Guide to Landing Internships](https://www.notion.so/stephsu/Steph-s-Guide-to-Landing-Internships-5b0e1863e9784fddaf37add2a6f744ff)
-- [Cram](https://www.cram.com/subjects/interview)
-- [cscareers.dev](https://www.cscareers.dev/) - "The platform for landing your first software engineering job" according to their website
-  - [cscareers.dev Discord Server](https://cscareers.dev/discord) - Channels to check out leetcode problems by company, talk about your recruiting process, share salaries, etc.
-- If you are part of the Association of Women in EECS at UC Berkeley, check out the AWE Resources Portal (not linked here because it is internal only)
 
 ## Technical Interviewing
 
@@ -312,13 +311,17 @@ permalink: /resources
 
 ## Misc
 
-- [GitHub Education](https://education.github.com/) (get the student developer pack (aka a bunch of free stuff) here!) ⭐
+- [GitHub Education](https://education.github.com/) ⭐ (get the student developer pack (aka a bunch of free stuff) here!)
+- [r/csMajors](https://reddit.com/r/csMajors)
 - [r/cscareerquestions](https://reddit.com/r/cscareerquestions)
 - [HTTP Status Dogs](https://httpstatusdogs.com/) (HTTP status codes + dogs. because why not?)
 - [Embed like Gist](https://emgithub.com/)
 - [Terry D. Johnson: Advice for first year undergraduate engineers](https://docs.google.com/document/d/19UJ1IesSjN9B9sQn2IEM9baQV-E-oMveiM9WSLBcI8s/edit)
 - [Hacker Typer](https://hackertyper.netlify.app/) (feel like a hacker without being one)
+- [Composing Programs by John DeNero](http://composingprograms.com/) (online textbook used in UC Berkeley's [CS 61A](https://cs61a.org) course)
 - [Google Site Reliability Engineering Book](https://sre.google/sre-book/table-of-contents/)
-- [Overleaf](https://www.overleaf.com/) (in-browser LaTeX editor. If you sign up with @berkeley.edu, you can get free Professional plan. They also have [documentation](https://www.overleaf.com/learn) to teach you how to use LaTeX) ⭐
+- [Overleaf](https://www.overleaf.com/) ⭐ (in-browser LaTeX editor. If you sign up with @berkeley.edu, you can get free Professional plan. They also have [documentation](https://www.overleaf.com/learn) to teach you how to use LaTeX)
 - [Detexify](http://detexify.kirelabs.org/classify.html) (draw math symbols, get LaTeX syntax)
 - [Mathpix](https://mathpix.com/) (draw math symbols, get LaTeX syntax and more)
+- [RapidTables Binary, Octal, Decimal, Hexadecimal, ASCII Converter](https://www.rapidtables.com/convert/number/hex-to-decimal.html)
+- [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
