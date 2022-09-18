@@ -39,6 +39,8 @@ permalink: /resources
   - [Technical Interviewing](#technical-interviewing)
   - [Interviewing in General](#interviewing-in-general)
   - [Job Postings](#job-postings)
+    - [First/Second Year/Minimal Experience/University Programs](#firstsecond-yearminimal-experienceuniversity-programs)
+    - [Fellowships](#fellowships)
   - [Coding For Fun / Practice / Fundamentals](#coding-for-fun--practice--fundamentals)
 - [🤠 Community and Misc](#-community-and-misc)
   - [Blogs](#blogs)
@@ -218,18 +220,24 @@ permalink: /resources
 - [Association of Women in EECS at Berkeley: Resources Portal](https://www.notion.so/aweberkeley/AWE-Resources-Portal-4e3dd8492e2f445e9a6f6c1248ad0c4f)
 - [Web Development at Berkeley: Industry Resources](https://www.notion.so/Industry-Resources-2ca6a1d1ee9e4ae98c5ab325c0eed5e2)
 - [Steph's Guide to Landing Internships](https://www.notion.so/stephsu/Steph-s-Guide-to-Landing-Internships-5b0e1863e9784fddaf37add2a6f744ff)
+- [Cram](https://www.cram.com/subjects/interview)
+- [cscareers.dev](https://www.cscareers.dev/) - "The platform for landing your first software engineering job" according to their website
+  - [cscareers.dev Discord Server](https://cscareers.dev/discord) - Channels to check out leetcode problems by company, talk about your recruiting process, share salaries, etc.
+- If you are part of the Association of Women in EECS at UC Berkeley, check out the AWE Resources Portal (not linked here because it is internal only)
 
 ## Technical Interviewing
 
 - [Leetcode](https://leetcode.com/) ⭐
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeSignal](https://codesignal.com/)
+- [Neetcode](https://neetcode.io/practice) ⭐
 - [BinarySearch](https://binarysearch.com/) (collaborative)
 - [Pramp](https://www.pramp.com/#/) (mock technical interviews)
 - [AlgoExpert](https://www.algoexpert.io/)
 - [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.crackingthecodinginterview.com/) (book)
 - [Instructions for the interviewer](https://hackmd.io/ekflQ-myQv6_0r7bsxGbgQ#) (good reference for what interviewers are thinking)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
+- [Online Assessments and interviews guide](https://github.com/Leader-board/OA-and-Interviews)
   
 ## Interviewing in General
 
@@ -242,6 +250,46 @@ permalink: /resources
 - [AngelList](https://angel.co/jobs) (startups)
 - [AnitaB Technology Jobs](https://careercenter.anitab.org/) (women in tech)
 - [Outreachy](https://www.outreachy.org/) (provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living)
+- [Include](https://www.include.io/) (inclusive recruiting)
+- [Idealist](https://www.idealist.org/en/) (tech for social good, volunteering)
+- [Pitt Computer Science Club (CSC): Summer 2022 Internships](https://github.com/pittcsc/Summer2022-Internships)
+- [Girls Who Code Summer Immersion Program](https://jobs.lever.co/girlswhocode?team=Summer%20Programs) (teaching opportunity)
+  - If you're part of Girls Who Code, they also have an email job blast
+- [MLH Career Lab](https://careerlab.mlh.io/)
+- [Startup Search](https://startupsearch.com/)
+
+### First/Second Year/Minimal Experience/University Programs
+
+*Note: Generally, large companies with career pages on their websites may have an "early career" or "university" subpage which contains these types of programs! The list below is by no means exhaustive.*
+
+- [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/)
+- [Meta University (formerly Facebook University)](https://www.metacareers.com/careerprograms/pathways/metauniversity)
+- [Twitter Early Career (Twitter Academy, First Flight, Early Bird, Take Flight, DevelopHER)](https://careers.twitter.com/en/early-career.html)
+- [Dropbox Launch](https://www.dropbox.com/jobs/teams/emerging-talent)
+- [Pinterest Apprenticeship & Development Programs](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/)
+- [Uber Career Prep Program](https://www.hiddengeniusproject.org/ubercareerprep/)
+- [EY Student Programs](https://www.ey.com/en_us/careers/student-programs)
+- [Jane Street Programs](https://www.janestreet.com/join-jane-street/our-programs/)
+- [Summer of Bitcoin](https://www.summerofbitcoin.org/)
+- [Palantir Path](https://www.palantir.com/careers/students/path/)
+- [NVIDIA Ignite](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)
+- [Square Code Camp](https://squareup.com/us/en/code-camp)
+- Girls Who Code
+  - [Summer Immersion Program](https://girlswhocode.com/programs/summer-immersion-program) (for high schoolers)
+  - [Self-Paced Program](https://girlswhocode.com/programs/summer-immersion-program) (for high schoolers)
+  - [Work Prep](https://girlswhocode.zendesk.com/hc/en-us/categories/4681185195291-Workforce-Programs-)
+  - [Leadership Academy](https://girlswhocode.zendesk.com/hc/en-us/categories/4681185195291-Workforce-Programs-)
+  - [Lyft Early Talent Access (ETA) Program - Summer 2022](https://boards.greenhouse.io/lyft/jobs/6147494002?gh_jid=6147494002)
+- [AnitaB Apprenticeship Pathway Program](https://anitab.org/audience/individuals/#) (for underrepresented groups in tech)
+- [Myntor](https://www.myntor.io/jobs) (high school jobs/internships)
+
+### Fellowships
+
+- [MLH Fellowship](https://fellowship.mlh.io/)
+- [Coding It Forward Fellowships](https://www.codingitforward.com/summer-fellowships) (US government)
+  - Has an email job blast anyone can sign up for
+- [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/)
+- [X-Force Fellowship](https://www.nsin.mil/x-force/) (security, US military)
 
 ## Coding For Fun / Practice / Fundamentals
 
@@ -268,5 +316,9 @@ permalink: /resources
 - [r/cscareerquestions](https://reddit.com/r/cscareerquestions)
 - [HTTP Status Dogs](https://httpstatusdogs.com/) (HTTP status codes + dogs. because why not?)
 - [Embed like Gist](https://emgithub.com/)
-
-*This page was last modified: 23 Jan 2022*
+- [Terry D. Johnson: Advice for first year undergraduate engineers](https://docs.google.com/document/d/19UJ1IesSjN9B9sQn2IEM9baQV-E-oMveiM9WSLBcI8s/edit)
+- [Hacker Typer](https://hackertyper.netlify.app/) (feel like a hacker without being one)
+- [Google Site Reliability Engineering Book](https://sre.google/sre-book/table-of-contents/)
+- [Overleaf](https://www.overleaf.com/) (in-browser LaTeX editor. If you sign up with @berkeley.edu, you can get free Professional plan. They also have [documentation](https://www.overleaf.com/learn) to teach you how to use LaTeX) ⭐
+- [Detexify](http://detexify.kirelabs.org/classify.html) (draw math symbols, get LaTeX syntax)
+- [Mathpix](https://mathpix.com/) (draw math symbols, get LaTeX syntax and more)
