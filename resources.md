@@ -267,7 +267,7 @@ permalink: /resources
 
 *Note: Generally, large companies with career pages on their websites may have an "early career" or "university" subpage which contains these types of programs! The list below is by no means exhaustive.*
 
-- [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/)
+- [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/) (first and second years)
 - [Meta University (formerly Facebook University)](https://www.metacareers.com/careerprograms/pathways/metauniversity)
 - [Twitter Early Career (Twitter Academy, First Flight, Early Bird, Take Flight, DevelopHER)](https://careers.twitter.com/en/early-career.html)
 - [Dropbox Launch](https://www.dropbox.com/jobs/teams/emerging-talent)
@@ -279,6 +279,7 @@ permalink: /resources
 - [Palantir Path](https://www.palantir.com/careers/students/path/)
 - [NVIDIA Ignite](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)
 - [Square Code Camp](https://squareup.com/us/en/code-camp)
+- [Duolingo Thrive](https://careers.duolingo.com/students) (second years)
 - Girls Who Code
   - [Summer Immersion Program](https://girlswhocode.com/programs/summer-immersion-program) (for high schoolers)
   - [Self-Paced Program](https://girlswhocode.com/programs/summer-immersion-program) (for high schoolers)
