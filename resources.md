@@ -221,6 +221,7 @@ permalink: /resources
 - [Make a README](https://www.makeareadme.com/) ⭐️
 - [Basic Editing in Visual Studio Code](https://code.visualstudio.com/docs/editor/codebasics)
 - [VimAwesome](https://vimawesome.com/) (cool Vim plugins)
+- [Michael Sambol YouTube Channel](https://www.youtube.com/c/MichaelSambol) (concise and easy to understand data structures videos)
 
 # 🤝 Recruiting
 
