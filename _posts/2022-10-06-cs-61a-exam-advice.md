@@ -29,7 +29,9 @@ My general advice for approaching coding questions is:
 ## 1. Understand the problem
 
 a) Read the problem text and annotate important stuff (e.g. parameter names, parameter types, what the function returns, the return type, whether the function mutates anything (you will learn mutation later)) on the template code.
+
 b) Read at least 2 of the doctests and make sure you understand how input got turned into the output. This is helpful for catching edge cases and thinking about how you might implement the function.
+
 c) You can usually tell what concept they're testing you on by reading the problem. Use this knowledge to recall common problem-solving strategies/patterns. For example, if it's a digit manipulation problem, you can probably put something like `n //= 10` somewhere (this is not guaranteed but is a good place to start).
 
 ## 2. Guesstimate and/or pseudocode
@@ -37,6 +39,7 @@ c) You can usually tell what concept they're testing you on by reading the probl
 At this point, you should have a hopefully somewhat solid understanding of the problem, even if you're not 100% sure how to implement it. From here, you can usually do one of 2 things:
 
 a) Look at the template code and guesstimate what goes in the blanks based on that, based on tip 1c, and based on the multiple choice options (if there are any).
+
 b) OR you can ignore the template code entirely (especially if you find it distracting) and then try to pseudocode your own algorithm. Then go back to the template code and try to make it fit.
 
 ## 3. Verify your solution
