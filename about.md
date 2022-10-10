@@ -19,6 +19,8 @@ Pronouns: she/her
 
 Hey there! I'm a service-minded student dedicated to academic excellence. In my free time, I like to play guitar, read fiction novels, and nerd out about the Marvel Cinematic Universe.
 
+**For my work in the CS education field, check out my [Education Portfolio](/ed-portfolio.md)!**
+
 ## 🍎 Education
 
 | School | Dates | Major | GPA | Relevant Coursework |
