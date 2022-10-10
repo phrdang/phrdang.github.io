@@ -15,6 +15,9 @@ CSM is a club on the UC Berkeley campus that organizes supplemental sections for
   - Topics covered in CS 88 include Python, control, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
 - Trained and **provided pedagogical feedback to Junior Mentors**
 - Reviewed and **revised CSM content** (e.g. worksheets, slideshows, etc.)
+- Created **walkthrough videos for past exam questions**
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLIGjbI4-Fl7Ds5Waxu8O62gVJCL7jgK_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Learn more about [CSM](https://csmentors.berkeley.edu)*
 
