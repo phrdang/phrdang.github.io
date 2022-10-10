@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 📚 Resources 
-permalink: /resources
+permalink: /resources/
 ---
 
 > Looking for a compendium of online programming-related resources? You've come to the right place!
