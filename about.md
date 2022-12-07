@@ -31,6 +31,11 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 
 ## 💼 Experience
 
+### Member of [Eta Kappa Nu, Mu Chapter (IEEE-HKN)](https://hkn.eecs.berkeley.edu)
+December 2022 - Present | Berkeley, CA
+
+- Inducted into Electrical Engineering & Computer Science Honor Society for outstanding academic performance
+
 ### Software Engineer Intern at [Bloomberg](https://www.bloomberg.com/company)
 May 2022 - Aug 2022 | New York, NY
 
@@ -38,18 +43,22 @@ May 2022 - Aug 2022 | New York, NY
 - Bloomberg Law (BLAW) Platform Enablement Team
 - Tech Stack Used: Ruby on Rails, Caddy, Istio, Redis, Sinatra
 - Project name: Authorization Service for BLAW API Gateway
-- Description: Integrated an authorization service, BLAW's Draft Analyzer API, and the core BLAW code base on a test environment in Bloomberg's in-house CI/CD web app. This authorization service is hit by an API Gateway in order to authorize user requests to [bloomberglaw.com](https://bloomberglaw.com)
+- Integrated an authorization service, BLAW’s Draft Analyzer API, and the core BLAW Ruby on Rails code base on a test environment in Bloomberg’s in-house CI/CD web app
+- This authorization service is hit by an API Gateway to authorize user requests to [bloomberglaw.com](https://bloomberglaw.com) and sped up BLAW Engineers’ application development process by removing the need to go through the core BLAW code base
 
 ### Client Software Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
 Sep 2021 - Present | Berkeley, CA
 
-- Spring 2022: Creating [Bill.com](https://www.bill.com)’s developer portal using React; Material UI; AWS Amplify, Cognito, DynamoDB, & Lambda; and Google OAuth
-- Fall 2021: Rebuilt [Aurora Solar](https://www.aurorasolar.com)’s admin portal using React and blueprint.js; implemented end-to-end testing using Cypress
+- Writing Ruby script to automatically generate financial transaction data which allows [Hummingbird](https://hummingbird.co) to test their fraud detection products without having to use private customer data
+- Created [Bill’s](https://bill.com) developer portal using React; Material UI; AWS Amplify, Cognito, DynamoDB, and Lambda; and Google OAuth, allowing developers to easily build apps with the Bill API
+- Rebuilt [Aurora Solar’s](https://aurorasolar.com) internally facing admin portal using React, blueprint.js, and Cypress, allowing employees to easily upload solar panel design files and schedule jobs
 
 ### Senior Mentor at [Computer Science Mentors](https://csmentors.berkeley.edu)
 Jan 2022 - Present | Berkeley, CA
 
 - Taught weekly sections to support students taking [CS 88](https://cs88-website.github.io): Computational Structures in Data Science at UC Berkeley
+- Created walkthrough videos for past exam problems, revised worksheets used to teach concepts, and held weekly meetings to teach
+Junior Mentors pedagogical concepts
 - Topics covered include Python, control, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
 
 ### Academic Intern for [CS 61A at UC Berkeley](https://cs61a.org)
