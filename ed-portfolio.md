@@ -6,6 +6,24 @@ permalink: /ed-portfolio/
 
 I'm interested in all things computer science, education, and computer science education! Here's some of my work and experience in that area.
 
+#### Contents
+
+- [Tutor for CS 88](#tutor-for-cs-88)
+- [Computer Science Mentors (CSM)](#computer-science-mentors-csm)
+- [CalTeach Program](#calteach-program)
+- [CS 61A Exam Advice](#cs-61a-exam-advice)
+- [Academic Intern for CS 61A](#academic-intern-for-cs-61a)
+- [CS 61B: RTFM, Defensive Programming, and Debugging](#cs-61b-rtfm-defensive-programming-and-debugging)
+- [Code 4 Tomorrow (C4T)](#code-4-tomorrow-c4t)
+- [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
+
+## Tutor for CS 88
+
+Jan 2023 - Present | Berkeley, CA
+
+- Teaching small groups, hosting review sessions, and holding office hours for [CS 88](https://c88c.org): Computational Structures in Data Science (also known as DATA C88C)
+- Topics include Python, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
+
 ## Computer Science Mentors (CSM)
 Jan 2022 - Present | Berkeley, CA
 
