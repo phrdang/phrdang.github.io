@@ -40,6 +40,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "webrick"
 
-gem "nokogiri", ">= 1.13.5"
+gem "nokogiri", ">= 1.13.10"
 
 gem "bundler-audit", "~> 0.9.1"
