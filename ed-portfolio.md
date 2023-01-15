@@ -18,7 +18,6 @@ I'm interested in all things computer science, education, and computer science e
 - [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
 
 ## Tutor for CS 88
-
 Jan 2023 - Present | Berkeley, CA
 
 - Teaching small groups, hosting review sessions, and holding office hours for [CS 88](https://c88c.org): Computational Structures in Data Science (also known as DATA C88C)

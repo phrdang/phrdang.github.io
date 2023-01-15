@@ -32,13 +32,11 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 ## 💼 Experience
 
 ### Member of [Eta Kappa Nu, Mu Chapter (IEEE-HKN)](https://hkn.eecs.berkeley.edu)
-
 December 2022 - Present | Berkeley, CA
 
 - Inducted into Electrical Engineering & Computer Science Honor Society for outstanding academic performance
 
 ### Software Engineer Intern at [Bloomberg](https://www.bloomberg.com/company)
-
 May 2022 - Aug 2022 | New York, NY
 
 - Engineering Web, Internal Apps, Law & Data Department
@@ -49,14 +47,12 @@ May 2022 - Aug 2022 | New York, NY
 - This authorization service is hit by an API Gateway to authorize user requests to [bloomberglaw.com](https://bloomberglaw.com) and sped up BLAW Engineers’ application development process by removing the need to go through the core BLAW code base
 
 ### Client Project Manager at [Berkeley Codebase](https://codebase.berkeley.edu)
-
 Dec 2022 - Present | Berkeley, CA
 
 - Sourcing companies to partner with by cold emailing 120 companies and hosting project brainstorming calls
 - Leading team of 6 software developers to build software for a high-growth company over the semester
 
 ### Client Software Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
-
 Sep 2021 - Dec 2022 | Berkeley, CA
 
 - Writing Ruby script to automatically generate financial transaction data which allows [Hummingbird](https://hummingbird.co) to test their fraud detection products without having to use private customer data
@@ -64,41 +60,35 @@ Sep 2021 - Dec 2022 | Berkeley, CA
 - Rebuilt [Aurora Solar’s](https://aurorasolar.com) internally facing admin portal using React, blueprint.js, and Cypress, allowing employees to easily upload solar panel design files and schedule jobs
 
 ### Tutor for [CS 88 at UC Berkeley](https://c88c.org)
-
 Jan 2023 - Present | Berkeley, CA
 
 - Teaching small groups, hosting review sessions, and holding office hours for CS 88: Computational Structures in Data Science (also known as DATA C88C)
 - Topics include Python, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
 
 ### CS 88 Coordinator at [Computer Science Mentors](https://csmentors.berkeley.edu)
-
 Dec 2022 - Present | Berkeley, CA
 
 - Managing 30+ weekly tutoring sections, hosting exam review sessions, reviewing weekly teaching materials (worksheets and slideshows), and interviewing candidate mentors to support students taking [CS 88](https://c88c.org): Computational Structures in Data Science at UC Berkeley
 
 ### CS 88 Senior Mentor at [Computer Science Mentors](https://csmentors.berkeley.edu)
-
 Aug 2022 - Dec 2022 | Berkeley, CA
 
 - Taught weekly tutoring sections to support students taking [CS 88](https://c88c.org): Computational Structures in Data Science at UC Berkeley
 - Revised worksheets used to teach concepts and held weekly meetings to teach Junior Mentors pedagogical concepts
 
 ### CS 88 Junior Mentor at [Computer Science Mentors](https://csmentors.berkeley.edu)
-
 Jan 2022 - May 2022 | Berkeley, CA
 
 - Taught weekly tutoring sections to support students taking [CS 88](https://c88c.org): Computational Structures in Data Science at UC Berkeley
 - Created walkthrough videos for past exam problems
 
 ### Academic Intern for [CS 61A at UC Berkeley](https://cs61a.org)
-
 Jan 2022 - May 2022 | Berkeley, CA
 
 - Answered student questions during weekly lab sections for CS 61A: Structure and Interpretation of Computer Programs
 - Topics covered include Python, control, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, SQL, Scheme, interpreters, regular expressions, and Backus-Naur Form
 
 ### Mentor & Former Vice President at [Code 4 Tomorrow](https://code4tomorrow.org)
-
 Apr 2020 - Aug 2021 | Remote
 
 - Created Java, Python, and HTML/CSS [curricula](https://code4tomorrow.org/courses); taught beginner and advanced Python courses
@@ -112,7 +102,6 @@ Apr 2020 - Aug 2021 | Remote
 - Personal Email: [rebeccad@code4tomorrow.org](mailto:rebeccad@code4tomorrow.org)
 
 ### Co-Captain at [FTC 9656 Omega](https://omegarobotics.wordpress.com) ([*FIRST* Tech Challenge](https://www.firstinspires.org/robotics/ftc))
-
 Aug 2018 – Feb 2021 | San Jose, CA
 
 - [Programmed](https://github.com/omega9656) the robot to accomplish autonomous and remotely controlled tasks to score points
@@ -129,7 +118,6 @@ Aug 2018 – Feb 2021 | San Jose, CA
 ## 🔭 Projects
 
 ### Enoch Bot
-
 Aug 2020 – Sep 2021
 
 - Programmed a [Discord](https://discord.com) bot using the [Discord.py API](https://discordpy.readthedocs.io/en/latest/) for use in [Code 4 Tomorrow](https://code4tomorrow.org) Discord servers with 500+ users
@@ -145,7 +133,6 @@ Aug 2020 – Sep 2021
 - Collaborated with other student developers to expand the bot’s features; reviewed pull requests
 
 ### Psyber
-
 Jan 2019
 
 - A [website](https://phrdang.github.io/pixelhacks3/) to teach teach cybersecurity including a cybersecurity quiz, Caesar cipher, and informational articles
