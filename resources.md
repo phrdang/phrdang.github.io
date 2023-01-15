@@ -65,6 +65,7 @@ permalink: /resources/
 - [LinkedIn Learning](https://www.linkedin.com/learning/)
   - Note: Some universities may provide access to this for free
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Big R](https://big-r.netlify.app/index.html)
 
 ## General: Classes
 
@@ -103,6 +104,7 @@ permalink: /resources/
 - [AWS: Machine Learning](https://aws.amazon.com/training/learn-about/machine-learning/)
 - [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course?authuser=0)
 - [Frank Andrade: A Complete 26 Week Course to Learn Python for Data Science in 2022](https://towardsdatascience.com/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4)
+- [Intro to Machine Learning Workshop Slides](https://docs.google.com/presentation/d/1YX8xPcahQ8_8NzmwqWe-R9MVxcOu4RsaftQ3AZk6iuA/edit#slide=id.g14046ed654e_0_26), hosted by [ML@Berkeley](https://ml.berkeley.edu/), the [Society of Women Engineers at Berkeley](https://swe.berkeley.edu), and the [Association of Women in EECS at Berkeley](https://awe.berkeley.edu)
 
 ## Terminal-Based Text Editors
 
@@ -126,6 +128,7 @@ permalink: /resources/
 - [Computer Science Visualizations](https://youtube.com/playlist?list=PL2aHrV9pFqNRS2b2XX2BvgQIPKh72xREP) (sorting algorithms, Halting Problem)
 - [Code.org: How the Internet Works](https://youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 - [Runestone Academy](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) (open source, interactive textbooks)
+- [The Deadlock Empire](https://deadlockempire.github.io/) (gameified concurrency)
 
 # 💻 Writing Code
 
@@ -186,6 +189,7 @@ permalink: /resources/
 
 - [List of Command Line Commands](https://www.codecademy.com/articles/command-line-commands) (bash)
 - [Linux man pages online](https://man7.org/linux/man-pages/index.html) (bash command manuals)
+- [Linux Bash Commands](https://github.com/trinib/Linux-Bash-Commands)
 
 ## Git, GitHub
 
@@ -233,6 +237,7 @@ permalink: /resources/
 - [Web Development at Berkeley: Industry Resources](https://www.notion.so/Industry-Resources-2ca6a1d1ee9e4ae98c5ab325c0eed5e2)
 - [Steph's Guide to Landing Internships](https://www.notion.so/stephsu/Steph-s-Guide-to-Landing-Internships-5b0e1863e9784fddaf37add2a6f744ff)
 - [Cram](https://www.cram.com/subjects/interview)
+- [Rebecca's Recruiting Advice](https://phrdang.notion.site/Recruiting-Advice-2d8b99fca26f4b038fae61682d6cffa1)
 
 ## Technical Interviewing
 
@@ -358,3 +363,4 @@ permalink: /resources/
 - [Mathpix](https://mathpix.com/) (draw math symbols, get LaTeX syntax and more)
 - [RapidTables Binary, Octal, Decimal, Hexadecimal, ASCII Converter](https://www.rapidtables.com/convert/number/hex-to-decimal.html)
 - [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+- [Advent of Code](https://adventofcode.com/)
