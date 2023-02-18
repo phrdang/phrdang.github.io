@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 👩🏻 About
-permalink: /about
+permalink: /about/
 ---
 
 #### Contents
@@ -19,15 +19,22 @@ Pronouns: she/her
 
 Hey there! I'm a service-minded student dedicated to academic excellence. In my free time, I like to play guitar, read fiction novels, and nerd out about the Marvel Cinematic Universe.
 
+**For my work in the CS education field, check out my [Education Portfolio](/ed-portfolio.md)!**
+
 ## 🍎 Education
 
 | School | Dates | Major | GPA | Relevant Coursework |
 |--------|-------|-------|-----|------------------|
-| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | 3.9 | - Structure and Interpretation of Computer Programs (Python) <br>- Data Structures (Java) |
+| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | 3.9 | - Discrete Mathematics & Probability Theory <br> - Machine Structures (C Programming Language) <br> - Data Structures (Java) <br>- Structure and Interpretation of Computer Programs (Python) <br> - Spring 2023: Algorithms, Computer Security |
 | Evergreen Valley College | Jun 2019 - Jul 2020 | N/A (dual enrollment during high school) | 4.0 | - Discrete Structures <br>- Intro to Data Structures (Java) <br>- Intro to Program Structures (Java) <br>- Program Design & Development (Python) |
 | Evergreen Valley High School | Aug 2017 - Jun 2021 | N/A | 4.0 (Valedictorian) | - Database Design and SQL Programming <br>- AP Calculus BC <br>- AP Calculus AB |
 
 ## 💼 Experience
+
+### Member of [Eta Kappa Nu, Mu Chapter (IEEE-HKN)](https://hkn.eecs.berkeley.edu)
+December 2022 - Present | Berkeley, CA
+
+- Inducted into Electrical Engineering & Computer Science Honor Society for outstanding academic performance
 
 ### Software Engineer Intern at [Bloomberg](https://www.bloomberg.com/company)
 May 2022 - Aug 2022 | New York, NY
@@ -36,19 +43,44 @@ May 2022 - Aug 2022 | New York, NY
 - Bloomberg Law (BLAW) Platform Enablement Team
 - Tech Stack Used: Ruby on Rails, Caddy, Istio, Redis, Sinatra
 - Project name: Authorization Service for BLAW API Gateway
-- Description: Integrated an authorization service, BLAW's Draft Analyzer API, and the core BLAW code base on a test environment in Bloomberg's in-house CI/CD web app. This authorization service is hit by an API Gateway in order to authorize user requests to [bloomberglaw.com](https://bloomberglaw.com)
+- Integrated an authorization service, BLAW’s Draft Analyzer API, and the core BLAW Ruby on Rails code base on a test environment in Bloomberg’s in-house CI/CD web app
+- This authorization service is hit by an API Gateway to authorize user requests to [bloomberglaw.com](https://bloomberglaw.com) and sped up BLAW Engineers’ application development process by removing the need to go through the core BLAW code base
+
+### Client Project Manager at [Berkeley Codebase](https://codebase.berkeley.edu)
+Dec 2022 - Present | Berkeley, CA
+
+- Sourcing companies to partner with by cold emailing 120 companies and hosting project brainstorming calls
+- Leading team of 6 software developers to build software for a high-growth company over the semester
 
 ### Client Software Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
-Sep 2021 - Present | Berkeley, CA
+Sep 2021 - Dec 2022 | Berkeley, CA
 
-- Spring 2022: Creating [Bill.com](https://www.bill.com)’s developer portal using React; Material UI; AWS Amplify, Cognito, DynamoDB, & Lambda; and Google OAuth
-- Fall 2021: Rebuilt [Aurora Solar](https://www.aurorasolar.com)’s admin portal using React and blueprint.js; implemented end-to-end testing using Cypress
+- Writing Ruby script to automatically generate financial transaction data which allows [Hummingbird](https://hummingbird.co) to test their fraud detection products without having to use private customer data
+- Created [Bill’s](https://bill.com) developer portal using React; Material UI; AWS Amplify, Cognito, DynamoDB, and Lambda; and Google OAuth, allowing developers to easily build apps with the Bill API
+- Rebuilt [Aurora Solar’s](https://aurorasolar.com) internally facing admin portal using React, blueprint.js, and Cypress, allowing employees to easily upload solar panel design files and schedule jobs
 
-### Senior Mentor at [Computer Science Mentors](https://csmentors.berkeley.edu)
-Jan 2022 - Present | Berkeley, CA
+### Tutor for [CS 88 at UC Berkeley](https://c88c.org)
+Jan 2023 - Present | Berkeley, CA
 
-- Taught weekly sections to support students taking [CS 88](https://cs88-website.github.io): Computational Structures in Data Science at UC Berkeley
-- Topics covered include Python, control, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
+- Teaching small groups, hosting review sessions, and holding office hours for CS 88: Computational Structures in Data Science (also known as DATA C88C)
+- Topics include Python, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
+
+### CS 88 Coordinator at [Computer Science Mentors](https://csmentors.berkeley.edu)
+Dec 2022 - Present | Berkeley, CA
+
+- Managing 30+ weekly tutoring sections, hosting exam review sessions, reviewing weekly teaching materials (worksheets and slideshows), and interviewing candidate mentors to support students taking [CS 88](https://c88c.org): Computational Structures in Data Science at UC Berkeley
+
+### CS 88 Senior Mentor at [Computer Science Mentors](https://csmentors.berkeley.edu)
+Aug 2022 - Dec 2022 | Berkeley, CA
+
+- Taught weekly tutoring sections to support students taking [CS 88](https://c88c.org): Computational Structures in Data Science at UC Berkeley
+- Revised worksheets used to teach concepts and held weekly meetings to teach Junior Mentors pedagogical concepts
+
+### CS 88 Junior Mentor at [Computer Science Mentors](https://csmentors.berkeley.edu)
+Jan 2022 - May 2022 | Berkeley, CA
+
+- Taught weekly tutoring sections to support students taking [CS 88](https://c88c.org): Computational Structures in Data Science at UC Berkeley
+- Created walkthrough videos for past exam problems
 
 ### Academic Intern for [CS 61A at UC Berkeley](https://cs61a.org)
 Jan 2022 - May 2022 | Berkeley, CA
@@ -56,8 +88,8 @@ Jan 2022 - May 2022 | Berkeley, CA
 - Answered student questions during weekly lab sections for CS 61A: Structure and Interpretation of Computer Programs
 - Topics covered include Python, control, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, SQL, Scheme, interpreters, regular expressions, and Backus-Naur Form
 
-### Mentor & Former Vice President at Code 4 Tomorrow
-Apr 2020 - Present | Remote
+### Mentor & Former Vice President at [Code 4 Tomorrow](https://code4tomorrow.org)
+Apr 2020 - Aug 2021 | Remote
 
 - Created Java, Python, and HTML/CSS [curricula](https://code4tomorrow.org/courses); taught beginner and advanced Python courses
 - Set up continuous integration on C4T’s [GitHub repositories](https://github.com/code4tomorrow)
@@ -66,11 +98,10 @@ Apr 2020 - Present | Remote
 *Learn more about Code 4 Tomorrow*
 
 - [GitHub](https://github.com/code4tomorrow)
-- [Website](https://code4tomorrow.org)
 - General Email: [hello@code4tomorrow.org](mailto:hello@code4tomorrow.org)
 - Personal Email: [rebeccad@code4tomorrow.org](mailto:rebeccad@code4tomorrow.org)
 
-### Co-Captain at FTC 9656 Omega ([*FIRST* Tech Challenge](https://www.firstinspires.org/robotics/ftc))
+### Co-Captain at [FTC 9656 Omega](https://omegarobotics.wordpress.com) ([*FIRST* Tech Challenge](https://www.firstinspires.org/robotics/ftc))
 Aug 2018 – Feb 2021 | San Jose, CA
 
 - [Programmed](https://github.com/omega9656) the robot to accomplish autonomous and remotely controlled tasks to score points
@@ -81,7 +112,6 @@ Aug 2018 – Feb 2021 | San Jose, CA
 *Learn more about Omega*
 
 - [GitHub](https://github.com/omega9656)
-- [Website](https://omegarobotics.wordpress.com)
 - [Sponsor Omega](https://bit.ly/sponsoromega)
 - Email: [ftc9656omega@gmail.com](mailto:ftc9656omega@gmail.com)
 
@@ -110,23 +140,29 @@ Jan 2019
 
 ## 👩🏻‍🎓 Skills
 
+### Programming Languages
+
 - Python
 - Java
+- JavaScript
+- Ruby
+- C Programming Language
+- SQL
+- Scheme
+
+### Other
+
 - Git
 - GitHub
-- Writing documentation
 - React
-- SQL
-- JavaScript
+  - Material UI
+  - blueprint.js
 - HTML
 - CSS
-- blueprint.js
-- Material UI
-- Continuous integration
-- Scheme
-- Ruby on Rails
 - Caddy
 - Redis
+- Continuous integration
+- Writing documentation
 
 ## 🌱 I’m currently learning ...
 
@@ -134,4 +170,5 @@ Jan 2019
 - [MIT Missing Semester](https://missing.csail.mit.edu/)
 
 ## ⚡ Fun fact
+
 🐦 My favorite book is [Six of Crows](https://www.goodreads.com/book/show/23437156-six-of-crows) by Leigh Bardugo!

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 📚 Resources 
-permalink: /resources
+permalink: /resources/
 ---
 
 > Looking for a compendium of online programming-related resources? You've come to the right place!
@@ -65,6 +65,7 @@ permalink: /resources
 - [LinkedIn Learning](https://www.linkedin.com/learning/)
   - Note: Some universities may provide access to this for free
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Big R](https://big-r.netlify.app/index.html)
 
 ## General: Classes
 
@@ -103,6 +104,7 @@ permalink: /resources
 - [AWS: Machine Learning](https://aws.amazon.com/training/learn-about/machine-learning/)
 - [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course?authuser=0)
 - [Frank Andrade: A Complete 26 Week Course to Learn Python for Data Science in 2022](https://towardsdatascience.com/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4)
+- [Intro to Machine Learning Workshop Slides](https://docs.google.com/presentation/d/1YX8xPcahQ8_8NzmwqWe-R9MVxcOu4RsaftQ3AZk6iuA/edit#slide=id.g14046ed654e_0_26), hosted by [ML@Berkeley](https://ml.berkeley.edu/), the [Society of Women Engineers at Berkeley](https://swe.berkeley.edu), and the [Association of Women in EECS at Berkeley](https://awe.berkeley.edu)
 
 ## Terminal-Based Text Editors
 
@@ -127,6 +129,7 @@ permalink: /resources
 - [Code.org: How the Internet Works](https://youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 - [Runestone Academy](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) (open source, interactive textbooks)
 - [Learn Crypto](https://learncrypto.com/)
+- [The Deadlock Empire](https://deadlockempire.github.io/) (gameified concurrency)
 
 # 💻 Writing Code
 
@@ -149,6 +152,7 @@ permalink: /resources
 - [Glitch](https://glitch.com) (write full stack web apps)
 - [Google Colaboratory](https://colab.research.google.com)
 - [Scratch](https://scratch.mit.edu)
+- [code.cs61a.org](https://code.cs61a.org/) (made for UC Berkeley's [CS 61A](https://cs61a.org) course; allows you to write code for Python, SQL, and Scheme. Also has nice SQL visualizations and linked list visualizations)
 
 # 📖 Documentation and Reference
 
@@ -186,12 +190,13 @@ permalink: /resources
 
 - [List of Command Line Commands](https://www.codecademy.com/articles/command-line-commands) (bash)
 - [Linux man pages online](https://man7.org/linux/man-pages/index.html) (bash command manuals)
+- [Linux Bash Commands](https://github.com/trinib/Linux-Bash-Commands)
 
 ## Git, GitHub
 
 - [Git Docs](https://git-scm.com/doc) ⭐️
 - [Roger Dudler: git - the simple guide](https://rogerdudler.github.io/git-guide/) ⭐️
-- [Oh Shit, Git!?!](https://ohshitgit.com/) (undoing stuff with git) ⭐️
+- [Oh Shit, Git!?!](https://ohshitgit.com/)️ ⭐ (undoing stuff with git)
 - [Git Command Explorer](https://gitexplorer.com/) ⭐️
 - [GitHub Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - [Omar Sharaki: Git Commands to Live By](https://betterprogramming.pub/git-commands-to-live-by-349ab1fe3139)
@@ -221,26 +226,33 @@ permalink: /resources
 - [Make a README](https://www.makeareadme.com/) ⭐️
 - [Basic Editing in Visual Studio Code](https://code.visualstudio.com/docs/editor/codebasics)
 - [VimAwesome](https://vimawesome.com/) (cool Vim plugins)
+- [Michael Sambol YouTube Channel](https://www.youtube.com/c/MichaelSambol) (concise and easy to understand data structures videos)
 
 # 🤝 Recruiting
 
 ## General
 
+- [cscareers.dev](https://www.cscareers.dev/) ⭐️ - "The platform for landing your first software engineering job" according to their website
+  - [cscareers.dev Discord Server](https://cscareers.dev/discord) - Channels to check out leetcode problems by company, talk about your recruiting process, share salaries, etc.
+- If you are part of the Association of Women in EECS at UC Berkeley, check out the AWE Resources Portal ⭐️ (not linked here because it is internal only)
 - [Web Development at Berkeley: Industry Resources](https://www.notion.so/Industry-Resources-2ca6a1d1ee9e4ae98c5ab325c0eed5e2)
 - [Steph's Guide to Landing Internships](https://www.notion.so/stephsu/Steph-s-Guide-to-Landing-Internships-5b0e1863e9784fddaf37add2a6f744ff)
 - [Cram](https://www.cram.com/subjects/interview)
+- [Rebecca's Recruiting Advice](https://phrdang.notion.site/Recruiting-Advice-2d8b99fca26f4b038fae61682d6cffa1)
 
 ## Technical Interviewing
 
 - [Leetcode](https://leetcode.com/) ⭐
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeSignal](https://codesignal.com/)
+- [Neetcode](https://neetcode.io/practice) ⭐
 - [BinarySearch](https://binarysearch.com/) (collaborative)
 - [Pramp](https://www.pramp.com/#/) (mock technical interviews)
 - [AlgoExpert](https://www.algoexpert.io/)
 - [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.crackingthecodinginterview.com/) (book)
 - [Instructions for the interviewer](https://hackmd.io/ekflQ-myQv6_0r7bsxGbgQ#) (good reference for what interviewers are thinking)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
+- [Online Assessments and interviews guide](https://github.com/Leader-board/OA-and-Interviews)
 
 ## Job Postings and Cool Programs
 
@@ -252,7 +264,7 @@ permalink: /resources
 - [Outreachy](https://www.outreachy.org/) (provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living)
 - [Include](https://www.include.io/) (inclusive recruiting)
 - [Idealist](https://www.idealist.org/en/) (tech for social good, volunteering)
-- [Pitt Computer Science Club (CSC): Summer 2022 Internships](https://github.com/pittcsc/Summer2022-Internships)
+- [Pitt Computer Science Club (CSC): Summer Internships](https://github.com/pittcsc/Summer2023-Internships)
 - [Girls Who Code Summer Immersion Program](https://jobs.lever.co/girlswhocode?team=Summer%20Programs) (teaching opportunity)
   - If you're part of Girls Who Code, they also have an email job blast
 - [MLH Career Lab](https://careerlab.mlh.io/)
@@ -262,7 +274,7 @@ permalink: /resources
 
 *Note: Generally, large companies with career pages on their websites may have an "early career" or "university" subpage which contains these types of programs! The list below is by no means exhaustive.*
 
-- [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/)
+- [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/) (first and second years)
 - [Meta University (formerly Facebook University)](https://www.metacareers.com/careerprograms/pathways/metauniversity)
 - [Twitter Early Career (Twitter Academy, First Flight, Early Bird, Take Flight, DevelopHER)](https://careers.twitter.com/en/early-career.html)
 - [Dropbox Launch](https://www.dropbox.com/jobs/teams/emerging-talent)
@@ -274,6 +286,7 @@ permalink: /resources
 - [Palantir Path](https://www.palantir.com/careers/students/path/)
 - [NVIDIA Ignite](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/)
 - [Square Code Camp](https://squareup.com/us/en/code-camp)
+- [Duolingo Thrive](https://careers.duolingo.com/students) (second years)
 - Girls Who Code
   - [Summer Immersion Program](https://girlswhocode.com/programs/summer-immersion-program) (for high schoolers)
   - [Self-Paced Program](https://girlswhocode.com/programs/summer-immersion-program) (for high schoolers)
@@ -337,10 +350,19 @@ permalink: /resources
 
 ## Misc
 
-- [GitHub Education](https://education.github.com/) (get the student developer pack (aka a bunch of free stuff) here!) ⭐
+- [GitHub Education](https://education.github.com/) ⭐ (get the student developer pack (aka a bunch of free stuff) here!)
+- [r/csMajors](https://reddit.com/r/csMajors)
 - [r/cscareerquestions](https://reddit.com/r/cscareerquestions)
 - [HTTP Status Dogs](https://httpstatusdogs.com/) (HTTP status codes + dogs. because why not?)
 - [Embed like Gist](https://emgithub.com/)
 - [Terry D. Johnson: Advice for first year undergraduate engineers](https://docs.google.com/document/d/19UJ1IesSjN9B9sQn2IEM9baQV-E-oMveiM9WSLBcI8s/edit)
 - [Hacker Typer](https://hackertyper.netlify.app/) (feel like a hacker without being one)
 - [Google Site Reliability Engineering Book](https://sre.google/sre-book/table-of-contents/)
+- [Composing Programs by John DeNero](http://composingprograms.com/) (online textbook used in UC Berkeley's [CS 61A](https://cs61a.org) course)
+- [Google Site Reliability Engineering Book](https://sre.google/sre-book/table-of-contents/)
+- [Overleaf](https://www.overleaf.com/) ⭐ (in-browser LaTeX editor. If you sign up with @berkeley.edu, you can get free Professional plan. They also have [documentation](https://www.overleaf.com/learn) to teach you how to use LaTeX)
+- [Detexify](http://detexify.kirelabs.org/classify.html) (draw math symbols, get LaTeX syntax)
+- [Mathpix](https://mathpix.com/) (draw math symbols, get LaTeX syntax and more)
+- [RapidTables Binary, Octal, Decimal, Hexadecimal, ASCII Converter](https://www.rapidtables.com/convert/number/hex-to-decimal.html)
+- [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+- [Advent of Code](https://adventofcode.com/)
