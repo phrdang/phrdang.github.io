@@ -128,6 +128,7 @@ permalink: /resources/
 - [Computer Science Visualizations](https://youtube.com/playlist?list=PL2aHrV9pFqNRS2b2XX2BvgQIPKh72xREP) (sorting algorithms, Halting Problem)
 - [Code.org: How the Internet Works](https://youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 - [Runestone Academy](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) (open source, interactive textbooks)
+- [Learn Crypto](https://learncrypto.com/)
 - [The Deadlock Empire](https://deadlockempire.github.io/) (gameified concurrency)
 
 # 💻 Writing Code
