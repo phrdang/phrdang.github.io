@@ -227,6 +227,9 @@ permalink: /resources/
 - [Basic Editing in Visual Studio Code](https://code.visualstudio.com/docs/editor/codebasics)
 - [VimAwesome](https://vimawesome.com/) (cool Vim plugins)
 - [Michael Sambol YouTube Channel](https://www.youtube.com/c/MichaelSambol) (concise and easy to understand data structures videos)
+- [Composing Programs by John DeNero](http://composingprograms.com/) (online textbook used in UC Berkeley's [CS 61A](https://cs61a.org) course)
+- [Computational and Inferential Thinking: The Foundations of Data Science, 2nd Edition by Ani Adhikari, John DeNero, David Wagner](https://inferentialthinking.com/chapters/intro.html) (online textbook used in UC Berkeley's [Data 8](https://data8.org) course)
+- [Computer Security by David Wagner, Nicholas Weaver, Peyrin Kao, Fuzail Shakir, Andrew Law, and Nicholas Ngai](https://textbook.cs161.org/) (online textbook used in UC Berkeley's [CS 161](https://cs161.org) course)
 
 # 🤝 Recruiting
 
@@ -253,6 +256,7 @@ permalink: /resources/
 - [Instructions for the interviewer](https://hackmd.io/ekflQ-myQv6_0r7bsxGbgQ#) (good reference for what interviewers are thinking)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
 - [Online Assessments and interviews guide](https://github.com/Leader-board/OA-and-Interviews)
+- [Interview Bit](https://www.interviewbit.com/)
 
 ## Job Postings and Cool Programs
 
@@ -357,8 +361,6 @@ permalink: /resources/
 - [Embed like Gist](https://emgithub.com/)
 - [Terry D. Johnson: Advice for first year undergraduate engineers](https://docs.google.com/document/d/19UJ1IesSjN9B9sQn2IEM9baQV-E-oMveiM9WSLBcI8s/edit)
 - [Hacker Typer](https://hackertyper.netlify.app/) (feel like a hacker without being one)
-- [Google Site Reliability Engineering Book](https://sre.google/sre-book/table-of-contents/)
-- [Composing Programs by John DeNero](http://composingprograms.com/) (online textbook used in UC Berkeley's [CS 61A](https://cs61a.org) course)
 - [Google Site Reliability Engineering Book](https://sre.google/sre-book/table-of-contents/)
 - [Overleaf](https://www.overleaf.com/) ⭐ (in-browser LaTeX editor. If you sign up with @berkeley.edu, you can get free Professional plan. They also have [documentation](https://www.overleaf.com/learn) to teach you how to use LaTeX)
 - [Detexify](http://detexify.kirelabs.org/classify.html) (draw math symbols, get LaTeX syntax)
