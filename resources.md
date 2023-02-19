@@ -227,8 +227,8 @@ permalink: /resources/
 - [VimAwesome](https://vimawesome.com/) (cool Vim plugins)
 - [Michael Sambol YouTube Channel](https://www.youtube.com/c/MichaelSambol) (concise and easy to understand data structures videos)
 - [Composing Programs by John DeNero](http://composingprograms.com/) (online textbook used in UC Berkeley's [CS 61A](https://cs61a.org) course)
-- [Inferential Thinking by John DeNero, ?](https://inferentialthinking.com/chapters/intro.html) (online textbook used in UC Berkeley's [Data 8](https://data8.org) course)
-- [CS 161: Computer Security Textbook (Spring 2023) by ?](https://sp23.cs161.org/textbook.html) (online textbook used in UC Berkeley's [CS 161](https://sp23.cs161.org) course)
+- [Computational and Inferential Thinking: The Foundations of Data Science, 2nd Edition by Ani Adhikari, John DeNero, David Wagner](https://inferentialthinking.com/chapters/intro.html) (online textbook used in UC Berkeley's [Data 8](https://data8.org) course)
+- [Computer Security by David Wagner, Nicholas Weaver, Peyrin Kao, Fuzail Shakir, Andrew Law, and Nicholas Ngai](https://textbook.cs161.org/) (online textbook used in UC Berkeley's [CS 161](https://cs161.org) course)
 
 # 🤝 Recruiting
 
