@@ -8,8 +8,8 @@ I'm interested in all things computer science, education, and computer science e
 
 #### Contents
 
-- [Tutor for CS 88](#tutor-for-cs-88)
-- [Computer Science Mentors (CSM)](#computer-science-mentors-csm)
+- [Tutor for DATA C88C (aka CS 88)](#tutor-for-data-c88c-aka-cs-88)
+- [Coordinator for Computer Science Mentors (CSM)](#coordinator-for-computer-science-mentors-csm)
 - [CalTeach Program](#calteach-program)
 - [CS 61A Exam Advice](#cs-61a-exam-advice)
 - [Academic Intern for CS 61A](#academic-intern-for-cs-61a)
@@ -17,18 +17,28 @@ I'm interested in all things computer science, education, and computer science e
 - [Code 4 Tomorrow (C4T)](#code-4-tomorrow-c4t)
 - [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
 
-## Tutor for CS 88
+## Tutor for DATA C88C (aka CS 88)
 Jan 2023 - Present | Berkeley, CA
 
-- Teaching small groups, hosting review sessions, and holding office hours for [CS 88](https://c88c.org): Computational Structures in Data Science (also known as DATA C88C)
+- [DATA C88C course website](https://c88c.org): Computational Structures in Data Science
+- **In the top 3 answerers, top 4 commenters, and top 2 endorsed users on [Ed](https://edstem.org)**, an online forum used by students and staff to ask and answer questions (Ed is used quite frequently: there are about 1000 question threads in total)
+- **Taught weekly review sessions** going over the previous week's content
+- Held **4 hours of office hours** every week
 - Topics include Python, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
 
-## Computer Science Mentors (CSM)
+## Coordinator for Computer Science Mentors (CSM)
 Jan 2022 - Present | Berkeley, CA
 
-CSM is a club on the UC Berkeley campus that organizes supplemental sections for lower division computer science courses. As a Senior Mentor, I:
+CSM is a club on the UC Berkeley campus that organizes supplemental tutoring sections for lower division computer science and EECS courses. Currently, I'm serving as **CS 88 Coordinator** (Spring 2023 - Present), where I am:
 
-- **Taught weekly sections** to support students taking [CS 88](https://cs88-website.github.io): Computational Structures in Data Science at UC Berkeley
+- **Managing 30+ weekly tutoring sections**
+- Hosting exam review sessions
+- **Reviewing weekly teaching materials** (worksheets and slideshows)
+- Interviewing prospective senior mentors
+
+Previously, as a **CS 88 Senior Mentor** (Fall 2022) and **Junior Mentor** (Spring 2022), I:
+
+- **Taught weekly tutoring sections**
   - Topics covered in CS 88 include Python, control, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
 - Trained and **provided pedagogical feedback to Junior Mentors**
 - Reviewed and **revised CSM content** (e.g. worksheets, slideshows, etc.)
