@@ -23,18 +23,38 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 
 ## 🍎 Education
 
-| School | Dates | Major | GPA | Relevant Coursework |
+| School | Dates | Major | GPA | Honors |
 |--------|-------|-------|-----|------------------|
-| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | 3.9 | - Discrete Mathematics & Probability Theory <br> - Machine Structures (C Programming Language) <br> - Data Structures (Java) <br>- Structure and Interpretation of Computer Programs (Python) <br> - Spring 2023: Algorithms, Computer Security |
-| Evergreen Valley College | Jun 2019 - Jul 2020 | N/A (dual enrollment during high school) | 4.0 | - Discrete Structures <br>- Intro to Data Structures (Java) <br>- Intro to Program Structures (Java) <br>- Program Design & Development (Python) |
-| Evergreen Valley High School | Aug 2017 - Jun 2021 | N/A | 4.0 (Valedictorian) | - Database Design and SQL Programming <br>- AP Calculus BC <br>- AP Calculus AB |
+| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | 3.9 | Member of Eta Kappa Nu, Mu Chapter (IEEE-HKN), EECS Honor Society |
+| Evergreen Valley College | Jun 2019 - Jul 2020 | N/A (dual enrollment during high school) | 4.0 |  |
+| Evergreen Valley High School | Aug 2017 - Jun 2021 | N/A | 4.0 | Valedictorian |
+
+### Relevant Coursework
+
+- UC Berkeley
+  - CS 170: Efficient Algorithms & Intractable Problems
+  - CS 161: Computer Security (C Programming Language, Golang)
+  - CS 70: Discrete Mathematics & Probability Theory
+  - CS 61C: Machine Structures (C Programming Language)
+  - CS 61B: Data Structures (Java)
+  - CS 61A: Structure and Interpretation of Computer Programs (Python)
+  - Fall 2023: CS 188: Artificial Intelligence
+- Evergreen Valley College
+  - COMSC 80: Discrete Structures
+  - COMSC 76: Intro to Data Structures (Java)
+  - COMSC 75: Intro to Program Structures (Java)
+  - CIT 20: Program Design & Development (Python)
+- Evergreen Valley High School
+  - Database Design and SQL Programming
+  - AP Calculus BC
+  - AP Calculus AB
 
 ## 💼 Experience
 
-### Member of [Eta Kappa Nu, Mu Chapter (IEEE-HKN)](https://hkn.eecs.berkeley.edu)
-December 2022 - Present | Berkeley, CA
+### Software Engineer Intern at [Bloomberg](https://www.bloomberg.com/company)
+May 2023 - Aug 2023 | New York, NY
 
-- Inducted into Electrical Engineering & Computer Science Honor Society for outstanding academic performance
+- Engineering Web, Internal Apps, Law & Data Department
 
 ### Software Engineer Intern at [Bloomberg](https://www.bloomberg.com/company)
 May 2022 - Aug 2022 | New York, NY
@@ -42,15 +62,12 @@ May 2022 - Aug 2022 | New York, NY
 - Engineering Web, Internal Apps, Law & Data Department
 - Bloomberg Law (BLAW) Platform Enablement Team
 - Tech Stack Used: Ruby on Rails, Caddy, Istio, Redis, Sinatra
-- Project name: Authorization Service for BLAW API Gateway
-- Integrated an authorization service, BLAW’s Draft Analyzer API, and the core BLAW Ruby on Rails code base on a test environment in Bloomberg’s in-house CI/CD web app
-- This authorization service is hit by an API Gateway to authorize user requests to [bloomberglaw.com](https://bloomberglaw.com) and sped up BLAW Engineers’ application development process by removing the need to go through the core BLAW code base
+- Integrated a new authorization service, [Bloomberg Law](https://bloomberglaw.com)’s (BLAW)  Draft Analyzer API, and the core BLAW Ruby on Rails codebase, speeding up BLAW engineers’ development process by eliminating the need for apps to go through the core BLAW codebase to check if a user is authorized to hit a certain API endpoint
 
 ### Client Project Manager at [Berkeley Codebase](https://codebase.berkeley.edu)
-Dec 2022 - Present | Berkeley, CA
+Dec 2022 - May 2023 | Berkeley, CA
 
-- Sourcing companies to partner with by cold emailing 120 companies and hosting project brainstorming calls
-- Leading team of 6 software developers to build software for a high-growth company over the semester
+- Led team of 6 software developers to build a unified interface between the Aavgo hotel check in portal and various Property Management Systems (PMS) specific to each hotel using React, Material UI, Postgres, Express, RoboCorp, Selenium, and Playwright
 
 ### Client Software Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
 Sep 2021 - Dec 2022 | Berkeley, CA
@@ -60,9 +77,11 @@ Sep 2021 - Dec 2022 | Berkeley, CA
 - Rebuilt [Aurora Solar’s](https://aurorasolar.com) internally facing admin portal using React, blueprint.js, and Cypress, allowing employees to easily upload solar panel design files and schedule jobs
 
 ### Tutor for [CS 88 at UC Berkeley](https://c88c.org)
-Jan 2023 - Present | Berkeley, CA
+Jan 2023 - May 2023 | Berkeley, CA
 
-- Teaching small groups, hosting review sessions, and holding office hours for CS 88: Computational Structures in Data Science (also known as DATA C88C)
+- In the top 3 answerers, top 4 commenters, and top 2 endorsed users on Ed (https://edstem.org), an online forum used by students and staff to ask and answer questions (Ed is used quite frequently: there are about 1000 question threads in total)
+- Taught weekly review sessions going over the previous week's content
+- Held 4 hours of office hours every week
 - Topics include Python, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
 
 ### CS 88 Coordinator at [Computer Science Mentors](https://csmentors.berkeley.edu)
@@ -144,9 +163,11 @@ Jan 2019
 
 - Python
 - Java
+- TypeScript
 - JavaScript
 - Ruby
 - C Programming Language
+- Golang
 - SQL
 - Scheme
 
@@ -157,16 +178,24 @@ Jan 2019
 - React
   - Material UI
   - blueprint.js
+- Node.js
+- Express
+- GraphQL
+- Jenkins
+- Jest
+- JUnit
+- Pytest
 - HTML
 - CSS
 - Caddy
 - Redis
 - Continuous integration
-- Writing documentation
+- Technical documentation
+- Agile
+- Jira
 
 ## 🌱 I’m currently learning ...
 
-- Typescript
 - [MIT Missing Semester](https://missing.csail.mit.edu/)
 
 ## ⚡ Fun fact
