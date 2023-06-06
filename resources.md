@@ -92,6 +92,9 @@ permalink: /resources/
 - [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html) ⭐
 - [Fullstack Open Course](https://fullstackopen.com/en/)
 - [Web Development at Berkeley: Introduction to Full Stack Development](https://fullstackdecal.com/)
+- [Screeps](https://screeps.com/) (gameified JavaScript)
+- [SpaceTraders API](https://spacetraders.io/) (gameified APIs)
+- [Bitburner](https://danielyxie.github.io/bitburner/) (gamefieid Netscript, a subset of JavaScript)
 
 ## AI, ML, Data Science
 
@@ -130,6 +133,7 @@ permalink: /resources/
 - [Runestone Academy](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) (open source, interactive textbooks)
 - [Learn Crypto](https://learncrypto.com/)
 - [The Deadlock Empire](https://deadlockempire.github.io/) (gameified concurrency)
+- [Schemaverse](https://schemaverse.com/) (gameified Postgres)
 
 # 💻 Writing Code
 
@@ -273,6 +277,9 @@ permalink: /resources/
   - If you're part of Girls Who Code, they also have an email job blast
 - [MLH Career Lab](https://careerlab.mlh.io/)
 - [Startup Search](https://startupsearch.com/)
+- [Break Through Tech](https://www.breakthroughtech.org/) (programs for women and non-binary students in tech)
+- [ColorStack](https://www.colorstack.org/) (programs for Black and Latinx students in tech)
+- [Girls Make Games](https://www.girlsmakegames.com/) (video game development programs for women in tech)
 
 ### First/Second Year/Minimal Experience/University Programs
 
@@ -368,3 +375,4 @@ permalink: /resources/
 - [RapidTables Binary, Octal, Decimal, Hexadecimal, ASCII Converter](https://www.rapidtables.com/convert/number/hex-to-decimal.html)
 - [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 - [Advent of Code](https://adventofcode.com/)
+- [carbon](https://carbon.now.sh/) (generate aesthetic screenshots of code)
