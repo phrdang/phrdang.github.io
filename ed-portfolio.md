@@ -8,7 +8,8 @@ I'm interested in all things computer science, education, and computer science e
 
 #### Contents
 
-- [Tutor for DATA C88C (aka CS 88)](#tutor-for-data-c88c-aka-cs-88)
+- [Undergraduate Course Staff 2 (Teaching Assistant) for CS 88 at UC Berkeley](#undergraduate-course-staff-2-teaching-assistant-for-cs-88-at-uc-berkeley)
+- [Tutor for CS 88 at UC Berkeley](#tutor-for-cs-88-at-uc-berkeley)
 - [Coordinator for Computer Science Mentors (CSM)](#coordinator-for-computer-science-mentors-csm)
 - [CalTeach Program](#calteach-program)
 - [CS 61A Exam Advice](#cs-61a-exam-advice)
@@ -17,8 +18,14 @@ I'm interested in all things computer science, education, and computer science e
 - [Code 4 Tomorrow (C4T)](#code-4-tomorrow-c4t)
 - [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
 
-## Tutor for DATA C88C (aka CS 88)
-Jan 2023 - Present | Berkeley, CA
+## Undergraduate Course Staff 2 (Teaching Assistant) for CS 88 at UC Berkeley
+Aug 2023 - Present | Berkeley, CA
+
+- Teaching weekly discussion and lab sections, holding office hours, and writing exam questions for CS 88:
+Computational Structures in Data Science (aka DATA C88C)
+
+## Tutor for CS 88 at UC Berkeley
+Jan 2023 - May 2023 | Berkeley, CA
 
 - [DATA C88C course website](https://c88c.org): Computational Structures in Data Science
 - **In the top 3 answerers, top 4 commenters, and top 2 endorsed users on [Ed](https://edstem.org)**, an online forum used by students and staff to ask and answer questions (Ed is used quite frequently: there are about 1000 question threads in total)

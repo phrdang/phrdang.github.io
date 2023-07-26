@@ -55,6 +55,15 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 May 2023 - Aug 2023 | New York, NY
 
 - Engineering Web, Internal Apps, Law & Data Department
+- Web Widgets - Edu Portal Team
+- Created an internal Node.js package which retrieves data for Bloomberg’s Customer Service Center (CSC) portal to aid in migration to new internal infrastructure
+- Created full stack web subapp for clients to submit Bloomberg Valuation (BVAL) Price Challenge tickets in the
+CSC portal
+- Reduced maintenance costs by creating the first CSC subapp that uses Bloomberg’s internal managed
+infrastructure
+- Significantly reduced back-and-forth between customer service representatives and clients by adding more advanced
+input validation
+- Consolidated logic of creation, viewing, and reporting of price challenges
 
 ### Software Engineer Intern at [Bloomberg](https://www.bloomberg.com/company)
 May 2022 - Aug 2022 | New York, NY
@@ -75,6 +84,12 @@ Sep 2021 - Dec 2022 | Berkeley, CA
 - Writing Ruby script to automatically generate financial transaction data which allows [Hummingbird](https://hummingbird.co) to test their fraud detection products without having to use private customer data
 - Created [Bill’s](https://bill.com) developer portal using React; Material UI; AWS Amplify, Cognito, DynamoDB, and Lambda; and Google OAuth, allowing developers to easily build apps with the Bill API
 - Rebuilt [Aurora Solar’s](https://aurorasolar.com) internally facing admin portal using React, blueprint.js, and Cypress, allowing employees to easily upload solar panel design files and schedule jobs
+
+### Undergraduate Course Staff 2 (Teaching Assistant) for [CS 88 at UC Berkeley](https://c88c.org)
+Aug 2023 - Present | Berkeley, CA
+
+- Teaching weekly discussion and lab sections, holding office hours, and writing exam questions for CS 88:
+Computational Structures in Data Science (aka DATA C88C)
 
 ### Tutor for [CS 88 at UC Berkeley](https://c88c.org)
 Jan 2023 - May 2023 | Berkeley, CA
@@ -178,17 +193,24 @@ Jan 2019
 - React
   - Material UI
   - blueprint.js
+  - Styled Components
+  - Jotai
+  - React Styled Flexbox Grid
+  - React Hook Forms
 - Node.js
 - Express
 - GraphQL
 - Jenkins
 - Jest
+- Mock Service Worker
+- React Testing Library
 - JUnit
 - Pytest
 - HTML
 - CSS
 - Caddy
 - Redis
+- OpenAPI (Swagger)
 - Continuous integration
 - Technical documentation
 - Agile

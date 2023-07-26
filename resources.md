@@ -124,6 +124,8 @@ permalink: /resources/
 - [Albert Wu: Git](http://albertwu.org/cs61a/notes/git.html)
 - [The Net Ninja: Git & GitHub Tutorial for Beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 - [FTC 9656 Omega: Learn Code](https://omega9656.github.io/learn-code/) (Java, bash, Git, GitHub) ⭐
+- [Learn Git Branching](https://learngitbranching.js.org/)
+- [Atlassian: Git](https://www.atlassian.com/git) ⭐
 
 ## Other
 
