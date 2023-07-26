@@ -56,7 +56,7 @@ May 2023 - Aug 2023 | New York, NY
 
 - Engineering Web, Internal Apps, Law & Data Department
 - Web Widgets - Edu Portal Team
-- Created an internal Node.js package which retrieves data for Bloomberg’s Customer Service Center (CSC) portal to aid in migration to new internal infrastructure
+- Created an internal Node.js package which retrieves data for Bloomberg’s [Customer Service Center](https://service.bloomberg.com) (CSC) portal to aid in migration to new internal infrastructure
 - Created full stack web subapp for clients to submit Bloomberg Valuation (BVAL) Price Challenge tickets in the
 CSC portal
 - Reduced maintenance costs by creating the first CSC subapp that uses Bloomberg’s internal managed
