@@ -76,7 +76,7 @@ May 2022 - Aug 2022 | New York, NY
 ### Client Project Manager at [Berkeley Codebase](https://codebase.berkeley.edu)
 Dec 2022 - May 2023 | Berkeley, CA
 
-- Led team of 6 software developers to build a unified interface between the Aavgo hotel check in portal and various Property Management Systems (PMS) specific to each hotel using React, Material UI, Postgres, Express, RoboCorp, Selenium, and Playwright
+- Led team of 6 software developers to build a unified interface between the [Aavgo](https://aavgo.com/) hotel check in portal and various Property Management Systems (PMS) specific to each hotel using React, Material UI, Postgres, Express, RoboCorp, Selenium, and Playwright
 
 ### Client Software Developer at [Berkeley Codebase](https://codebase.berkeley.edu)
 Sep 2021 - Dec 2022 | Berkeley, CA
