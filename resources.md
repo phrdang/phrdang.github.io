@@ -191,6 +191,7 @@ permalink: /resources/
 - [Hawk Ticehurst: The Mega Full-Stack Web Development Resource Guide](https://hawkticehurst.com/writing/mega-full-stack-resource-guide/)
 - [Web Development at Berkeley: Dev & Design Resources](https://www.notion.so/WDB-Dev-Design-Resources-b6d91c1b96834a8d8c86614e3c70bd74)
 - [Berkeley Codebase Resources](https://www.notion.so/berkeleycodebase/Codebase-Public-4fa3c7bcd749416392624391e91c279e) (web development, Git)
+- [Public APIs](https://publicapis.dev/)
 
 ## Command Line
 
@@ -282,6 +283,7 @@ permalink: /resources/
 - [Break Through Tech](https://www.breakthroughtech.org/) (programs for women and non-binary students in tech)
 - [ColorStack](https://www.colorstack.org/) (programs for Black and Latinx students in tech)
 - [Girls Make Games](https://www.girlsmakegames.com/) (video game development programs for women in tech)
+- [Dev Employ](https://devemploy.com/)
 
 ### First/Second Year/Minimal Experience/University Programs
 
@@ -378,3 +380,4 @@ permalink: /resources/
 - [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 - [Advent of Code](https://adventofcode.com/)
 - [carbon](https://carbon.now.sh/) (generate aesthetic screenshots of code)
+- [Dev Resources](https://devresourc.es/)
