@@ -38,7 +38,7 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
   - CS 61C: Machine Structures (C Programming Language)
   - CS 61B: Data Structures (Java)
   - CS 61A: Structure and Interpretation of Computer Programs (Python)
-  - Fall 2023: CS 188: Artificial Intelligence
+  - Fall 2023: CS 188: Artificial Intelligence, Linux System Administration
 - Evergreen Valley College
   - COMSC 80: Discrete Structures
   - COMSC 76: Intro to Data Structures (Java)
@@ -84,6 +84,11 @@ Sep 2021 - Dec 2022 | Berkeley, CA
 - Writing Ruby script to automatically generate financial transaction data which allows [Hummingbird](https://hummingbird.co) to test their fraud detection products without having to use private customer data
 - Created [Bill’s](https://bill.com) developer portal using React; Material UI; AWS Amplify, Cognito, DynamoDB, and Lambda; and Google OAuth, allowing developers to easily build apps with the Bill API
 - Rebuilt [Aurora Solar’s](https://aurorasolar.com) internally facing admin portal using React, blueprint.js, and Cypress, allowing employees to easily upload solar panel design files and schedule jobs
+
+### Research Assistant
+Sep 2023 - Present | Berkeley, CA
+
+- Leveraging AI techniques to model and predict health outcomes resulting from extreme weather events due to climate change. Research mentor: Professor Irene Chen, [UCSF UC Berkeley Joint Program in Computational Precision Health](https://computationalhealth.berkeley.edu/)
 
 ### Undergraduate Course Staff 2 (Teaching Assistant) for [CS 88 at UC Berkeley](https://c88c.org)
 Aug 2023 - Present | Berkeley, CA

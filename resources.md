@@ -264,6 +264,7 @@ permalink: /resources/
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
 - [Online Assessments and interviews guide](https://github.com/Leader-board/OA-and-Interviews)
 - [Interview Bit](https://www.interviewbit.com/)
+- [Interviewing.io](https://interviewing.io/) (mock technical interviews)
 
 ## Job Postings and Cool Programs
 
@@ -284,6 +285,7 @@ permalink: /resources/
 - [ColorStack](https://www.colorstack.org/) (programs for Black and Latinx students in tech)
 - [Girls Make Games](https://www.girlsmakegames.com/) (video game development programs for women in tech)
 - [Dev Employ](https://devemploy.com/)
+- [EdSurge](https://www.edsurge.com/jobs) (EdTech job postings)
 
 ### First/Second Year/Minimal Experience/University Programs
 
@@ -354,6 +356,8 @@ permalink: /resources/
 - [Adam Towers: How to Customize Your Terminal and BASH Profile from Scratch](https://medium.com/@adamtowers/how-to-customize-your-terminal-and-bash-profile-from-scratch-9ab079256380)
 - [Git shell coloring](https://gist.github.com/vratiu/9780109)
 - [Steven Jeuris: CamelCase vs underscores: Scientific showdown](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
+- [Li Haoyi: How to conduct a good Programming Interview](https://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html) ⭐
+- [Pamela Fox: CS content inclusivity guide](https://blog.pamelafox.org/2022/08/cs-content-inclusivity-guide.html) ⭐
 
 ## Asking for Help
 
@@ -381,3 +385,5 @@ permalink: /resources/
 - [Advent of Code](https://adventofcode.com/)
 - [carbon](https://carbon.now.sh/) (generate aesthetic screenshots of code)
 - [Dev Resources](https://devresourc.es/)
+- [Slackmojis](https://slackmojis.com/) ⭐
+- [Discordmojis](https://discordmojis.com/) ⭐
