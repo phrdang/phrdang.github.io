@@ -108,6 +108,7 @@ permalink: /resources/
 - [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course?authuser=0)
 - [Frank Andrade: A Complete 26 Week Course to Learn Python for Data Science in 2022](https://towardsdatascience.com/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4)
 - [Intro to Machine Learning Workshop Slides](https://docs.google.com/presentation/d/1YX8xPcahQ8_8NzmwqWe-R9MVxcOu4RsaftQ3AZk6iuA/edit#slide=id.g14046ed654e_0_26), hosted by [ML@Berkeley](https://ml.berkeley.edu/), the [Society of Women Engineers at Berkeley](https://swe.berkeley.edu), and the [Association of Women in EECS at Berkeley](https://awe.berkeley.edu)
+- [Christoph Cemper / AIPRM: A Kid's Guide to Artificial Intelligence and Machine Learning](https://www.aiprm.com/education/a-kids-guide-to-artificial-intelligence-and-machine-learning/)
 
 ## Terminal-Based Text Editors
 
@@ -136,6 +137,7 @@ permalink: /resources/
 - [Learn Crypto](https://learncrypto.com/)
 - [The Deadlock Empire](https://deadlockempire.github.io/) (gameified concurrency)
 - [Schemaverse](https://schemaverse.com/) (gameified Postgres)
+- [Cisco Networking Academy](https://skillsforall.com/)
 
 # 💻 Writing Code
 
@@ -168,6 +170,7 @@ permalink: /resources/
 - [Dev Resources](https://devresourc.es/) (basically like this page but more)
 - [W3Schools](https://www.w3schools.com/) (HTML, CSS, JS, Python, Java, SQL, XML, and more)
 - [Codecademy Docs](https://www.codecademy.com/resources/docs) (community-driven collection of documentation for popular programming languages and frameworks)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
 
 ## Java
 
@@ -249,6 +252,7 @@ permalink: /resources/
 - [Steph's Guide to Landing Internships](https://www.notion.so/stephsu/Steph-s-Guide-to-Landing-Internships-5b0e1863e9784fddaf37add2a6f744ff)
 - [Cram](https://www.cram.com/subjects/interview)
 - [Rebecca's Recruiting Advice](https://phrdang.notion.site/Recruiting-Advice-2d8b99fca26f4b038fae61682d6cffa1)
+- [Forage](https://www.theforage.com/) (job simulations)
 
 ## Technical Interviewing
 
@@ -329,6 +333,8 @@ permalink: /resources/
 - [CodeCombat](https://codecombat.com/) (Python, JavaScript)
 - [CodinGame](https://www.codingame.com/start) (coding challenges, but game-ified)
 - [Vim Golf](http://www.vimgolf.com/) (complete Vim challenges and try to do them in the fewest number of keystrokes)
+- [Kattis](https://open.kattis.com/) (programming problems)
+- [Nand Game](https://nandgame.com/) (computer architecture game)
 
 ## Compensation, Salary, Negotiation
 
