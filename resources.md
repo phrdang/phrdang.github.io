@@ -378,7 +378,7 @@ permalink: /resources/
 - [GitHub Education](https://education.github.com/) ⭐ (get the student developer pack (aka a bunch of free stuff) here!)
 - [r/csMajors](https://reddit.com/r/csMajors)
 - [r/cscareerquestions](https://reddit.com/r/cscareerquestions)
-- [HTTP Status Dogs](https://httpstatusdogs.com/) (HTTP status codes + dogs. because why not?)
+- [HTTP Status Dogs](https://http.dog/) (HTTP status codes + dogs. because why not?)
 - [Embed like Gist](https://emgithub.com/)
 - [Terry D. Johnson: Advice for first year undergraduate engineers](https://docs.google.com/document/d/19UJ1IesSjN9B9sQn2IEM9baQV-E-oMveiM9WSLBcI8s/edit)
 - [Hacker Typer](https://hackertyper.netlify.app/) (feel like a hacker without being one)
