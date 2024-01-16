@@ -290,6 +290,7 @@ permalink: /resources/
 - [Girls Make Games](https://www.girlsmakegames.com/) (video game development programs for women in tech)
 - [Dev Employ](https://devemploy.com/)
 - [EdSurge](https://www.edsurge.com/jobs) (EdTech job postings)
+- [Work At A Startup](https://www.workatastartup.com/) (Y Combinator job postings)
 
 ### First/Second Year/Minimal Experience/University Programs
 
@@ -393,3 +394,4 @@ permalink: /resources/
 - [Dev Resources](https://devresourc.es/)
 - [Slackmojis](https://slackmojis.com/) ⭐
 - [Discordmojis](https://discordmojis.com/) ⭐
+- [Coolors.co](https://coolors.co/) ⭐ (generate color palettes)
