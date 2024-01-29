@@ -123,7 +123,7 @@ The real multiverse movie that came out that year. Absurdly funny, philosophical
 <img src="https://upload.wikimedia.org/wikipedia/en/b/b8/Short_Term_12.jpg" alt="short term 12 poster" height="250">
 </p>
 
-Aside from seeing the beginnings of many Hollwood stars-to-be, this film deals with its subject matter -- learning to care for traumatized kids while dealing with your own trauma -- with a lot of heart.
+Aside from seeing the beginnings of many Hollywood stars-to-be, this film deals with its subject matter -- learning to care for traumatized kids while dealing with your own trauma -- with a lot of heart.
 
 ### *Knives Out* (2019)
 
