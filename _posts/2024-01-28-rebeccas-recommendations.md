@@ -4,7 +4,7 @@ title: Rebecca's Recommendations
 author: Rebecca Dang
 ---
 
-As a self-proclaimed professional fangirl, I have the need to expand the fandoms I am in. As such, here is a list of 21 music, book, movie, and TV recommendations from the past few years of my life. These works of art are listed in no particular order.
+As a self-proclaimed professional fangirl, I have the need to expand the fandoms I am in. As such, here is a list of 21 music, book, movie, and TV recommendations from the past few years of my life. These works are listed in no particular order.
 
 ## Music
 
@@ -163,24 +163,62 @@ It's dreams all the way down with a stellar ensemble cast.
 
 ### Andor (2022)
 
+<p style="text-align: center">
+<img src="https://i5.walmartimages.com/asr/38faae28-f093-44b1-8fb4-41bc5ac89cae.825d2c14a8d42a0f311c32e61de8386d.jpeg" alt="andor poster" height="250">
+</p>
+
+A political spy thriller, *Andor* is the "adult" Star Wars TV show we've been waiting for. Love morally gray characters? Anti-facism themes? Grounded plot and excellently written monologues? This is for you -- regardless of your prior knowledge of the Star Wars universe.
+
 ### Daredevil (2015)
+
+<p style="text-align: center">
+<img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Daredevil_season_1_poster.jpg" alt="daredevil season 1 poster" height="250">
+</p>
+
+While this is technically a Marvel TV show, I would describe it as a crime drama that happens to be about a superhero. Superbly acted and written, *Daredevil* is about the struggles and triumphs of Matt Murdock (Charlie Cox), lawyer by day, vigilante by night. Opposite him is the terrifyingly cunning Wilson Fisk (Vincent D'Onofrio). This show doesn't pull punches (figuratively and literally) and has stellar stunt work (including impressive one-take fight scenes in each season).
+
+A new Daredevil show is also in the works, [*Daredevil: Born Again*](https://en.wikipedia.org/wiki/Daredevil:_Born_Again), with some of the cast from the 2015 show reprising their roles.
 
 ### Arcane (2021)
 
+<p style="text-align: center">
+<img src="https://m.media-amazon.com/images/M/MV5BYmU5OWM5ZTAtNjUzOC00NmUyLTgyOWMtMjlkNjdlMDAzMzU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" alt="arcane season 1 poster" height="250">
+</p>
+
+Every frame looks like a high quality wallpaper. The character dynamics are varied and full of rich emotional depth. The soundtrack is great to listen to even outside the context of the show. The writing touches on classism, police brutality, poverty cycle, dangers and wonders of new technology, and the nature of family. Watch this show, even if you haven't played the games (in fact it's kind of better if you haven't).
+
 ### Dopesick (2021)
+
+<p style="text-align: center">
+<img src="https://m.media-amazon.com/images/I/61msXVO54lL._AC_UF894,1000_QL80_.jpg" alt="dopesick poster" height="250">
+</p>
+
+A limited series that spans multiple timelines and follows the lives of different people, all affected by the opioid epidemic in the US. This was a heartwrenching watch and important especially if you have no idea about the opioid epidemic or the role of Purdue Pharma in perpetuating it.
 
 ### Mr. Robot (2015)
 
+<p style="text-align: center">
+<img src="https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX1000_.jpg" alt="mr. robot season 1 poster" height="250">
+</p>
+
+A surprisingly accurate depiction of a hacker aiming to disrupt the capitalist system while dealing with mental illness. It's also known for its unique cinematography which makes characters feel isolated in the frame. Definitely worth watching blind -- do not search up anything about the show, otherwise you will probably get spoiled.
+
 ### The Last of Us (2023)
+
+<p style="text-align: center">
+<img src="https://i.ebayimg.com/images/g/97UAAOSw1XRjlt6O/s-l1600.jpg" alt="the last of us season 1 poster" height="250">
+</p>
+
+An adaptation of the video game of the same name, *The Last of Us* took the world by storm last year, and rightly so -- with an emotionally devastating but also endearing story about a grizzled survivor and his job to transport a young girl across the country for the chance at a cure. Although it is set in an apocalyptic world, the focus is not on the zombies (called "infected") but rather on the human systems and relationships that emerge from the wreckage.
 
 ### Honorable Mentions
 
-- Agents of S.H.I.E.L.D. (2013)
-- Mare of Easttown (2021)
-- Beef (2023)
-- Barry (2018)
-- Only Murders in the Building (2021)
-- Abbott Elementary (2021)
-- The Good Place (2016)
+- *Agents of S.H.I.E.L.D.* (2013)
+- *Mare of Easttown* (2021)
+- *Beef* (2023)
+- *Barry* (2018)
+- *Only Murders in the Building* (2021)
+- *Abbott Elementary* (2021)
+- *The Good Place* (2016)
 
-If you're interested in all of my TV/movie recommendations, check out this [IMDb list](https://www.imdb.com/list/ls567814735/) I made (and will continue to update). I also recently made a [Letterboxd](https://letterboxd.com/phrdang).
+If you're interested in all of my TV/movie recommendations, check out this [IMDb list](https://www.imdb.com/list/ls567814735/) I made (and will continue to update). I also recently made a [Letterboxd](https://letterboxd.com/phrdang)!
