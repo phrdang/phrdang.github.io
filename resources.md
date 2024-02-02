@@ -74,6 +74,7 @@ permalink: /resources/
 - [MIT Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (practical software engineering skills, e.g. bash, Git, Vim) ⭐
 - [College Compendium](https://collegecompendium.org/) (audit university CS classes)
 - [Treehouse](https://teamtreehouse.com/)
+- See [About](/about.md) for links to UC Berkeley class material
 
 ## Python
 
