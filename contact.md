@@ -8,8 +8,6 @@ permalink: /contact/
 
 - [rdang@berkeley.edu](mailto:rdang@berkeley.edu)
 - [rdang@hkn.eecs.berkeley.edu](mailto:rdang@hkn.eecs.berkeley.edu)
-- [rdang@ieee.org](mailto:rdang@ieee.org)
-- [rebeccad@code4tomorrow.org](mailto:rebeccad@code4tomorrow.org)
 
 ## 👋 Socials
 
