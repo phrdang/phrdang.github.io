@@ -66,6 +66,7 @@ permalink: /resources/
   - Note: Some universities may provide access to this for free
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Big R](https://big-r.netlify.app/index.html)
+- [Coupon Follow: Save Money: Learn to Code From Home](https://couponfollow.com/research/learn-to-code-from-home) (thanks Brooke and Stephanie!)
 
 ## General: Classes
 
