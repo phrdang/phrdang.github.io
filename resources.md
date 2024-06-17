@@ -140,6 +140,8 @@ permalink: /resources/
 - [The Deadlock Empire](https://deadlockempire.github.io/) (gameified concurrency)
 - [Schemaverse](https://schemaverse.com/) (gameified Postgres)
 - [Cisco Networking Academy](https://skillsforall.com/)
+- [Computer Science Visualizations: udiprod on YouTube](https://www.youtube.com/playlist?list=PL2aHrV9pFqNRS2b2XX2BvgQIPKh72xREP)
+- [Ruby Koans](https://www.rubykoans.com/)
 
 # 💻 Writing Code
 
@@ -368,6 +370,8 @@ permalink: /resources/
 - [Steven Jeuris: CamelCase vs underscores: Scientific showdown](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
 - [Li Haoyi: How to conduct a good Programming Interview](https://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html) ⭐
 - [Pamela Fox: CS content inclusivity guide](https://blog.pamelafox.org/2022/08/cs-content-inclusivity-guide.html) ⭐
+- [Fable Tales: Questions for a prospective employer about on call (1/3)](https://penelope.zone/2019/01/04/questions-for-a-prospective-employer-about-on-call-1-3.html)
+- [Fable Tales: Questions for a prospective employer about on call (2/3)](https://penelope.zone/2019/01/14/questions-for-a-prospective-employer-about-on-call-2-3.html)
 
 ## Asking for Help
 
@@ -398,3 +402,5 @@ permalink: /resources/
 - [Slackmojis](https://slackmojis.com/) ⭐
 - [Discordmojis](https://discordmojis.com/) ⭐
 - [Coolors.co](https://coolors.co/) ⭐ (generate color palettes)
+- [JS is Weird](https://jsisweird.com/)
+- [neal.fun](https://neal.fun/)
