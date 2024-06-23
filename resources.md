@@ -66,6 +66,7 @@ permalink: /resources/
   - Note: Some universities may provide access to this for free
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Big R](https://big-r.netlify.app/index.html)
+- [Coupon Follow: Save Money: Learn to Code From Home](https://couponfollow.com/research/learn-to-code-from-home) (thanks Brooke and Stephanie!)
 
 ## General: Classes
 
@@ -74,6 +75,7 @@ permalink: /resources/
 - [MIT Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (practical software engineering skills, e.g. bash, Git, Vim) ⭐
 - [College Compendium](https://collegecompendium.org/) (audit university CS classes)
 - [Treehouse](https://teamtreehouse.com/)
+- See [About](/about.md) for links to UC Berkeley class material
 
 ## Python
 
@@ -138,6 +140,8 @@ permalink: /resources/
 - [The Deadlock Empire](https://deadlockempire.github.io/) (gameified concurrency)
 - [Schemaverse](https://schemaverse.com/) (gameified Postgres)
 - [Cisco Networking Academy](https://skillsforall.com/)
+- [Computer Science Visualizations: udiprod on YouTube](https://www.youtube.com/playlist?list=PL2aHrV9pFqNRS2b2XX2BvgQIPKh72xREP)
+- [Ruby Koans](https://www.rubykoans.com/)
 
 # 💻 Writing Code
 
@@ -240,6 +244,7 @@ permalink: /resources/
 - [Composing Programs by John DeNero](http://composingprograms.com/) (online textbook used in UC Berkeley's [CS 61A](https://cs61a.org) course)
 - [Computational and Inferential Thinking: The Foundations of Data Science, 2nd Edition by Ani Adhikari, John DeNero, David Wagner](https://inferentialthinking.com/chapters/intro.html) (online textbook used in UC Berkeley's [Data 8](https://data8.org) course)
 - [Computer Security by David Wagner, Nicholas Weaver, Peyrin Kao, Fuzail Shakir, Andrew Law, and Nicholas Ngai](https://textbook.cs161.org/) (online textbook used in UC Berkeley's [CS 161](https://cs161.org) course)
+- [Veridical Data Science: The Practice of Responsible Data Analysis and Decision Making by Bin Yu and Rebecca L. Barter](https://vdsbook.com/)
 
 # 🤝 Recruiting
 
@@ -365,6 +370,8 @@ permalink: /resources/
 - [Steven Jeuris: CamelCase vs underscores: Scientific showdown](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
 - [Li Haoyi: How to conduct a good Programming Interview](https://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html) ⭐
 - [Pamela Fox: CS content inclusivity guide](https://blog.pamelafox.org/2022/08/cs-content-inclusivity-guide.html) ⭐
+- [Fable Tales: Questions for a prospective employer about on call (1/3)](https://penelope.zone/2019/01/04/questions-for-a-prospective-employer-about-on-call-1-3.html)
+- [Fable Tales: Questions for a prospective employer about on call (2/3)](https://penelope.zone/2019/01/14/questions-for-a-prospective-employer-about-on-call-2-3.html)
 
 ## Asking for Help
 
@@ -395,3 +402,5 @@ permalink: /resources/
 - [Slackmojis](https://slackmojis.com/) ⭐
 - [Discordmojis](https://discordmojis.com/) ⭐
 - [Coolors.co](https://coolors.co/) ⭐ (generate color palettes)
+- [JS is Weird](https://jsisweird.com/)
+- [neal.fun](https://neal.fun/)

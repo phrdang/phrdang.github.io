@@ -32,13 +32,17 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 ### Relevant Coursework
 
 - UC Berkeley
-  - CS 170: Efficient Algorithms & Intractable Problems
-  - CS 161: Computer Security (C Programming Language, Golang)
-  - CS 70: Discrete Mathematics & Probability Theory
-  - CS 61C: Machine Structures (C Programming Language)
-  - CS 61B: Data Structures (Java)
-  - CS 61A: Structure and Interpretation of Computer Programs (Python)
-  - Fall 2023: CS 188: Artificial Intelligence, Linux System Administration
+  - Spring 2024 coursework: [CS 189: Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/), [CS 186: Database Systems](https://cs186berkeley.net/)
+  - [CS 198-008: Linux System Administration](https://decal.ocf.berkeley.edu/archives/2023-fall/) (generally, decal.ocf.berkeley.edu)
+  - [CS 188: Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa23)
+  - [CS 170: Efficient Algorithms & Intractable Problems](https://cs170.org/) (generally, cs170.org)
+  - [CS 161: Computer Security (C Programming Language, Golang)](https://sp23.cs161.org/) (generally, cs161.org)
+  - [CS 70: Discrete Mathematics & Probability Theory](https://fa22.eecs70.org/) (generally, eecs70.org)
+  - [CS 61C: Machine Structures (C Programming Language)](https://inst.eecs.berkeley.edu/~cs61c/fa22/) (generally, cs61c.org)
+  - [CS 61B: Data Structures (Java)](https://inst.eecs.berkeley.edu/~cs61b/sp22/index.html)
+  - [CS 61A: Structure and Interpretation of Computer Programs (Python)](https://inst.eecs.berkeley.edu/~cs61a/fa21/) (generally, cs61a.org)
+  - [EECS 16B: Designing Information Devices & Systems II](https://inst.eecs.berkeley.edu/~eecs16a/fa21/index.html) (generally, eecs16a.org)
+  - [EECS 16A: Designing Information Devices & Systems I](https://inst.eecs.berkeley.edu/~ee16b/sp22/) (generally, eecs16b.org)
 - Evergreen Valley College
   - COMSC 80: Discrete Structures
   - COMSC 76: Intro to Data Structures (Java)
