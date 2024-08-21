@@ -32,7 +32,9 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 ### Relevant Coursework
 
 - UC Berkeley
-  - Spring 2024 coursework: [CS 189: Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/), [CS 186: Database Systems](https://cs186berkeley.net/)
+  - Fall 2024 coursework: CS 180: Computer Vision, CS 194-271: Research in AI Education, INTEGBI 134L: Bioinformatics
+  - [CS 189: Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
+  - [CS 186: Database Systems](https://cs186berkeley.net/)
   - [CS 198-008: Linux System Administration](https://decal.ocf.berkeley.edu/archives/2023-fall/) (generally, decal.ocf.berkeley.edu)
   - [CS 188: Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa23)
   - [CS 170: Efficient Algorithms & Intractable Problems](https://cs170.org/) (generally, cs170.org)
