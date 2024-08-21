@@ -142,6 +142,7 @@ permalink: /resources/
 - [Cisco Networking Academy](https://skillsforall.com/)
 - [Computer Science Visualizations: udiprod on YouTube](https://www.youtube.com/playlist?list=PL2aHrV9pFqNRS2b2XX2BvgQIPKh72xREP)
 - [Ruby Koans](https://www.rubykoans.com/)
+- [Awesome Regex](https://github.com/slevithan/awesome-regex)
 
 # 💻 Writing Code
 
@@ -285,7 +286,9 @@ permalink: /resources/
 - [Outreachy](https://www.outreachy.org/) (provides internships in open source to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living)
 - [Include](https://www.include.io/) (inclusive recruiting)
 - [Idealist](https://www.idealist.org/en/) (tech for social good, volunteering)
-- [Pitt Computer Science Club (CSC): Summer Internships](https://github.com/pittcsc/Summer2023-Internships)
+- [SimplifyJobs: Summer Internships](https://github.com/SimplifyJobs/Summer2025-Internships)
+- [SimplifyJobs: New Grad Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
+- [SWEList](https://swelist.com/) (sign up for notifications when either SimplifyJobs GitHub repositories get updated)
 - [Girls Who Code Summer Immersion Program](https://jobs.lever.co/girlswhocode?team=Summer%20Programs) (teaching opportunity)
   - If you're part of Girls Who Code, they also have an email job blast
 - [MLH Career Lab](https://careerlab.mlh.io/)
@@ -296,6 +299,8 @@ permalink: /resources/
 - [Dev Employ](https://devemploy.com/)
 - [EdSurge](https://www.edsurge.com/jobs) (EdTech job postings)
 - [Work At A Startup](https://www.workatastartup.com/) (Y Combinator job postings)
+- [theFreshDev](https://www.thefreshdev.com/) (internship and entry level tech job postings)
+- [Hardware FYI](https://www.hardwarefyi.com/) (hardware resources and job postings)
 
 ### First/Second Year/Minimal Experience/University Programs
 
@@ -372,6 +377,8 @@ permalink: /resources/
 - [Pamela Fox: CS content inclusivity guide](https://blog.pamelafox.org/2022/08/cs-content-inclusivity-guide.html) ⭐
 - [Fable Tales: Questions for a prospective employer about on call (1/3)](https://penelope.zone/2019/01/04/questions-for-a-prospective-employer-about-on-call-1-3.html)
 - [Fable Tales: Questions for a prospective employer about on call (2/3)](https://penelope.zone/2019/01/14/questions-for-a-prospective-employer-about-on-call-2-3.html)
+- [Kevin Lin's Blog](https://kevinl.info/feed.xml) (CS education blog)
+- [Abby Brooks-Ramirez: when finding yourself in college, be careful not to lose yourself](https://medium.com/@abbyramirez03/when-finding-yourself-in-college-be-careful-not-to-lose-yourself-21553023b2dd)
 
 ## Asking for Help
 
@@ -404,3 +411,10 @@ permalink: /resources/
 - [Coolors.co](https://coolors.co/) ⭐ (generate color palettes)
 - [JS is Weird](https://jsisweird.com/)
 - [neal.fun](https://neal.fun/)
+- [UCSD Professor Philip Guo](https://pg.ucsd.edu/) (A professor's website organized by Taylor Swift eras)
+- Variations of [motherfuckingwebsite.com](https://motherfuckingwebsite.com/)
+  - [perfectmotherfuckingwebsite.com](https://perfectmotherfuckingwebsite.com/)
+  - [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com/)
+  - [thebestmotherfucking.website](https://thebestmotherfucking.website/)
+  - [thebestmotherfuckingwebsite.co](https://thebestmotherfuckingwebsite.co/)
+- [UC Berkeley Pedagogy Blog](https://pedagogy.cs161.org/)
