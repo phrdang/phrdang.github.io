@@ -83,6 +83,7 @@ permalink: /resources/
 - [MIT: Computational Thinking using Python](https://www.edx.org/xseries/mitx-computational-thinking-using-python) ⭐
 - [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/index.html) (Python, NumPy)
 - [Future Coder](https://futurecoder.io/)
+- [Composing Programs by John DeNero](http://composingprograms.com/) ⭐ (online textbook used in UC Berkeley's [CS 61A](https://cs61a.org) course)
 
 ## Java
 
@@ -112,6 +113,10 @@ permalink: /resources/
 - [Frank Andrade: A Complete 26 Week Course to Learn Python for Data Science in 2022](https://towardsdatascience.com/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4)
 - [Intro to Machine Learning Workshop Slides](https://docs.google.com/presentation/d/1YX8xPcahQ8_8NzmwqWe-R9MVxcOu4RsaftQ3AZk6iuA/edit#slide=id.g14046ed654e_0_26), hosted by [ML@Berkeley](https://ml.berkeley.edu/), the [Society of Women Engineers at Berkeley](https://swe.berkeley.edu), and the [Association of Women in EECS at Berkeley](https://awe.berkeley.edu)
 - [Christoph Cemper / AIPRM: A Kid's Guide to Artificial Intelligence and Machine Learning](https://www.aiprm.com/education/a-kids-guide-to-artificial-intelligence-and-machine-learning/)
+- [Introduction to Artificial Intelligence by Nikhil Sharma, Josh Hug, Jacky Liang, and Henry Zhu](https://inst.eecs.berkeley.edu/~cs188/textbook/) ⭐ (textbook for UC Berkeley's CS 188 Intro to AI course)
+- [Computational and Inferential Thinking: The Foundations of Data Science, 2nd Edition by Ani Adhikari, John DeNero, David Wagner](https://inferentialthinking.com/chapters/intro.html) ⭐ (online textbook used in UC Berkeley's [Data 8](https://data8.org) course)
+- [Learning Data Science by Sam Lau, Joey Gonzalez, and Deb Nolan](https://learningds.org/intro.html) ⭐ (textbook for UC Berkeley's DATA 100: Principles and Techniques of Data Science)
+- [Veridical Data Science: The Practice of Responsible Data Analysis and Decision Making by Bin Yu and Rebecca L. Barter](https://vdsbook.com/)
 
 ## Terminal-Based Text Editors
 
@@ -144,6 +149,10 @@ permalink: /resources/
 - [Computer Science Visualizations: udiprod on YouTube](https://www.youtube.com/playlist?list=PL2aHrV9pFqNRS2b2XX2BvgQIPKh72xREP)
 - [Ruby Koans](https://www.rubykoans.com/)
 - [Awesome Regex](https://github.com/slevithan/awesome-regex)
+- [PostgreSQL Exercises](https://pgexercises.com/)
+- [CS 186: Database Systems Course Notes](https://cs186berkeley.net/notes/) ⭐
+- [DATA 101: Data Engineering Course Notes](https://data101.org/notes)
+- [Computer Security by David Wagner, Nicholas Weaver, Peyrin Kao, Fuzail Shakir, Andrew Law, and Nicholas Ngai](https://textbook.cs161.org/) ⭐ (online textbook used in UC Berkeley's [CS 161](https://cs161.org) course)
 
 # 💻 Writing Code
 
@@ -243,10 +252,6 @@ permalink: /resources/
 - [Basic Editing in Visual Studio Code](https://code.visualstudio.com/docs/editor/codebasics)
 - [VimAwesome](https://vimawesome.com/) (cool Vim plugins)
 - [Michael Sambol YouTube Channel](https://www.youtube.com/c/MichaelSambol) (concise and easy to understand data structures videos)
-- [Composing Programs by John DeNero](http://composingprograms.com/) (online textbook used in UC Berkeley's [CS 61A](https://cs61a.org) course)
-- [Computational and Inferential Thinking: The Foundations of Data Science, 2nd Edition by Ani Adhikari, John DeNero, David Wagner](https://inferentialthinking.com/chapters/intro.html) (online textbook used in UC Berkeley's [Data 8](https://data8.org) course)
-- [Computer Security by David Wagner, Nicholas Weaver, Peyrin Kao, Fuzail Shakir, Andrew Law, and Nicholas Ngai](https://textbook.cs161.org/) (online textbook used in UC Berkeley's [CS 161](https://cs161.org) course)
-- [Veridical Data Science: The Practice of Responsible Data Analysis and Decision Making by Bin Yu and Rebecca L. Barter](https://vdsbook.com/)
 
 # 🤝 Recruiting
 
@@ -260,6 +265,7 @@ permalink: /resources/
 - [Cram](https://www.cram.com/subjects/interview)
 - [Rebecca's Recruiting Advice](https://phrdang.notion.site/Recruiting-Advice-2d8b99fca26f4b038fae61682d6cffa1)
 - [Forage](https://www.theforage.com/) (job simulations)
+- [Kieron's Guide to New Grad Recruiting](https://confirmed-chair-316.notion.site/Kieron-s-Guide-to-New-Grad-Recruiting-0a3e32ddfa8e428e97685eb67fe46fe0)
 
 ## Technical Interviewing
 
@@ -419,3 +425,4 @@ permalink: /resources/
   - [thebestmotherfucking.website](https://thebestmotherfucking.website/)
   - [thebestmotherfuckingwebsite.co](https://thebestmotherfuckingwebsite.co/)
 - [UC Berkeley Pedagogy Blog](https://pedagogy.cs161.org/)
+- [Get Cyber Smart](https://www.getcybersmart.org/) (free cybersecurity educational resources)

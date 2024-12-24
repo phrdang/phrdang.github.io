@@ -8,25 +8,23 @@ I'm interested in all things computer science, education, and computer science e
 
 #### Contents
 
-- [Teaching Statistics, at a glance](#teaching-statistics-at-a-glance)
-  - [Ed Statistics](#ed-statistics)
-  - [Course Evaluations](#course-evaluations)
-    - [CS 88 (Spring 2024)](#cs-88-spring-2024)
-    - [CS 88 (Fall 2023)](#cs-88-fall-2023)
-- [CS 194-271 Research in AI Education](#cs-194-271-research-in-ai-education)
-- [Research Assistant at Algorithms and Computing for Education (ACE) Lab](#research-assistant-at-algorithms-and-computing-for-education-ace-lab)
-- [Head Teaching Assistant for DATA 101 at UC Berkeley](#head-teaching-assistant-for-data-101-at-uc-berkeley)
-- [Software Developer for Seamless Learning Project](#software-developer-for-seamless-learning-project)
-- [Head Teaching Assistant for CS 88 at UC Berkeley](#head-teaching-assistant-for-cs-88-at-uc-berkeley)
-- [Teaching Assistant for CS 88 at UC Berkeley](#teaching-assistant-for-cs-88-at-uc-berkeley)
-- [Tutor for CS 88 at UC Berkeley](#tutor-for-cs-88-at-uc-berkeley)
-- [Coordinator for Computer Science Mentors (CSM)](#coordinator-for-computer-science-mentors-csm)
-- [CalTeach Program](#calteach-program)
-- [CS 61A Exam Advice](#cs-61a-exam-advice)
-- [Academic Intern for CS 61A](#academic-intern-for-cs-61a)
-- [CS 61B: RTFM, Defensive Programming, and Debugging](#cs-61b-rtfm-defensive-programming-and-debugging)
-- [Code 4 Tomorrow (C4T)](#code-4-tomorrow-c4t)
-- [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
+- [](#)
+      - [CS 88 (Spring 2024)](#cs-88-spring-2024)
+      - [CS 88 (Fall 2023)](#cs-88-fall-2023)
+  - [CS 194-271 Research in AI Education](#cs-194-271-research-in-ai-education)
+  - [Research Assistant at Algorithms and Computing for Education (ACE) Lab](#research-assistant-at-algorithms-and-computing-for-education-ace-lab)
+  - [Head Teaching Assistant for DATA 101 at UC Berkeley](#head-teaching-assistant-for-data-101-at-uc-berkeley)
+  - [Software Developer for Seamless Learning Project](#software-developer-for-seamless-learning-project)
+  - [Head Teaching Assistant for CS 88 at UC Berkeley](#head-teaching-assistant-for-cs-88-at-uc-berkeley)
+  - [Teaching Assistant for CS 88 at UC Berkeley](#teaching-assistant-for-cs-88-at-uc-berkeley)
+  - [Tutor for CS 88 at UC Berkeley](#tutor-for-cs-88-at-uc-berkeley)
+  - [Coordinator for Computer Science Mentors (CSM)](#coordinator-for-computer-science-mentors-csm)
+  - [CalTeach Program](#calteach-program)
+  - [CS 61A Exam Advice](#cs-61a-exam-advice)
+  - [Academic Intern for CS 61A](#academic-intern-for-cs-61a)
+  - [CS 61B: RTFM, Defensive Programming, and Debugging](#cs-61b-rtfm-defensive-programming-and-debugging)
+  - [Code 4 Tomorrow (C4T)](#code-4-tomorrow-c4t)
+  - [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
 
 ## Teaching Statistics, at a glance
 
@@ -36,7 +34,7 @@ I'm interested in all things computer science, education, and computer science e
 
 | Course | Semester | Answers | Comments |
 | :--- | :--- | :--- | :--- |
-| DATA 101 | Fall 2024 | 168+ | 437+ |
+| DATA 101 | Fall 2024 | 202 (top answerer) | 506 (top commenter) |
 | CS 88 | Spring 2024 | 338 (top answerer) | 570 (top commenter) |
 | CS 88 | Fall 2023 | 215 (top answerer) | 497 (top commenter) |
 | CS 88 | Spring 2023 | 98 (#4 answerer) | 121 (#4 commenter) |
@@ -78,7 +76,7 @@ Every semester, students have the option to fill out a course evaluation form to
 ## CS 194-271 Research in AI Education
 Aug 2024 - Dec 2024 | Berkeley, CA
 
-- Worked on a project (advised by Professors Gireeja Ranade and Narges Norouzi) that uses LLMs to automatically classify large problem banks by topic, saving time for TAs and potentially helping students find problems to study.
+- Worked on a project called `findprob` ([GitHub](https://github.com/phrdang/findprob), [docs](https://phrdang.github.io/findprob/), [PyPI](https://pypi.org/project/findprob/)) (advised by Professors Gireeja Ranade and Narges Norouzi) that uses LLMs to automatically classify large problem banks by topic, saving time for TAs and potentially helping students find problems to study.
 - Next semester (Spring 2025), I intend to take a seminar course with the instructors to submit our project to the [Educational Data Mining 2025](https://educationaldatamining.org/edm2025/) research conference.
 
 ## Research Assistant at [Algorithms and Computing for Education (ACE) Lab](https://acelab.berkeley.edu/)
@@ -91,7 +89,8 @@ Jun 2024 - Present | Berkeley, CA
 ## Head Teaching Assistant for DATA 101 at UC Berkeley
 Aug 2024 - Dec 2024 | Berkeley, CA
 
-- Created and updated projects and homework assignments, taught 2 weekly discussion sections, held office hours, and graded exams for [DATA 101](https://data101.org/fa24/): Data Engineering (aka INFO 258)
+- Created and updated [projects](https://github.com/cal-data-eng/fa24-materials/tree/main/proj) and homework assignments, taught 2 weekly discussion sections, held office hours, and graded exams for [DATA 101](https://data101.org/fa24/): Data Engineering (aka INFO 258)
+- Co-created a new project, [Project 0: SQL Review](https://github.com/cal-data-eng/fa24-materials/blob/main/proj/proj0/proj0.ipynb) with Professor Michael Ball
 
 ## Software Developer for [Seamless Learning Project](https://berkeley-cdss.github.io/seamless-learning/)
 Jun 2024 | Berkeley, CA

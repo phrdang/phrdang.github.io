@@ -32,7 +32,10 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 ### Relevant Coursework
 
 - UC Berkeley
-  - Fall 2024 coursework: CS 180: Computer Vision & Computational Photography, CS 194-271: Research in AI Education, INTEGBI 134L: Computational Genomics
+  - Spring 2025 coursework: TBA
+  - [CS 180: Computer Vision & Computational Photography](https://inst.eecs.berkeley.edu/~cs180/fa24/) (see my [portfolio](https://phrdang.github.io/cs180-portfolio/))
+  - CS 194-271: Research in AI Education (see my [Education Portfolio](/ed-portfolio.md))
+  - INTEGBI 134L: Practical Genomics
   - [CS 189: Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
   - [CS 186: Database Systems](https://cs186berkeley.net/)
   - [CS 198-008: Linux System Administration](https://decal.ocf.berkeley.edu/archives/2023-fall/) (generally, decal.ocf.berkeley.edu)
