@@ -8,20 +8,111 @@ I'm interested in all things computer science, education, and computer science e
 
 #### Contents
 
-- [Undergraduate Course Staff 2 (Teaching Assistant) for CS 88 at UC Berkeley](#undergraduate-course-staff-2-teaching-assistant-for-cs-88-at-uc-berkeley)
-- [Tutor for CS 88 at UC Berkeley](#tutor-for-cs-88-at-uc-berkeley)
-- [Coordinator for Computer Science Mentors (CSM)](#coordinator-for-computer-science-mentors-csm)
-- [CalTeach Program](#calteach-program)
-- [CS 61A Exam Advice](#cs-61a-exam-advice)
-- [Academic Intern for CS 61A](#academic-intern-for-cs-61a)
-- [CS 61B: RTFM, Defensive Programming, and Debugging](#cs-61b-rtfm-defensive-programming-and-debugging)
-- [Code 4 Tomorrow (C4T)](#code-4-tomorrow-c4t)
-- [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
+- [](#)
+      - [CS 88 (Spring 2024)](#cs-88-spring-2024)
+      - [CS 88 (Fall 2023)](#cs-88-fall-2023)
+  - [CS 194-271 Research in AI Education](#cs-194-271-research-in-ai-education)
+  - [Research Assistant at Algorithms and Computing for Education (ACE) Lab](#research-assistant-at-algorithms-and-computing-for-education-ace-lab)
+  - [Head Teaching Assistant for DATA 101 at UC Berkeley](#head-teaching-assistant-for-data-101-at-uc-berkeley)
+  - [Software Developer for Seamless Learning Project](#software-developer-for-seamless-learning-project)
+  - [Head Teaching Assistant for CS 88 at UC Berkeley](#head-teaching-assistant-for-cs-88-at-uc-berkeley)
+  - [Teaching Assistant for CS 88 at UC Berkeley](#teaching-assistant-for-cs-88-at-uc-berkeley)
+  - [Tutor for CS 88 at UC Berkeley](#tutor-for-cs-88-at-uc-berkeley)
+  - [Coordinator for Computer Science Mentors (CSM)](#coordinator-for-computer-science-mentors-csm)
+  - [CalTeach Program](#calteach-program)
+  - [CS 61A Exam Advice](#cs-61a-exam-advice)
+  - [Academic Intern for CS 61A](#academic-intern-for-cs-61a)
+  - [CS 61B: RTFM, Defensive Programming, and Debugging](#cs-61b-rtfm-defensive-programming-and-debugging)
+  - [Code 4 Tomorrow (C4T)](#code-4-tomorrow-c4t)
+  - [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
 
-## Undergraduate Course Staff 2 (Teaching Assistant) for CS 88 at UC Berkeley
-Aug 2023 - Present | Berkeley, CA
+## Teaching Statistics, at a glance
 
-- Teaching weekly discussion and lab sections, holding office hours, and writing exam questions for CS 88:
+### Ed Statistics
+
+[Ed](https://edstem.org/) is the official course Q&A forum used by UC Berkeley courses. As a TA, I love responding to student questions over Ed. Here is a summary of my Ed stats:
+
+| Course | Semester | Answers | Comments |
+| :--- | :--- | :--- | :--- |
+| DATA 101 | Fall 2024 | 202 (top answerer) | 506 (top commenter) |
+| CS 88 | Spring 2024 | 338 (top answerer) | 570 (top commenter) |
+| CS 88 | Fall 2023 | 215 (top answerer) | 497 (top commenter) |
+| CS 88 | Spring 2023 | 98 (#4 answerer) | 121 (#4 commenter) |
+
+### Course Evaluations
+
+Every semester, students have the option to fill out a course evaluation form to give feedback on their TAs. Here are some statistics on the evaluations I have received. All scores are on a scale from 0 (worst) to 7 (best).
+
+#### CS 88 (Spring 2024)
+
+84.73% response rate (n = 383)
+
+| Question | My Mean Score | Department Mean Score |
+| :--- | :--- | :--- |
+| The GSI’s instructional activities, contributions, and/or feedback enhanced my learning. | 6.6 | 6.1 |
+| The GSI created an environment in which I could feel included (for example, encouraged multiple voices/perspectives, welcomed questions and critiques, responded to student feedback). | 6.64 | 6.17 |
+| The instructor presented content in an organized manner. | 6.67 | 6.05 |
+| The instructor developed my abilities and skills for the subject. | 6.65 | 6.01 |
+| The instructor explained concepts clearly. | 6.61 | 5.98 |
+| The instructor encouraged student questions. | 6.7 | 6.06 |
+| I would recommend this instructor to others. | 6.69 | 6 |
+| Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.65 | 6.13 |
+
+#### CS 88 (Fall 2023)
+
+76.29% response rate (n = 354)
+
+| Question | My Mean Score | Department Mean Score |
+| :--- | :--- | :--- |
+| The GSI’s instructional activities, contributions, and/or feedback enhanced my learning. | 6.42 | 5.95 |
+| The GSI created an environment in which I could feel included (for example, encouraged multiple voices/perspectives, welcomed questions and critiques, responded to student feedback). | 6.52 | 6.04 |
+| The instructor presented content in an organized manner. | 6.36 | 5.98 |
+| The instructor developed my abilities and skills for the subject. | 6.51 | 5.95 |
+| The instructor explained concepts clearly. | 6.34 | 5.92 |
+| The instructor encouraged student questions. | 6.45 | 6.04 |
+| I would recommend this instructor to others. | 6.27 | 5.93 |
+| Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.48 | 6.03 |
+
+## CS 194-271 Research in AI Education
+Aug 2024 - Dec 2024 | Berkeley, CA
+
+- Worked on a project called `findprob` ([GitHub](https://github.com/phrdang/findprob), [docs](https://phrdang.github.io/findprob/), [PyPI](https://pypi.org/project/findprob/)) (advised by Professors Gireeja Ranade and Narges Norouzi) that uses LLMs to automatically classify large problem banks by topic, saving time for TAs and potentially helping students find problems to study.
+- Next semester (Spring 2025), I intend to take a seminar course with the instructors to submit our project to the [Educational Data Mining 2025](https://educationaldatamining.org/edm2025/) research conference.
+
+## Research Assistant at [Algorithms and Computing for Education (ACE) Lab](https://acelab.berkeley.edu/)
+Jun 2024 - Present | Berkeley, CA
+
+- Analyzed survey responses, journal entries, interviews, and classroom observations for undergraduate teaching assistants who took [DATA 375](https://data375.org) (a pedagogy course for first-time TAs at UC Berkeley) to investigate the relationship between teaching identity, teaching goals, and teaching practices
+- Poster accepted to [SIGCSE TS 2025](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-posters/132/Exploration-of-Undergraduate-Teaching-Assistant-Identity-and-Teaching-Goals-in-Data-S) (Technical Symposium on Computer Science Education)
+- Research advisor: Professor Lisa Yan, UC Berkeley Electrical Engineering and Computer Science
+
+## Head Teaching Assistant for DATA 101 at UC Berkeley
+Aug 2024 - Dec 2024 | Berkeley, CA
+
+- Created and updated [projects](https://github.com/cal-data-eng/fa24-materials/tree/main/proj) and homework assignments, taught 2 weekly discussion sections, held office hours, and graded exams for [DATA 101](https://data101.org/fa24/): Data Engineering (aka INFO 258)
+- Co-created a new project, [Project 0: SQL Review](https://github.com/cal-data-eng/fa24-materials/blob/main/proj/proj0/proj0.ipynb) with Professor Michael Ball
+
+## Software Developer for [Seamless Learning Project](https://berkeley-cdss.github.io/seamless-learning/)
+Jun 2024 | Berkeley, CA
+
+- Created a [template website](https://github.com/berkeley-cdss/berkeley-class-site) for UC Berkeley's computing, data science, and statistics courses that reduces setup and maintenance overhead for teaching assistants
+- Implemented linting and web accessibility checks in continuous integration workflows through GitHub Actions
+- [Presentation slides](https://docs.google.com/presentation/d/1YnjKDKzW7QvbXxW5Et1gv-kJnxRacAZr9KIfeEQnPeQ/edit#slide=id.g2739fc2f2bc_0_24)
+
+## Head Teaching Assistant for CS 88 at UC Berkeley
+Jan 2024 - May 2024 | Berkeley, CA
+
+- Managed 12 other course staff members and organized course logistics for 450+ students
+- Created onboarding process and training session for new TAs
+- Implemented new Gradescope autograder that could check if the student submitted the correct code for lab attendance
+- Delivered guest lecture on linked lists
+- Wrote documentation on how to run exam logistics and how to write a good exam problem
+- Taught weekly discussion and lab sections and held office hours
+
+## Teaching Assistant for CS 88 at UC Berkeley
+Aug 2023 - Dec 2023 | Berkeley, CA
+
+- Taught weekly discussion and lab sections, held office hours, and wrote exam questions for CS 88:
 Computational Structures in Data Science (aka DATA C88C)
 
 ## Tutor for CS 88 at UC Berkeley
@@ -56,7 +147,7 @@ Previously, as a **CS 88 Senior Mentor** (Fall 2022) and **Junior Mentor** (Spri
 *Learn more about [CSM](https://csmentors.berkeley.edu)*
 
 ## CalTeach Program
-Jan 2022 - Present | Berkeley, CA & Hayward, CA
+Jan 2022 - Dec 2022 | Berkeley, CA & Hayward, CA
 
 CalTeach is a program offered at UC Berkeley for undergraduate STEM majors interested in education. Specifically, CalTeach students can pursue a minor or teaching credential (concurrently with their Bachelor's degree). CalTeach courses teach pedagogical skills and offer students the opportunity to be placed in a local K-12 classroom to observe and practice teaching.
 
