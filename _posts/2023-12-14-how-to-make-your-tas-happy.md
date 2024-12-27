@@ -1,3 +1,8 @@
+How to make your TAs happy
+How to be a great TA
+
+caveat: EECS/CS/DS applicable
+
 ed etiquette
 showing up
 participating
@@ -5,6 +10,9 @@ coming to oh
 email etiquette
 we're students too
 learning names is hard but we're trying
+grades, distributions, why we count exams, how scanning/grading works, what we have control over vs. not (e.g. waitlist stuff)
+
+you have to be sensitive, empathetic, and not assume prior knowledge. example: difficulty of the course ed post. but also not condescending. difficult balance to strike.
 
 Welcome to course staffing and +1 to everything said!
 I think everyone preps a bit differently, but what I find is students will usually ask for help related to assignments in OH (very rarely have I encountered a purely conceptual question, unless it’s midterm/final season). So I like to make sure I’m familiar with the current assignment, like what the questions ask students to do. I try to do them myself if I have time or at least think about how a student would attempt it. Things to pay attention to are:
