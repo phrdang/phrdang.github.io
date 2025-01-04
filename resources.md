@@ -342,6 +342,7 @@ permalink: /resources/
   - Has an email job blast anyone can sign up for
 - [Kleiner Perkins Fellows](https://fellows.kleinerperkins.com/)
 - [X-Force Fellowship](https://www.nsin.mil/x-force/) (security, US military)
+- [US Digital Corps Fellowship](https://digitalcorps.gsa.gov/opportunity/) (US government)
 
 ## Coding For Fun / Practice / Fundamentals
 
