@@ -51,9 +51,9 @@ minima:
 header_pages:
  - about.md
  - resume.html
+ - ed-portfolio.md
  - contact.md
  - resources.md
- - credits.md
 
 # Build settings
 theme: minima
