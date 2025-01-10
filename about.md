@@ -25,7 +25,7 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 
 | School | Dates | Major | GPA | Honors |
 |--------|-------|-------|-----|------------------|
-| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | 3.8 | Member of Eta Kappa Nu, Mu Chapter (IEEE-HKN), EECS Honor Society |
+| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | 3.9 | Member of Eta Kappa Nu, Mu Chapter (IEEE-HKN), EECS Honor Society |
 | Evergreen Valley College | Jun 2019 - Jul 2020 | N/A (dual enrollment during high school) | 4.0 |  |
 | Evergreen Valley High School | Aug 2017 - Jun 2021 | N/A | 4.0 | Valedictorian |
 
