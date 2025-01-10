@@ -8,23 +8,26 @@ I'm interested in all things computer science, education, and computer science e
 
 #### Contents
 
-- [](#)
-      - [CS 88 (Spring 2024)](#cs-88-spring-2024)
-      - [CS 88 (Fall 2023)](#cs-88-fall-2023)
-  - [CS 194-271 Research in AI Education](#cs-194-271-research-in-ai-education)
-  - [Research Assistant at Algorithms and Computing for Education (ACE) Lab](#research-assistant-at-algorithms-and-computing-for-education-ace-lab)
-  - [Head Teaching Assistant for DATA 101 at UC Berkeley](#head-teaching-assistant-for-data-101-at-uc-berkeley)
-  - [Software Developer for Seamless Learning Project](#software-developer-for-seamless-learning-project)
-  - [Head Teaching Assistant for CS 88 at UC Berkeley](#head-teaching-assistant-for-cs-88-at-uc-berkeley)
-  - [Teaching Assistant for CS 88 at UC Berkeley](#teaching-assistant-for-cs-88-at-uc-berkeley)
-  - [Tutor for CS 88 at UC Berkeley](#tutor-for-cs-88-at-uc-berkeley)
-  - [Coordinator for Computer Science Mentors (CSM)](#coordinator-for-computer-science-mentors-csm)
-  - [CalTeach Program](#calteach-program)
-  - [CS 61A Exam Advice](#cs-61a-exam-advice)
-  - [Academic Intern for CS 61A](#academic-intern-for-cs-61a)
-  - [CS 61B: RTFM, Defensive Programming, and Debugging](#cs-61b-rtfm-defensive-programming-and-debugging)
-  - [Code 4 Tomorrow (C4T)](#code-4-tomorrow-c4t)
-  - [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
+- [Teaching Statistics, at a glance](#teaching-statistics-at-a-glance)
+  - [Ed Statistics](#ed-statistics)
+  - [Course Evaluations](#course-evaluations)
+    - [DATA 101 (Fall 2024)](#data-101-fall-2024)
+    - [CS 88 (Spring 2024)](#cs-88-spring-2024)
+    - [CS 88 (Fall 2023)](#cs-88-fall-2023)
+- [CS 194-271 Research in AI Education](#cs-194-271-research-in-ai-education)
+- [Research Assistant at Algorithms and Computing for Education (ACE) Lab](#research-assistant-at-algorithms-and-computing-for-education-ace-lab)
+- [Head Teaching Assistant for DATA 101 at UC Berkeley](#head-teaching-assistant-for-data-101-at-uc-berkeley)
+- [Software Developer for Seamless Learning Project](#software-developer-for-seamless-learning-project)
+- [Head Teaching Assistant for CS 88 at UC Berkeley](#head-teaching-assistant-for-cs-88-at-uc-berkeley)
+- [Teaching Assistant for CS 88 at UC Berkeley](#teaching-assistant-for-cs-88-at-uc-berkeley)
+- [Tutor for CS 88 at UC Berkeley](#tutor-for-cs-88-at-uc-berkeley)
+- [Coordinator for Computer Science Mentors (CSM)](#coordinator-for-computer-science-mentors-csm)
+- [CalTeach Program](#calteach-program)
+- [CS 61A Exam Advice](#cs-61a-exam-advice)
+- [Academic Intern for CS 61A](#academic-intern-for-cs-61a)
+- [CS 61B: RTFM, Defensive Programming, and Debugging](#cs-61b-rtfm-defensive-programming-and-debugging)
+- [Code 4 Tomorrow (C4T)](#code-4-tomorrow-c4t)
+- [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
 
 ## Teaching Statistics, at a glance
 
@@ -42,6 +45,21 @@ I'm interested in all things computer science, education, and computer science e
 ### Course Evaluations
 
 Every semester, students have the option to fill out a course evaluation form to give feedback on their TAs. Here are some statistics on the evaluations I have received. All scores are on a scale from 0 (worst) to 7 (best).
+
+#### DATA 101 (Fall 2024)
+
+57.85% response rate (n = 247)
+
+| Question | My Mean Score | Department Mean Score |
+| :--- | :--- | :--- |
+| The GSI’s instructional activities, contributions, and/or feedback enhanced my learning. | 6.64 | 6.03 |
+| The GSI created an environment in which I could feel included (for example, encouraged multiple voices/perspectives, welcomed questions and critiques, responded to student feedback). | 6.60 | 6.11 |
+| The instructor presented content in an organized manner. | 6.59 | 6.04 |
+| The instructor developed my abilities and skills for the subject. | 6.58 | 6.00 |
+| The instructor explained concepts clearly. | 6.59 | 5.98 |
+| The instructor encouraged student questions. | 6.64 | 6.10 |
+| I would recommend this instructor to others. | 6.61 | 6.02 |
+| Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.68 | 6.08 |
 
 #### CS 88 (Spring 2024)
 
