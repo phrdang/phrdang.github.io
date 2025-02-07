@@ -231,6 +231,7 @@ permalink: /resources/
 
 - [Regex101](https://regex101.com/) (test regular expressions) ⭐️
 - [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) ⭐️
+- [Pyrexp: Visualize & Test RegEx](https://pythonium.net/regex) 
 - [StackOverflow: Reference - What does this regex mean?](https://stackoverflow.com/questions/22937618/reference-what-does-this-regex-mean)
 
 ## Time Complexity
