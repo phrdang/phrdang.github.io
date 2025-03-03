@@ -68,6 +68,7 @@ permalink: /resources/
 - [Big R](https://big-r.netlify.app/index.html)
 - [Coupon Follow: Save Money: Learn to Code From Home](https://couponfollow.com/research/learn-to-code-from-home) (thanks Brooke and Stephanie!)
 - [Loadview: Coding Websites and Apps for Students](https://www.loadview-testing.com/education/coding-websites-for-apps-and-students/) (thanks Avery!)
+- [Exercism](https://exercism.org/) (coding exercises for multiple languages)
 
 ## General: Classes
 
