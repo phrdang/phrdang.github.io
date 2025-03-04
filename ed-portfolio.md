@@ -120,6 +120,8 @@ Jun 2024 | Berkeley, CA
 ## Head Teaching Assistant for CS 88 at UC Berkeley
 Jan 2024 - May 2024 | Berkeley, CA
 
+<!-- TODO add youtube links for guest lectures + slides + demos -->
+
 - Managed 12 other course staff members and organized course logistics for 450+ students
 - Created onboarding process and training session for new TAs
 - Implemented new Gradescope autograder that could check if the student submitted the correct code for lab attendance
