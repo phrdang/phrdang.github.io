@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🍎 Education Portfolio 
+title: 🍎 Education Portfolio
 permalink: /ed-portfolio/
 ---
 
@@ -14,11 +14,13 @@ I'm interested in all things computer science, education, and computer science e
     - [DATA 101 (Fall 2024)](#data-101-fall-2024)
     - [CS 88 (Spring 2024)](#cs-88-spring-2024)
     - [CS 88 (Fall 2023)](#cs-88-fall-2023)
+- [Head Teaching Assistant for CS 88 at UC Berkeley](#head-teaching-assistant-for-cs-88-at-uc-berkeley)
+- [Poster Presenter at SIGCSE TS 2025](#poster-presenter-at-sigcse-ts-2025)
 - [CS 194-271 Research in AI Education](#cs-194-271-research-in-ai-education)
 - [Research Assistant at Algorithms and Computing for Education (ACE) Lab](#research-assistant-at-algorithms-and-computing-for-education-ace-lab)
 - [Head Teaching Assistant for DATA 101 at UC Berkeley](#head-teaching-assistant-for-data-101-at-uc-berkeley)
 - [Software Developer for Seamless Learning Project](#software-developer-for-seamless-learning-project)
-- [Head Teaching Assistant for CS 88 at UC Berkeley](#head-teaching-assistant-for-cs-88-at-uc-berkeley)
+- [Head Teaching Assistant for CS 88 at UC Berkeley](#head-teaching-assistant-for-cs-88-at-uc-berkeley-1)
 - [Teaching Assistant for CS 88 at UC Berkeley](#teaching-assistant-for-cs-88-at-uc-berkeley)
 - [Tutor for CS 88 at UC Berkeley](#tutor-for-cs-88-at-uc-berkeley)
 - [Coordinator for Computer Science Mentors (CSM)](#coordinator-for-computer-science-mentors-csm)
@@ -91,6 +93,20 @@ Every semester, students have the option to fill out a course evaluation form to
 | I would recommend this instructor to others. | 6.27 | 5.93 |
 | Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.48 | 6.03 |
 
+## Head Teaching Assistant for CS 88 at UC Berkeley
+Jan 2025 - May 2025 | Berkeley, CA
+
+- Managed 12 other course staff members and organized course logistics for 500+ students
+- Delivered guest lecture on inheritance (see video below and lecture materials in video description)
+- Taught weekly discussion and lab sections and held office hours
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hmWSTqX-rDg?si=pK2j4GddT2s9EXmi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Poster Presenter at SIGCSE TS 2025
+Mar 2025 | Pittsburgh, PA
+
+- Attended [SIGCSE TS 2025](https://sigcse2025.sigcse.org/) (a CS education research conference hosted by [ACM](https://www.acm.org/)) and presented a [poster](https://dl.acm.org/doi/10.1145/3641555.3705179) on undergraduate teaching assistants in data science courses
+
 ## CS 194-271 Research in AI Education
 Aug 2024 - Dec 2024 | Berkeley, CA
 
@@ -123,9 +139,11 @@ Jan 2024 - May 2024 | Berkeley, CA
 - Managed 12 other course staff members and organized course logistics for 450+ students
 - Created onboarding process and training session for new TAs
 - Implemented new Gradescope autograder that could check if the student submitted the correct code for lab attendance
-- Delivered guest lecture on linked lists
+- Delivered guest lecture on linked lists (see video below and lecture materials in video description)
 - Wrote documentation on how to run exam logistics and how to write a good exam problem
 - Taught weekly discussion and lab sections and held office hours
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OzF6u7PTMfc?si=LJkKjT3NyEfoM4nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Teaching Assistant for CS 88 at UC Berkeley
 Aug 2023 - Dec 2023 | Berkeley, CA

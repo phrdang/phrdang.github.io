@@ -10,8 +10,10 @@ permalink: /about/
 2. [Education](#-education)
 3. [Experience](#-experience)
 4. [Projects](#-projects)
-5. [Skills](#-skills)
-6. [I'm currently learning...](#-im-currently-learning-)
+5. [Research Publications](#research-publications)
+6. [Teaching and CS Education](#teaching--cs-education)
+7. [Skills](#-skills)
+8. [I'm currently learning...](#-im-currently-learning-)
 
 ## 👋 Hello world!
 
@@ -23,16 +25,17 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 
 ## 🍎 Education
 
-| School | Dates | Major | GPA | Honors |
+| School | Dates | Degree | GPA | Honors |
 |--------|-------|-------|-----|------------------|
-| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | 3.9 | Member of Eta Kappa Nu, Mu Chapter (IEEE-HKN), EECS Honor Society |
+| University of California, Berkeley | Aug 2025 - May 2026 | M.S. Electrical Engineering & Computer Science | N/A |  |
+| University of California, Berkeley | Aug 2021 - May 2025 | B.S. Electrical Engineering & Computer Science | 3.9 | Member of Eta Kappa Nu, Mu Chapter (IEEE-HKN), EECS Honor Society |
 | Evergreen Valley College | Jun 2019 - Jul 2020 | N/A (dual enrollment during high school) | 4.0 |  |
 | Evergreen Valley High School | Aug 2017 - Jun 2021 | N/A | 4.0 | Valedictorian |
 
 ### Relevant Coursework
 
 - UC Berkeley
-  - Spring 2025 coursework: TBA
+  - Spring 2025 coursework: Operating Systems, Computer Networking, Building User-Centered Programming Tools
   - [CS 180: Computer Vision & Computational Photography](https://inst.eecs.berkeley.edu/~cs180/fa24/) (see my [portfolio](https://phrdang.github.io/cs180-portfolio/))
   - CS 194-271: Research in AI Education (see my [Education Portfolio](/ed-portfolio.md))
   - INTEGBI 134L: Practical Genomics
@@ -108,7 +111,11 @@ Sep 2023 - Dec 2023 | Berkeley, CA
 - Leveraged AI techniques to model and predict health outcomes resulting from extreme weather events due to climate change.
 - Research mentor: Professor Irene Chen, [UCSF UC Berkeley Joint Program in Computational Precision Health](https://computationalhealth.berkeley.edu/)
 
-### Teaching & CS Education
+## Research Publications
+
+Krina Patel, Abigail Brooks-Ramirez, Rebecca Dang, Bryan Adolfo Ventura Benitez, and Lisa Yan. 2025. Exploration of Undergraduate Teaching Assistant Identity and Teaching Goals in Data Science Courses. In *Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSETS 2025)*. Association for Computing Machinery, New York, NY, USA, 1573–1574. [https://doi.org/10.1145/3641555.3705179](https://doi.org/10.1145/3641555.3705179).
+
+## Teaching & CS Education
 
 For my experience in teaching and CS education, please see my [Education Portfolio](/ed-portfolio.md)!
 
