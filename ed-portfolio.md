@@ -14,6 +14,7 @@ I'm interested in all things computer science, education, and computer science e
     - [DATA 101 (Fall 2024)](#data-101-fall-2024)
     - [CS 88 (Spring 2024)](#cs-88-spring-2024)
     - [CS 88 (Fall 2023)](#cs-88-fall-2023)
+- [Outstanding GSI Award for Data Science](#outstanding-gsi-award-for-data-science)
 - [Head Teaching Assistant for CS 88 at UC Berkeley](#head-teaching-assistant-for-cs-88-at-uc-berkeley)
 - [Poster Presenter at SIGCSE TS 2025](#poster-presenter-at-sigcse-ts-2025)
 - [CS 194-271 Research in AI Education](#cs-194-271-research-in-ai-education)
@@ -92,6 +93,11 @@ Every semester, students have the option to fill out a course evaluation form to
 | The instructor encouraged student questions. | 6.45 | 6.04 |
 | I would recommend this instructor to others. | 6.27 | 5.93 |
 | Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.48 | 6.03 |
+
+## Outstanding GSI Award for Data Science
+May 2025 | Berkeley, CA
+
+- For excellent service as a TA for DATA C88C and DATA 101 at UC Berkeley
 
 ## Head Teaching Assistant for CS 88 at UC Berkeley
 Jan 2025 - May 2025 | Berkeley, CA

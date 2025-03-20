@@ -27,10 +27,9 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 
 | School | Dates | Degree | GPA | Honors |
 |--------|-------|-------|-----|------------------|
-| University of California, Berkeley | Aug 2025 - May 2026 | M.S. Electrical Engineering & Computer Science | N/A |  |
-| University of California, Berkeley | Aug 2021 - May 2025 | B.S. Electrical Engineering & Computer Science | 3.9 | Member of Eta Kappa Nu, Mu Chapter (IEEE-HKN), EECS Honor Society |
+| University of California, Berkeley | Aug 2025 - May 2026 | M.S. Electrical Engineering & Computer Science (advised by [Professor Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html)), with a research focus on CS Education | N/A |  |
+| University of California, Berkeley | Aug 2021 - May 2025 | B.S. Electrical Engineering & Computer Science | 3.9 | Member of Eta Kappa Nu, Mu Chapter (IEEE-HKN), EECS Honor Society; Outstanding GSI Award for Data Science |
 | Evergreen Valley College | Jun 2019 - Jul 2020 | N/A (dual enrollment during high school) | 4.0 |  |
-| Evergreen Valley High School | Aug 2017 - Jun 2021 | N/A | 4.0 | Valedictorian |
 
 ### Relevant Coursework
 
@@ -56,12 +55,11 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
   - COMSC 76: Intro to Data Structures (Java)
   - COMSC 75: Intro to Program Structures (Java)
   - CIT 20: Program Design & Development (Python)
-- Evergreen Valley High School
-  - Database Design and SQL Programming
-  - AP Calculus BC
-  - AP Calculus AB
 
 ## 💼 Experience
+
+### Software Engineer Intern at [Databricks](https://www.databricks.com/)
+May 2025 - Aug 2025 | Mountain View, CA
 
 ### Software Engineer Intern at [Stripe](https://stripe.com/)
 May 2023 - Aug 2023 | South San Francisco, CA
