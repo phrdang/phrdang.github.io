@@ -34,7 +34,7 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 ### Relevant Coursework
 
 - UC Berkeley
-  - Spring 2025 coursework: Operating Systems, Computer Networking, Building User-Centered Programming Tools
+  - Spring 2025 coursework: [Operating Systems (C Programming Language, Rust)](https://inst.eecs.berkeley.edu/~cs162/sp25) (generally, cs162.org), [Computer Networking](https://sp25.cs168.io), [Building User-Centered Programming Tools](https://schasins.com/cs294-usable-programming-2025/)
   - [CS 180: Computer Vision & Computational Photography](https://inst.eecs.berkeley.edu/~cs180/fa24/) (see my [portfolio](https://phrdang.github.io/cs180-portfolio/))
   - CS 194-271: Research in AI Education (see my [Education Portfolio](/ed-portfolio.md))
   - INTEGBI 134L: Practical Genomics
@@ -61,10 +61,12 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 ### Software Engineer Intern at [Databricks](https://www.databricks.com/)
 May 2025 - Aug 2025 | Mountain View, CA
 
+- Continuous Integration team
+
 ### Software Engineer Intern at [Stripe](https://stripe.com/)
 May 2023 - Aug 2023 | South San Francisco, CA
 
-- Developer Infrastructure organization, Ruby Infrastructure team
+- Developer Infrastructure organization > Language and Runtime Tools > Ruby Infrastructure team
 - Saved 38+ engineer hours weekly by creating a heuristic to prioritize tests run in continuous integration builds for
 the largest Ruby codebase in the world (20+ million lines of code and 3+ million tests)
 - Created dashboard to evaluate effectiveness of different test ordering heuristics
@@ -166,6 +168,7 @@ Jan 2019
 - C Programming Language
 - Golang
 - SQL
+- Rust
 - Scheme
 
 ### Other

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📚 Resources 
+title: 📚 Resources
 permalink: /resources/
 ---
 
@@ -69,6 +69,7 @@ permalink: /resources/
 - [Coupon Follow: Save Money: Learn to Code From Home](https://couponfollow.com/research/learn-to-code-from-home) (thanks Brooke and Stephanie!)
 - [Loadview: Coding Websites and Apps for Students](https://www.loadview-testing.com/education/coding-websites-for-apps-and-students/) (thanks Avery!)
 - [Exercism](https://exercism.org/) (coding exercises for multiple languages)
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
 ## General: Classes
 
