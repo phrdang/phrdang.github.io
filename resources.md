@@ -70,6 +70,7 @@ permalink: /resources/
 - [Loadview: Coding Websites and Apps for Students](https://www.loadview-testing.com/education/coding-websites-for-apps-and-students/) (thanks Avery!)
 - [Exercism](https://exercism.org/) (coding exercises for multiple languages)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [Cybersecurity Mastery Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap)
 
 ## General: Classes
 
@@ -155,13 +156,13 @@ permalink: /resources/
 - [CS 186: Database Systems Course Notes](https://cs186berkeley.net/notes/) ⭐
 - [DATA 101: Data Engineering Course Notes](https://data101.org/notes)
 - [Computer Security by David Wagner, Nicholas Weaver, Peyrin Kao, Fuzail Shakir, Andrew Law, and Nicholas Ngai](https://textbook.cs161.org/) ⭐ (online textbook used in UC Berkeley's [CS 161](https://cs161.org) course)
+- [Qualtrics Glossary of Coding and Programming Terms](https://www.qualtrics.com/blog/glossary-of-coding-and-programming-terms/) (thanks Kaitlin and Jonas!)
 
 # 💻 Writing Code
 
 ## Desktop Apps
 
 - [Visual Studio Code](https://code.visualstudio.com/) ⭐
-- [Atom](https://atom.io)
 - [Sublime Text](https://www.sublimetext.com)
 - [JetBrains IDEs](https://www.jetbrains.com/products/#type=ide) (IntelliJ for Java, PyCharm for Python, and more)
 - [Android Studio](https://developer.android.com/studio) (Android development, Java)
