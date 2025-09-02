@@ -62,6 +62,8 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 May 2025 - Aug 2025 | Mountain View, CA
 
 - Continuous Integration team
+- Implemented an extensible and configurable system to automatically remediate failed CI jobs, saving 120+ engineer hours/month
+- Migrated source of truth for CI checker results from GitHub to an internal RPC service, reducing Databricks' dependency on 3rd party APIs and halving request latency
 
 ### Software Engineer Intern at [Stripe](https://stripe.com/)
 May 2023 - Aug 2023 | South San Francisco, CA

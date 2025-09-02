@@ -14,7 +14,10 @@ I'm interested in all things computer science, education, and computer science e
     - [DATA 101 (Fall 2024)](#data-101-fall-2024)
     - [CS 88 (Spring 2024)](#cs-88-spring-2024)
     - [CS 88 (Fall 2023)](#cs-88-fall-2023)
+- [Graduate Student Instructor for CS 88 at UC Berkeley](#graduate-student-instructor-for-cs-88-at-uc-berkeley)
+- [CDSS Common Docs](#cdss-common-docs)
 - [Outstanding GSI Award for Data Science](#outstanding-gsi-award-for-data-science)
+- [ASEE LEES 2025 Paper](#asee-lees-2025-paper)
 - [Head Teaching Assistant for CS 88 at UC Berkeley](#head-teaching-assistant-for-cs-88-at-uc-berkeley)
 - [Poster Presenter at SIGCSE TS 2025](#poster-presenter-at-sigcse-ts-2025)
 - [CS 194-271 Research in AI Education](#cs-194-271-research-in-ai-education)
@@ -48,6 +51,8 @@ I'm interested in all things computer science, education, and computer science e
 ### Course Evaluations
 
 Every semester, students have the option to fill out a course evaluation form to give feedback on their TAs. Here are some statistics on the evaluations I have received. All scores are on a scale from 0 (worst) to 7 (best).
+
+<!-- TODO CS 88 SP25, FA25 -->
 
 #### DATA 101 (Fall 2024)
 
@@ -94,10 +99,22 @@ Every semester, students have the option to fill out a course evaluation form to
 | I would recommend this instructor to others. | 6.27 | 5.93 |
 | Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.48 | 6.03 |
 
+## Graduate Student Instructor for CS 88 at UC Berkeley
+Aug 2025 - Dec 2025 | Berkeley, CA
+
+## CDSS Common Docs
+
+- Working on a [common documentation website](https://berkeley-cdss.github.io/docs/) for course staff in UC Berkeley's College of Computing, Data Science, and Society (CDSS)
+
 ## Outstanding GSI Award for Data Science
 May 2025 | Berkeley, CA
 
 - For excellent service as a TA for DATA C88C and DATA 101 at UC Berkeley
+
+## ASEE LEES 2025 Paper
+Jun 2025 | Montreal, Canada
+
+- Brooks-Ramirez, A., & Dang, R., & Ventura Benitez, B. A., & Yan, L. (2025, June), Scaling Responsible Data Science Education: The Role of a Teaching Assistant in Bridging the Sociotechnical Divide Paper presented at 2025 ASEE Annual Conference & Exposition , Montreal, Quebec, Canada . 10.18260/1-2--57629 [(permalink)](https://peer.asee.org/57629)
 
 ## Head Teaching Assistant for CS 88 at UC Berkeley
 Jan 2025 - May 2025 | Berkeley, CA
