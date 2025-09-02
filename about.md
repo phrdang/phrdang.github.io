@@ -113,7 +113,10 @@ Sep 2023 - Dec 2023 | Berkeley, CA
 
 ## Research Publications
 
-Krina Patel, Abigail Brooks-Ramirez, Rebecca Dang, Bryan Adolfo Ventura Benitez, and Lisa Yan. 2025. Exploration of Undergraduate Teaching Assistant Identity and Teaching Goals in Data Science Courses. In *Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSETS 2025)*. Association for Computing Machinery, New York, NY, USA, 1573–1574. [https://doi.org/10.1145/3641555.3705179](https://doi.org/10.1145/3641555.3705179).
+[Google Scholar](https://scholar.google.com/citations?user=XSwwjzIAAAAJ&hl=en&authuser=1)
+
+- Brooks-Ramirez, A., & Dang, R., & Ventura Benitez, B. A., & Yan, L. (2025, June), Scaling Responsible Data Science Education: The Role of a Teaching Assistant in Bridging the Sociotechnical Divide Paper presented at 2025 ASEE Annual Conference & Exposition , Montreal, Quebec, Canada . 10.18260/1-2--57629 [(permalink)](https://peer.asee.org/57629)
+- Krina Patel, Abigail Brooks-Ramirez, Rebecca Dang, Bryan Adolfo Ventura Benitez, and Lisa Yan. 2025. Exploration of Undergraduate Teaching Assistant Identity and Teaching Goals in Data Science Courses. In *Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSETS 2025)*. Association for Computing Machinery, New York, NY, USA, 1573–1574. [https://doi.org/10.1145/3641555.3705179](https://doi.org/10.1145/3641555.3705179).
 
 ## Teaching & CS Education
 
