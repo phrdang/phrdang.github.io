@@ -102,6 +102,7 @@ permalink: /resources/
 - [Screeps](https://screeps.com/) (gameified JavaScript)
 - [SpaceTraders API](https://spacetraders.io/) (gameified APIs)
 - [Bitburner](https://danielyxie.github.io/bitburner/) (gamefieid Netscript, a subset of JavaScript)
+- [CSS Diner](https://flukeout.github.io/) ⭐ (learn the different kinds of CSS selectors)
 
 ## AI, ML, Data Science
 
