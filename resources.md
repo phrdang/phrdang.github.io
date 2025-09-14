@@ -71,6 +71,7 @@ permalink: /resources/
 - [Exercism](https://exercism.org/) (coding exercises for multiple languages)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [Cybersecurity Mastery Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap)
+- [How to Design Programs by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, and Shriram Krishnamurthi](https://htdp.org/)
 
 ## General: Classes
 
