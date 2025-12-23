@@ -8,6 +8,8 @@ I'm interested in all things computer science, education, and computer science e
 
 TODO: jupytercon conference schedule page, github repo, cdss article: https://cdss.berkeley.edu/dsus/news/student-partnerships-keep-berkeleys-data-science-program-ahead, linkdedin post: https://www.linkedin.com/posts/ucberkeleydsus_how-student-partnerships-keep-berkeleys-activity-7402123538503233537-EWqu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHNbzIBBXcmnFIlmaYDdOWL7JSd7jzgekE
 
+https://bids.berkeley.edu/news/reflections-jupytercon-san-diego-2025-lessons-berkeley-datahub
+
 #### Contents
 
 - [Teaching Statistics, at a glance](#teaching-statistics-at-a-glance)
