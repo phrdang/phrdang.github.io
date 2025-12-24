@@ -4,11 +4,7 @@ title: 🍎 Education Portfolio
 permalink: /ed-portfolio/
 ---
 
-I'm interested in all things computer science, education, and computer science education! Here's some of my work and experience in that area.
-
-TODO: jupytercon conference schedule page, github repo, cdss article: https://cdss.berkeley.edu/dsus/news/student-partnerships-keep-berkeleys-data-science-program-ahead, linkdedin post: https://www.linkedin.com/posts/ucberkeleydsus_how-student-partnerships-keep-berkeleys-activity-7402123538503233537-EWqu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHNbzIBBXcmnFIlmaYDdOWL7JSd7jzgekE
-
-https://bids.berkeley.edu/news/reflections-jupytercon-san-diego-2025-lessons-berkeley-datahub
+I'm interested in all things computer science, education, and computer science education! Here's some of my work and experience in that area. For a summary, see my [academic CV](/resume/#academic-cv).
 
 #### Contents
 
@@ -21,7 +17,8 @@ https://bids.berkeley.edu/news/reflections-jupytercon-san-diego-2025-lessons-ber
     - [DATA 101 (Fall 2024)](#data-101-fall-2024)
     - [DATA C88C (Spring 2024)](#data-c88c-spring-2024)
     - [DATA C88C (Fall 2023)](#data-c88c-fall-2023)
-  - [Exam Questions](#exam-questions)
+- [Exam Questions](#exam-questions)
+- [Presenter at JupyterCon 2025: Teaching Data Engineering at Scale with Jupyter Notebooks at UC Berkeley](#presenter-at-jupytercon-2025-teaching-data-engineering-at-scale-with-jupyter-notebooks-at-uc-berkeley)
 - [Graduate Student Instructor for DATA C88C at UC Berkeley](#graduate-student-instructor-for-data-c88c-at-uc-berkeley)
 - [CDSS Common Docs](#cdss-common-docs)
 - [Outstanding GSI Award for Data Science](#outstanding-gsi-award-for-data-science)
@@ -143,7 +140,7 @@ This semester, I taught 2 lab sections that had separate course evaluation score
 | I would recommend this instructor to others. | 6.27 | 5.93 |
 | Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.48 | 6.03 |
 
-### Exam Questions
+## Exam Questions
 
 Below are exam questions that I have written or co-written.
 
@@ -158,6 +155,17 @@ Below are exam questions that I have written or co-written.
 - [DATA C88C (Spring 2024) Midterm Q1: Python Potpourri](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp24-mt-sol.pdf#page=2)
 - [DATA C88C (Fall 2023) Final Q8: Mario Kart](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa23-final.pdf#page=14)
 - [DATA C88C (Fall 2023) Midterm Q8: What are you doing, Mr. Robot?](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa23-mt-sol.pdf#page=15)
+
+## Presenter at JupyterCon 2025: Teaching Data Engineering at Scale with Jupyter Notebooks at UC Berkeley
+Nov 5, 2025 | San Diego, CA
+
+- Authors: Rebecca Dang, Jonathan M. Ferrari, Christy Quang, Michael Ball, and Lisa Yan
+- [Lightning talk page on conference schedule website](https://jupytercon2025.sched.com/event/28H4W/lightning-talk-teaching-data-engineering-at-scale-with-jupyter-notebooks-at-uc-berkeley-rebecca-dang-michael-ball-uc-berkeley)
+- [Lightning talk recording](https://www.youtube.com/watch?v=YBDSij5ZOZg)
+- [GitHub repository](https://github.com/cal-data-eng/jupytercon2025-data101-demo)
+- Featured in UC Berkeley CDSS news article: [How student partnerships keep Berkeley's data science program ahead](https://cdss.berkeley.edu/dsus/news/student-partnerships-keep-berkeleys-data-science-program-ahead) by Brandilyn Buckley
+- Featured in UC Berkeley Data Science Undergraduate Studies [LinkedIn post](https://www.linkedin.com/posts/ucberkeleydsus_how-student-partnerships-keep-berkeleys-activity-7402123538503233537-EWqu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHNbzIBBXcmnFIlmaYDdOWL7JSd7jzgekE)
+- Featured in UC Berkeley BIDS news article: [Reflections from JupyterCon San Diego 2025: Lessons for Berkeley DataHub](https://bids.berkeley.edu/news/reflections-jupytercon-san-diego-2025-lessons-berkeley-datahub) by Yijun Ge
 
 ## Graduate Student Instructor for DATA C88C at UC Berkeley
 Aug 2025 - Dec 2025 | Berkeley, CA
