@@ -9,7 +9,6 @@ I'm interested in all things computer science, education, and computer science e
 TODO: jupytercon conference schedule page, github repo, cdss article: https://cdss.berkeley.edu/dsus/news/student-partnerships-keep-berkeleys-data-science-program-ahead, linkdedin post: https://www.linkedin.com/posts/ucberkeleydsus_how-student-partnerships-keep-berkeleys-activity-7402123538503233537-EWqu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHNbzIBBXcmnFIlmaYDdOWL7JSd7jzgekE
 
 https://bids.berkeley.edu/news/reflections-jupytercon-san-diego-2025-lessons-berkeley-datahub
-<!-- TODO exam questions I've written/helped write -->
 
 #### Contents
 
@@ -22,6 +21,7 @@ https://bids.berkeley.edu/news/reflections-jupytercon-san-diego-2025-lessons-ber
     - [DATA 101 (Fall 2024)](#data-101-fall-2024)
     - [DATA C88C (Spring 2024)](#data-c88c-spring-2024)
     - [DATA C88C (Fall 2023)](#data-c88c-fall-2023)
+  - [Exam Questions](#exam-questions)
 - [Graduate Student Instructor for DATA C88C at UC Berkeley](#graduate-student-instructor-for-data-c88c-at-uc-berkeley)
 - [CDSS Common Docs](#cdss-common-docs)
 - [Outstanding GSI Award for Data Science](#outstanding-gsi-award-for-data-science)
@@ -142,6 +142,22 @@ This semester, I taught 2 lab sections that had separate course evaluation score
 | The instructor encouraged student questions. | 6.45 | 6.04 |
 | I would recommend this instructor to others. | 6.27 | 5.93 |
 | Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.48 | 6.03 |
+
+### Exam Questions
+
+Below are exam questions that I have written or co-written.
+
+- [DATA C88C (Fall 2025) Final Q8: Pythonic SQL](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa25-final-sol.pdf#page=21)
+- [DATA C88C (Fall 2025) Midterm Q6: Book of Blahaj](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa25-mt-sol.pdf#page=15)
+- [DATA C88C (Spring 2025) Final Q7: Fun Times with Runtimes](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp25-final-sol.pdf#page=20)
+- [DATA C88C (Spring 2025) Final Q1: Multifandom Potpourri](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp25-final-sol.pdf#page=2)
+- [DATA C88C (Spring 2025) Midterm Q7: Escape Lumon](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp25-mt-sol.pdf#page=15)
+- [DATA C88C (Spring 2024) Final Q8: Cyclic Generator](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp24-final-sol.pdf#page=15)
+- [DATA C88C (Spring 2024) Final Q6: Linked List Chains](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp24-final-sol.pdf#page=12)
+- [DATA C88C (Spring 2024) Midterm Q4: Daredevil](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp24-mt-sol.pdf#page=7)
+- [DATA C88C (Spring 2024) Midterm Q1: Python Potpourri](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp24-mt-sol.pdf#page=2)
+- [DATA C88C (Fall 2023) Final Q8: Mario Kart](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa23-final.pdf#page=14)
+- [DATA C88C (Fall 2023) Midterm Q8: What are you doing, Mr. Robot?](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa23-mt-sol.pdf#page=15)
 
 ## Graduate Student Instructor for DATA C88C at UC Berkeley
 Aug 2025 - Dec 2025 | Berkeley, CA
