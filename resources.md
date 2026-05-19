@@ -66,8 +66,6 @@ permalink: /resources/
   - Note: Some universities may provide access to this for free
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Big R](https://big-r.netlify.app/index.html)
-- [Coupon Follow: Save Money: Learn to Code From Home](https://couponfollow.com/research/learn-to-code-from-home) (thanks Brooke and Stephanie!)
-- [Loadview: Coding Websites and Apps for Students](https://www.loadview-testing.com/education/coding-websites-for-apps-and-students/) (thanks Avery!)
 - [Exercism](https://exercism.org/) (coding exercises for multiple languages)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [Cybersecurity Mastery Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap)
@@ -156,9 +154,10 @@ permalink: /resources/
 - [Awesome Regex](https://github.com/slevithan/awesome-regex)
 - [PostgreSQL Exercises](https://pgexercises.com/)
 - [CS 186: Database Systems Course Notes](https://cs186berkeley.net/notes/) ⭐
-- [DATA 101: Data Engineering Course Notes](https://data101.org/notes)
+- [DATA 101: Data Engineering Course Notes](https://data101.org/notes) ⭐
 - [Computer Security by David Wagner, Nicholas Weaver, Peyrin Kao, Fuzail Shakir, Andrew Law, and Nicholas Ngai](https://textbook.cs161.org/) ⭐ (online textbook used in UC Berkeley's [CS 161](https://cs161.org) course)
 - [Qualtrics Glossary of Coding and Programming Terms](https://www.qualtrics.com/blog/glossary-of-coding-and-programming-terms/) (thanks Kaitlin and Jonas!)
+- [CS 61C: Great Ideas in Computer Architecture (Machine Structures) Course Notes](https://notes.cs61c.org/) ⭐
 
 # 💻 Writing Code
 
