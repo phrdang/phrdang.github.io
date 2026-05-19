@@ -27,22 +27,29 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 
 | School | Dates | Degree | GPA | Honors |
 |--------|-------|-------|-----|------------------|
-| University of California, Berkeley | Aug 2025 - May 2026 | M.S. Electrical Engineering & Computer Science (advised by [Professor Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html)), with a research focus on CS Education | N/A |  |
+| University of California, Berkeley | Aug 2025 - May 2026 | M.S. Electrical Engineering & Computer Science (advised by [Professor Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html)), with a research focus on CS Education | 4.0 |  |
 | University of California, Berkeley | Aug 2021 - May 2025 | B.S. Electrical Engineering & Computer Science | 3.9 | Member of Eta Kappa Nu, Mu Chapter (IEEE-HKN), EECS Honor Society; Outstanding GSI Award for Data Science |
 | Evergreen Valley College | Jun 2019 - Jul 2020 | N/A (dual enrollment during high school) | 4.0 |  |
 
 ### Relevant Coursework
 
 - UC Berkeley
-  - Spring 2025 coursework: [Operating Systems (C Programming Language, Rust)](https://inst.eecs.berkeley.edu/~cs162/sp25) (generally, cs162.org), [Computer Networking](https://sp25.cs168.io), [Building User-Centered Programming Tools](https://schasins.com/cs294-usable-programming-2025/)
+  - [CS 288: Advanced Natural Language Processing](https://cal-cs288.github.io/sp26/)
+  - CS 294-304 Human-AI Interaction
+  - [CS 302: Designing Computer Science Education](https://cs302.org/sp26) (generally, cs302.org)
+  - CS 260A: User Interface Design & Development (see my course project, [Lumio](https://github.com/quincythai/cs160-lumio), an AI-powered app that helps novice/hobby filmmakers create shot lists)
+  - [CS 294-189: Designing Computer Science Education at Scale](https://berkeley-cs294-189.github.io/fa25/) (see my [Education Portfolio](/ed-portfolio.md))
+  - [CS 162: Operating Systems (C Programming Language, Rust)](https://inst.eecs.berkeley.edu/~cs162/sp25) (generally, cs162.org)
+  - [CS 168: Computer Networking](https://sp25.cs168.io)
+  - [CS 294-184: Building User-Centered Programming Tools](https://schasins.com/cs294-usable-programming-2025/) (see my course project, [Tangerine](https://github.com/sampoder/tangerine), a visual editor for creating undirected graphs in [Typst](https://typst.app))
   - [CS 180: Computer Vision & Computational Photography](https://inst.eecs.berkeley.edu/~cs180/fa24/) (see my [portfolio](https://phrdang.github.io/cs180-portfolio/))
-  - CS 194-271: Research in AI Education (see my [Education Portfolio](/ed-portfolio.md))
+  - CS 194-271: Research in AI Education (see my [Education Portfolio](/ed-portfolio.md#cs-194-271-research-in-ai-education))
   - INTEGBI 134L: Practical Genomics
-  - [CS 189: Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
-  - [CS 186: Database Systems](https://cs186berkeley.net/)
+  - [CS 189: Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) (generally, eecs189.org)
+  - [CS 186: Database Systems](https://cs186berkeley.net/sp24/) (generally, cs186berkeley.net)
   - [CS 198-008: Linux System Administration](https://decal.ocf.berkeley.edu/archives/2023-fall/) (generally, decal.ocf.berkeley.edu)
   - [CS 188: Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa23)
-  - [CS 170: Efficient Algorithms & Intractable Problems](https://cs170.org/) (generally, cs170.org)
+  - [CS 170: Efficient Algorithms & Intractable Problems](https://inst.eecs.berkeley.edu/~cs170/archive/sp23/) (generally, cs170.org)
   - [CS 161: Computer Security (C Programming Language, Golang)](https://sp23.cs161.org/) (generally, cs161.org)
   - [CS 70: Discrete Mathematics & Probability Theory](https://fa22.eecs70.org/) (generally, eecs70.org)
   - [CS 61C: Machine Structures (C Programming Language)](https://inst.eecs.berkeley.edu/~cs61c/fa22/) (generally, cs61c.org)
@@ -57,6 +64,9 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
   - CIT 20: Program Design & Development (Python)
 
 ## 💼 Experience
+
+### Incoming Software Engineer at [Databricks](https://www.databricks.com/)
+Sep 2026 - Present | Mountain View, CA
 
 ### Software Engineer Intern at [Databricks](https://www.databricks.com/)
 May 2025 - Aug 2025 | Mountain View, CA

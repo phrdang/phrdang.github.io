@@ -6,8 +6,8 @@ permalink: /contact/
 
 ## ✉️ Email
 
-- [rdang@berkeley.edu](mailto:rdang@berkeley.edu)
-- [rdang@hkn.eecs.berkeley.edu](mailto:rdang@hkn.eecs.berkeley.edu)
+- [rdang [at] berkeley [dot] edu](mailto:rdang@berkeley.edu)
+- [rdang [at] hkn [dot] eecs [dot] berkeley [dot] edu](mailto:rdang@hkn.eecs.berkeley.edu)
 
 ## 👋 Socials
 
