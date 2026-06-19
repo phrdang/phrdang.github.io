@@ -280,6 +280,7 @@ permalink: /resources/
 - [BinarySearch](https://binarysearch.com/) (collaborative)
 - [Pramp](https://www.pramp.com/#/) (mock technical interviews)
 - [AlgoExpert](https://www.algoexpert.io/)
+- [PracHub](https://prachub.com/) (practice real interview questions from 400+ companies; coding, SQL, system design, behavioral)
 - [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.crackingthecodinginterview.com/) (book)
 - [Instructions for the interviewer](https://hackmd.io/ekflQ-myQv6_0r7bsxGbgQ#) (good reference for what interviewers are thinking)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
