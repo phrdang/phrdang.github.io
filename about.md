@@ -25,10 +25,10 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 
 ## 🍎 Education
 
-| School | Dates | Degree | GPA | Honors |
+| School | Dates | Degree | GPA | Details |
 |--------|-------|-------|-----|------------------|
-| University of California, Berkeley | Aug 2025 - May 2026 | M.S. Electrical Engineering & Computer Science (advised by [Professor Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html)), with a research focus on CS Education | 4.0 |  |
-| University of California, Berkeley | Aug 2021 - May 2025 | B.S. Electrical Engineering & Computer Science | 3.9 | Member of Eta Kappa Nu, Mu Chapter (IEEE-HKN), EECS Honor Society; Outstanding GSI Award for Data Science |
+| University of California, Berkeley | Aug 2025 - May 2026 | M.S. Electrical Engineering & Computer Science | 4.0 | Advised by [Professor Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html), with a research focus on CS Education ([technical report](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2026/EECS-2026-196.html)) |
+| University of California, Berkeley | Aug 2021 - May 2025 | B.S. Electrical Engineering & Computer Science | 3.9 | Graduated with [honors](https://engineering.berkeley.edu/students/undergraduate-guide/policies-procedures/academic-honors/); Member of [Eta Kappa Nu, Mu Chapter (IEEE-HKN)](https://hkn.eecs.berkeley.edu/), EECS Honor Society; [Outstanding GSI Award](https://gsi.berkeley.edu/ogsi-recipients-2024-2025/) for Data Science 2024-25 |
 | Evergreen Valley College | Jun 2019 - Jul 2020 | N/A (dual enrollment during high school) | 4.0 |  |
 
 ### Relevant Coursework
@@ -127,8 +127,11 @@ Sep 2023 - Dec 2023 | Berkeley, CA
 
 [Google Scholar](https://scholar.google.com/citations?user=XSwwjzIAAAAJ&hl=en&authuser=1)
 
-- Brooks-Ramirez, A., & Dang, R., & Ventura Benitez, B. A., & Yan, L. (2025, June), Scaling Responsible Data Science Education: The Role of a Teaching Assistant in Bridging the Sociotechnical Divide Paper presented at 2025 ASEE Annual Conference & Exposition , Montreal, Quebec, Canada . 10.18260/1-2--57629 [(permalink)](https://peer.asee.org/57629)
-- Krina Patel, Abigail Brooks-Ramirez, Rebecca Dang, Bryan Adolfo Ventura Benitez, and Lisa Yan. 2025. Exploration of Undergraduate Teaching Assistant Identity and Teaching Goals in Data Science Courses. In *Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSETS 2025)*. Association for Computing Machinery, New York, NY, USA, 1573–1574. [https://doi.org/10.1145/3641555.3705179](https://doi.org/10.1145/3641555.3705179).
+- Bhavya Chopra, Meng Chen, **Rebecca Dang**, Chanbin Park, Shreya Shankar, Sepanta Zeighami, Bjoern Hartmann, and Aditya Parameswaran. 2026. Who's Keeping Score? Interactive Steering of LLM-Powered Scoring with Attune. In *Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology (UIST 2026)*. Association for Computing Machinery, New York, NY, USA, *page numbers pending*. [https://doi.org/10.1145/3830398.3830567](https://doi.org/10.1145/3830398.3830567).
+  - arXiv preprint [arXiv:2608.14948](https://arxiv.org/abs/2608.14948)
+- **Rebecca Dang**. 2026. Beyond the Autograder: Improving Feedback on CS Student Metacognition via the Assignment Snapshots Tool. University of California, Berkeley. [https://www2.eecs.berkeley.edu/Pubs/TechRpts/2026/EECS-2026-196.html](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2026/EECS-2026-196.html).
+- Brooks-Ramirez, A., & **Dang, R.**, & Ventura Benitez, B. A., & Yan, L. (2025, June), Scaling Responsible Data Science Education: The Role of a Teaching Assistant in Bridging the Sociotechnical Divide Paper presented at 2025 ASEE Annual Conference & Exposition, Montreal, Quebec, Canada. 10.18260/1-2--57629 [(permalink)](https://peer.asee.org/57629)
+- Krina Patel, Abigail Brooks-Ramirez, **Rebecca Dang**, Bryan Adolfo Ventura Benitez, and Lisa Yan. 2025. Exploration of Undergraduate Teaching Assistant Identity and Teaching Goals in Data Science Courses. In *Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSETS 2025)*. Association for Computing Machinery, New York, NY, USA, 1573–1574. [https://doi.org/10.1145/3641555.3705179](https://doi.org/10.1145/3641555.3705179).
 
 ## Teaching & CS Education
 

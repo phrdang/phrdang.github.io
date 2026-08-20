@@ -8,17 +8,16 @@ I'm interested in all things computer science, education, and computer science e
 
 #### Contents
 
-- [Teaching Statistics, at a glance](#teaching-statistics-at-a-glance)
-  - [Ed Statistics](#ed-statistics)
-  - [Course Evaluations](#course-evaluations)
-    - [DATA C88C (Spring 2025)](#data-c88c-spring-2025)
-      - [Lab 1](#lab-1)
-      - [Lab 2](#lab-2)
-    - [DATA 101 (Fall 2024)](#data-101-fall-2024)
-    - [DATA C88C (Spring 2024)](#data-c88c-spring-2024)
-    - [DATA C88C (Fall 2023)](#data-c88c-fall-2023)
+- [Ed Statistics](#ed-statistics)
+- [Course Evaluations](#course-evaluations)
 - [Exam Questions](#exam-questions)
+- [Lecturer for CS 61A at UC Berkeley](#lecturer-for-cs-61a-at-uc-berkeley)
+- [Workshop Leader at UC Berkeley](#workshop-leader-at-uc-berkeley)
+- [5th Year MS EECS Technical Report at UC Berkeley](#5th-year-ms-eecs-technical-report-at-uc-berkeley)
+- [Speaker at UC Open 2026](#speaker-at-uc-open-2026)
+- [Head Graduate Student Instructor for DATA 188 at UC Berkeley](#head-graduate-student-instructor-for-data-188-at-uc-berkeley)
 - [Presenter at JupyterCon 2025: Teaching Data Engineering at Scale with Jupyter Notebooks at UC Berkeley](#presenter-at-jupytercon-2025-teaching-data-engineering-at-scale-with-jupyter-notebooks-at-uc-berkeley)
+- [We Have Spotify at Home](#we-have-spotify-at-home)
 - [Graduate Student Instructor for DATA C88C at UC Berkeley](#graduate-student-instructor-for-data-c88c-at-uc-berkeley)
 - [CDSS Common Docs](#cdss-common-docs)
 - [Outstanding GSI Award for Data Science](#outstanding-gsi-award-for-data-science)
@@ -40,14 +39,14 @@ I'm interested in all things computer science, education, and computer science e
 - [Code 4 Tomorrow (C4T)](#code-4-tomorrow-c4t)
 - [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
 
-## Teaching Statistics, at a glance
-
-### Ed Statistics
+## Ed Statistics
 
 [Ed](https://edstem.org/) is the official course Q&A forum used by UC Berkeley courses. As a TA, I love responding to student questions over Ed. Here is a summary of my Ed stats:
 
 | Course | Semester | Answers | Comments |
 | :--- | :--- | :--- | :--- |
+| CS 61A | Summer 2026 | 13 | 77 |
+| DATA 188 | Spring 2026 | 67 (#2 answerer) | 97 (#2 commenter) |
 | DATA C88C | Fall 2025 | 141 (top answerer) | 247 (top commenter) |
 | DATA C88C | Spring 2025 | 165 (top answerer) | 285 (#2 commenter) |
 | DATA 101 | Fall 2024 | 202 (top answerer) | 506 (top commenter) |
@@ -55,95 +54,17 @@ I'm interested in all things computer science, education, and computer science e
 | DATA C88C | Fall 2023 | 215 (top answerer) | 497 (top commenter) |
 | DATA C88C | Spring 2023 | 98 (#4 answerer) | 121 (#4 commenter) |
 
-### Course Evaluations
+## Course Evaluations
 
-Every semester, students have the option to fill out a course evaluation form to give feedback on their TAs. Here are some statistics on the evaluations I have received. All scores are on a scale from 0 (worst) to 7 (best).
-
-<!-- TODO CS 88 FA25 -->
-
-#### DATA C88C (Spring 2025)
-
-This semester, I taught 2 lab sections that had separate course evaluation scores below.
-
-##### Lab 1
-
-77.50% response rate (n = 31)
-
-| Question | My Mean Score | Department Mean Score |
-| :--- | :--- | :--- |
-| The GSI’s instructional activities, contributions, and/or feedback enhanced my learning. | 6.35 | 6.13 |
-| The GSI created an environment in which I could feel included (for example, encouraged multiple voices/perspectives, welcomed questions and critiques, responded to student feedback). | 6.54 | 6.19 |
-| The instructor presented content in an organized manner. | 6.40 | 6.13 |
-| The instructor developed my abilities and skills for the subject. | 6.38 | 6.11 |
-| The instructor explained concepts clearly. | 6.38 | 6.09 |
-| The instructor encouraged student questions. | 6.38 | 6.19 |
-| I would recommend this instructor to others. | 6.52 | 6.14 |
-| Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.50 | 6.17 |
-
-##### Lab 2
-
-63.41% response rate (n = 26)
-
-| Question | My Mean Score | Department Mean Score |
-| :--- | :--- | :--- |
-| The GSI’s instructional activities, contributions, and/or feedback enhanced my learning. | 6.19 | 6.13 |
-| The GSI created an environment in which I could feel included (for example, encouraged multiple voices/perspectives, welcomed questions and critiques, responded to student feedback). | 6.00 | 6.19 |
-| The instructor presented content in an organized manner. | 6.20 | 6.13 |
-| The instructor developed my abilities and skills for the subject. | 5.94 | 6.11 |
-| The instructor explained concepts clearly. | 6.25 | 6.09 |
-| The instructor encouraged student questions. | 6.20 | 6.19 |
-| I would recommend this instructor to others. | 6.33 | 6.14 |
-| Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.00 | 6.17 |
-
-#### DATA 101 (Fall 2024)
-
-57.85% response rate (n = 247)
-
-| Question | My Mean Score | Department Mean Score |
-| :--- | :--- | :--- |
-| The GSI’s instructional activities, contributions, and/or feedback enhanced my learning. | 6.64 | 6.03 |
-| The GSI created an environment in which I could feel included (for example, encouraged multiple voices/perspectives, welcomed questions and critiques, responded to student feedback). | 6.60 | 6.11 |
-| The instructor presented content in an organized manner. | 6.59 | 6.04 |
-| The instructor developed my abilities and skills for the subject. | 6.58 | 6.00 |
-| The instructor explained concepts clearly. | 6.59 | 5.98 |
-| The instructor encouraged student questions. | 6.64 | 6.10 |
-| I would recommend this instructor to others. | 6.61 | 6.02 |
-| Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.68 | 6.08 |
-
-#### DATA C88C (Spring 2024)
-
-84.73% response rate (n = 383)
-
-| Question | My Mean Score | Department Mean Score |
-| :--- | :--- | :--- |
-| The GSI’s instructional activities, contributions, and/or feedback enhanced my learning. | 6.6 | 6.1 |
-| The GSI created an environment in which I could feel included (for example, encouraged multiple voices/perspectives, welcomed questions and critiques, responded to student feedback). | 6.64 | 6.17 |
-| The instructor presented content in an organized manner. | 6.67 | 6.05 |
-| The instructor developed my abilities and skills for the subject. | 6.65 | 6.01 |
-| The instructor explained concepts clearly. | 6.61 | 5.98 |
-| The instructor encouraged student questions. | 6.7 | 6.06 |
-| I would recommend this instructor to others. | 6.69 | 6 |
-| Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.65 | 6.13 |
-
-#### DATA C88C (Fall 2023)
-
-76.29% response rate (n = 354)
-
-| Question | My Mean Score | Department Mean Score |
-| :--- | :--- | :--- |
-| The GSI’s instructional activities, contributions, and/or feedback enhanced my learning. | 6.42 | 5.95 |
-| The GSI created an environment in which I could feel included (for example, encouraged multiple voices/perspectives, welcomed questions and critiques, responded to student feedback). | 6.52 | 6.04 |
-| The instructor presented content in an organized manner. | 6.36 | 5.98 |
-| The instructor developed my abilities and skills for the subject. | 6.51 | 5.95 |
-| The instructor explained concepts clearly. | 6.34 | 5.92 |
-| The instructor encouraged student questions. | 6.45 | 6.04 |
-| I would recommend this instructor to others. | 6.27 | 5.93 |
-| Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.48 | 6.03 |
+Every semester, students have the option to fill out a course evaluation form to give feedback on their TAs and instructors.
+Please [contact](/contact.md) me if you are interested in these statistics.
 
 ## Exam Questions
 
 Below are exam questions that I have written or co-written.
 
+- [CS 61A (Summer 2026) Final Q1: Haunted Tales](https://inst.eecs.berkeley.edu/~cs61a/su26/exam/su26/final/61a-su26-final_sol.pdf#page=2)
+- [CS 61A (Summer 2026) Midterm Q3: Bugs Begone](https://inst.eecs.berkeley.edu/~cs61a/su26/exam/su26/mt1/61a-su26-mt1_sol.pdf#page=6)
 - [DATA C88C (Fall 2025) Final Q8: Pythonic SQL](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa25-final-sol.pdf#page=21)
 - [DATA C88C (Fall 2025) Midterm Q6: Book of Blahaj](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa25-mt-sol.pdf#page=15)
 - [DATA C88C (Spring 2025) Final Q7: Fun Times with Runtimes](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp25-final-sol.pdf#page=20)
@@ -156,6 +77,34 @@ Below are exam questions that I have written or co-written.
 - [DATA C88C (Fall 2023) Final Q8: Mario Kart](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa23-final.pdf#page=14)
 - [DATA C88C (Fall 2023) Midterm Q8: What are you doing, Mr. Robot?](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa23-mt-sol.pdf#page=15)
 
+## Lecturer for [CS 61A](https://cs61a.org) at UC Berkeley
+Jun 2026 - Aug 2026 | Berkeley, CA
+
+- The Structure and Interpretation of Computer Programs
+- Delivered lectures, supervised a 20-person course staff, oversaw the introduction of weekly quizzes using the computer-based testing facility at UC Berkeley, hosted office hours, and wrote exam questions
+
+## Workshop Leader at UC Berkeley
+Jun 2026 | Berkeley, CA
+
+- Pedagogically trained 60+ first-time undergraduate teaching assistants and graduate student instructors (GSIs) for STEM and computer science disciplines at UC Berkeley's [Teaching Conference for First-Time Graduate Student Instructors](https://gsi.berkeley.edu/programs-services/conference/) (Summer 2026)
+
+## 5th Year MS EECS Technical Report at UC Berkeley
+May 2026 | Berkeley, CA
+
+- Performed data analysis on historical assignment snapshot data from 7 semesters and 2 courses at UC Berkeley, created a web app to help TAs give metacognitive and qualitative coding feedback to programming novices, and ran 2 user studies to evaluate the effectiveness of the app. Advised by Professors Lisa Yan, Michael Ball, and Kay Ousterhout.
+- [Beyond the Autograder: Improving Feedback on CS Student Metacognition via the Assignment Snapshots Tool](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2026/EECS-2026-196.html)
+
+## Speaker at UC Open 2026
+Apr 2026 | Berkeley, CA
+
+- Presented talk on behalf of Michael Ball (with Silas Santini): [Using Continuous Integration to Ensure Accessible Experiences](https://ucospo.net/events/uc-open-2026/talks/continuous-integration-accessible-experiences/) ([recording](https://youtu.be/gS53XivNCow?si=AFV-ISiNNlpsUPt0&t=1742))
+
+## Head Graduate Student Instructor for [DATA 188](https://data-188-berkeley.github.io/sp26/) at UC Berkeley
+Jun 2026 - Aug 2026 | Berkeley, CA
+
+- Introduction to Deep Learning
+- Taught discussion sections, developed discussion worksheets, and hosted office hours
+
 ## Presenter at JupyterCon 2025: Teaching Data Engineering at Scale with Jupyter Notebooks at UC Berkeley
 Nov 5, 2025 | San Diego, CA
 
@@ -166,6 +115,13 @@ Nov 5, 2025 | San Diego, CA
 - Featured in UC Berkeley CDSS news article: [How student partnerships keep Berkeley's data science program ahead](https://cdss.berkeley.edu/dsus/news/student-partnerships-keep-berkeleys-data-science-program-ahead) by Brandilyn Buckley
 - Featured in UC Berkeley Data Science Undergraduate Studies [LinkedIn post](https://www.linkedin.com/posts/ucberkeleydsus_how-student-partnerships-keep-berkeleys-activity-7402123538503233537-EWqu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHNbzIBBXcmnFIlmaYDdOWL7JSd7jzgekE)
 - Featured in UC Berkeley BIDS news article: [Reflections from JupyterCon San Diego 2025: Lessons for Berkeley DataHub](https://bids.berkeley.edu/news/reflections-jupytercon-san-diego-2025-lessons-berkeley-datahub) by Yijun Ge
+
+## We Have Spotify at Home
+Aug 2025 - Dec 2025 | Berkeley, CA
+
+- Co-created a new project with Abigail Brooks-Ramirez for CS 61A or DATA C88C called [We Have Spotify at Home](https://berkeley-cs294-189.github.io/projects/proj03/) where students implement a full stack web application similar to Spotify's Daylist feature (a daily customized music playlist), thereby learning modern software engineering skills and frameworks (including a GenAI component) in the process
+- Advised by Professors Lisa Yan and Michael Ball in [CS 294-189: Designing CS Education at Scale](https://berkeley-cs294-189.github.io/projects/proj03/)
+- Presented the project to students with Abigail Brooks-Ramirez in CS 61A (Summer 2026) Lecture 25: Web Applications
 
 ## Graduate Student Instructor for DATA C88C at UC Berkeley
 Aug 2025 - Dec 2025 | Berkeley, CA
