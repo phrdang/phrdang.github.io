@@ -17,5 +17,5 @@ permalink: /contact/
 - [ORCiD](https://orcid.org/0009-0006-3631-8098)
 - [Devpost](https://devpost.com/phrdang)
 - [Medium](https://rebeccadang.medium.com/)
-- [Substack](https://substack.com/@phrdang)
+- [Substack](https://phrdang.substack.com)
 - [Website](https://phrdang.github.io) (you're already here!)
