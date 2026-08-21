@@ -1,26 +1,36 @@
 ---
 layout: page
-title: 🍎 Education Portfolio 
+title: 🍎 Education Portfolio
 permalink: /ed-portfolio/
 ---
 
-I'm interested in all things computer science, education, and computer science education! Here's some of my work and experience in that area.
+I'm interested in all things computer science, education, and computer science education! Here's some of my work and experience in that area. For a summary, see my [academic CV](/resume/#academic-cv).
 
 #### Contents
 
-- [Teaching Statistics, at a glance](#teaching-statistics-at-a-glance)
-  - [Ed Statistics](#ed-statistics)
-  - [Course Evaluations](#course-evaluations)
-    - [DATA 101 (Fall 2024)](#data-101-fall-2024)
-    - [CS 88 (Spring 2024)](#cs-88-spring-2024)
-    - [CS 88 (Fall 2023)](#cs-88-fall-2023)
+- [Ed Statistics](#ed-statistics)
+- [Course Evaluations](#course-evaluations)
+- [Exam Questions](#exam-questions)
+- [Lecturer for CS 61A at UC Berkeley](#lecturer-for-cs-61a-at-uc-berkeley)
+- [Workshop Leader at UC Berkeley](#workshop-leader-at-uc-berkeley)
+- [5th Year MS EECS Technical Report at UC Berkeley](#5th-year-ms-eecs-technical-report-at-uc-berkeley)
+- [Speaker at UC Open 2026](#speaker-at-uc-open-2026)
+- [Head Graduate Student Instructor for DATA 188 at UC Berkeley](#head-graduate-student-instructor-for-data-188-at-uc-berkeley)
+- [Presenter at JupyterCon 2025: Teaching Data Engineering at Scale with Jupyter Notebooks at UC Berkeley](#presenter-at-jupytercon-2025-teaching-data-engineering-at-scale-with-jupyter-notebooks-at-uc-berkeley)
+- [We Have Spotify at Home](#we-have-spotify-at-home)
+- [Graduate Student Instructor for DATA C88C at UC Berkeley](#graduate-student-instructor-for-data-c88c-at-uc-berkeley)
+- [CDSS Common Docs](#cdss-common-docs)
+- [Outstanding GSI Award for Data Science](#outstanding-gsi-award-for-data-science)
+- [ASEE LEES 2025 Paper](#asee-lees-2025-paper)
+- [Head Teaching Assistant for DATA C88C at UC Berkeley](#head-teaching-assistant-for-data-c88c-at-uc-berkeley)
+- [Poster Presenter at SIGCSE TS 2025](#poster-presenter-at-sigcse-ts-2025)
 - [CS 194-271 Research in AI Education](#cs-194-271-research-in-ai-education)
 - [Research Assistant at Algorithms and Computing for Education (ACE) Lab](#research-assistant-at-algorithms-and-computing-for-education-ace-lab)
 - [Head Teaching Assistant for DATA 101 at UC Berkeley](#head-teaching-assistant-for-data-101-at-uc-berkeley)
 - [Software Developer for Seamless Learning Project](#software-developer-for-seamless-learning-project)
-- [Head Teaching Assistant for CS 88 at UC Berkeley](#head-teaching-assistant-for-cs-88-at-uc-berkeley)
-- [Teaching Assistant for CS 88 at UC Berkeley](#teaching-assistant-for-cs-88-at-uc-berkeley)
-- [Tutor for CS 88 at UC Berkeley](#tutor-for-cs-88-at-uc-berkeley)
+- [Head Teaching Assistant for DATA C88C at UC Berkeley](#head-teaching-assistant-for-data-c88c-at-uc-berkeley-1)
+- [Teaching Assistant for DATA C88C at UC Berkeley](#teaching-assistant-for-data-c88c-at-uc-berkeley)
+- [Tutor for DATA C88C at UC Berkeley](#tutor-for-data-c88c-at-uc-berkeley)
 - [Coordinator for Computer Science Mentors (CSM)](#coordinator-for-computer-science-mentors-csm)
 - [CalTeach Program](#calteach-program)
 - [CS 61A Exam Advice](#cs-61a-exam-advice)
@@ -29,67 +39,120 @@ I'm interested in all things computer science, education, and computer science e
 - [Code 4 Tomorrow (C4T)](#code-4-tomorrow-c4t)
 - [FTC 9656 Omega Robotics: Learn Code](#ftc-9656-omega-robotics-learn-code)
 
-## Teaching Statistics, at a glance
-
-### Ed Statistics
+## Ed Statistics
 
 [Ed](https://edstem.org/) is the official course Q&A forum used by UC Berkeley courses. As a TA, I love responding to student questions over Ed. Here is a summary of my Ed stats:
 
 | Course | Semester | Answers | Comments |
 | :--- | :--- | :--- | :--- |
+| CS 61A | Summer 2026 | 13 | 77 |
+| DATA 188 | Spring 2026 | 67 (#2 answerer) | 97 (#2 commenter) |
+| DATA C88C | Fall 2025 | 141 (top answerer) | 247 (top commenter) |
+| DATA C88C | Spring 2025 | 165 (top answerer) | 285 (#2 commenter) |
 | DATA 101 | Fall 2024 | 202 (top answerer) | 506 (top commenter) |
-| CS 88 | Spring 2024 | 338 (top answerer) | 570 (top commenter) |
-| CS 88 | Fall 2023 | 215 (top answerer) | 497 (top commenter) |
-| CS 88 | Spring 2023 | 98 (#4 answerer) | 121 (#4 commenter) |
+| DATA C88C | Spring 2024 | 338 (top answerer) | 570 (top commenter) |
+| DATA C88C | Fall 2023 | 215 (top answerer) | 497 (top commenter) |
+| DATA C88C | Spring 2023 | 98 (#4 answerer) | 121 (#4 commenter) |
 
-### Course Evaluations
+## Course Evaluations
 
-Every semester, students have the option to fill out a course evaluation form to give feedback on their TAs. Here are some statistics on the evaluations I have received. All scores are on a scale from 0 (worst) to 7 (best).
+Every semester, students have the option to fill out a course evaluation form to give feedback on their TAs and instructors.
+Please [contact](/contact.md) me if you are interested in these statistics.
 
-#### DATA 101 (Fall 2024)
+## Exam Questions
 
-57.85% response rate (n = 247)
+Below are exam questions that I have written or co-written.
 
-| Question | My Mean Score | Department Mean Score |
-| :--- | :--- | :--- |
-| The GSI’s instructional activities, contributions, and/or feedback enhanced my learning. | 6.64 | 6.03 |
-| The GSI created an environment in which I could feel included (for example, encouraged multiple voices/perspectives, welcomed questions and critiques, responded to student feedback). | 6.60 | 6.11 |
-| The instructor presented content in an organized manner. | 6.59 | 6.04 |
-| The instructor developed my abilities and skills for the subject. | 6.58 | 6.00 |
-| The instructor explained concepts clearly. | 6.59 | 5.98 |
-| The instructor encouraged student questions. | 6.64 | 6.10 |
-| I would recommend this instructor to others. | 6.61 | 6.02 |
-| Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.68 | 6.08 |
+- [CS 61A (Summer 2026) Final Q1: Haunted Tales](https://inst.eecs.berkeley.edu/~cs61a/su26/exam/su26/final/61a-su26-final_sol.pdf#page=2)
+- [CS 61A (Summer 2026) Midterm Q3: Bugs Begone](https://inst.eecs.berkeley.edu/~cs61a/su26/exam/su26/mt1/61a-su26-mt1_sol.pdf#page=6)
+- [DATA C88C (Fall 2025) Final Q8: Pythonic SQL](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa25-final-sol.pdf#page=21)
+- [DATA C88C (Fall 2025) Midterm Q6: Book of Blahaj](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa25-mt-sol.pdf#page=15)
+- [DATA C88C (Spring 2025) Final Q7: Fun Times with Runtimes](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp25-final-sol.pdf#page=20)
+- [DATA C88C (Spring 2025) Final Q1: Multifandom Potpourri](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp25-final-sol.pdf#page=2)
+- [DATA C88C (Spring 2025) Midterm Q7: Escape Lumon](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp25-mt-sol.pdf#page=15)
+- [DATA C88C (Spring 2024) Final Q8: Cyclic Generator](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp24-final-sol.pdf#page=15)
+- [DATA C88C (Spring 2024) Final Q6: Linked List Chains](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp24-final-sol.pdf#page=12)
+- [DATA C88C (Spring 2024) Midterm Q4: Daredevil](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp24-mt-sol.pdf#page=7)
+- [DATA C88C (Spring 2024) Midterm Q1: Python Potpourri](https://c88c.org/fa25/assets/pdfs/exams/c88c/sp24-mt-sol.pdf#page=2)
+- [DATA C88C (Fall 2023) Final Q8: Mario Kart](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa23-final.pdf#page=14)
+- [DATA C88C (Fall 2023) Midterm Q8: What are you doing, Mr. Robot?](https://c88c.org/fa25/assets/pdfs/exams/c88c/fa23-mt-sol.pdf#page=15)
 
-#### CS 88 (Spring 2024)
+## Lecturer for [CS 61A](https://cs61a.org) at UC Berkeley
+Jun 2026 - Aug 2026 | Berkeley, CA
 
-84.73% response rate (n = 383)
+- The Structure and Interpretation of Computer Programs
+- Delivered lectures, supervised a 20-person course staff, oversaw the introduction of weekly quizzes using the computer-based testing facility at UC Berkeley, hosted office hours, and wrote exam questions
 
-| Question | My Mean Score | Department Mean Score |
-| :--- | :--- | :--- |
-| The GSI’s instructional activities, contributions, and/or feedback enhanced my learning. | 6.6 | 6.1 |
-| The GSI created an environment in which I could feel included (for example, encouraged multiple voices/perspectives, welcomed questions and critiques, responded to student feedback). | 6.64 | 6.17 |
-| The instructor presented content in an organized manner. | 6.67 | 6.05 |
-| The instructor developed my abilities and skills for the subject. | 6.65 | 6.01 |
-| The instructor explained concepts clearly. | 6.61 | 5.98 |
-| The instructor encouraged student questions. | 6.7 | 6.06 |
-| I would recommend this instructor to others. | 6.69 | 6 |
-| Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.65 | 6.13 |
+## Workshop Leader at UC Berkeley
+Jun 2026 | Berkeley, CA
 
-#### CS 88 (Fall 2023)
+- Pedagogically trained 60+ first-time undergraduate teaching assistants and graduate student instructors (GSIs) for STEM and computer science disciplines at UC Berkeley's [Teaching Conference for First-Time Graduate Student Instructors](https://gsi.berkeley.edu/programs-services/conference/) (Summer 2026)
 
-76.29% response rate (n = 354)
+## 5th Year MS EECS Technical Report at UC Berkeley
+May 2026 | Berkeley, CA
 
-| Question | My Mean Score | Department Mean Score |
-| :--- | :--- | :--- |
-| The GSI’s instructional activities, contributions, and/or feedback enhanced my learning. | 6.42 | 5.95 |
-| The GSI created an environment in which I could feel included (for example, encouraged multiple voices/perspectives, welcomed questions and critiques, responded to student feedback). | 6.52 | 6.04 |
-| The instructor presented content in an organized manner. | 6.36 | 5.98 |
-| The instructor developed my abilities and skills for the subject. | 6.51 | 5.95 |
-| The instructor explained concepts clearly. | 6.34 | 5.92 |
-| The instructor encouraged student questions. | 6.45 | 6.04 |
-| I would recommend this instructor to others. | 6.27 | 5.93 |
-| Considering both the limitations and possibilities of the subject matter and the course, how would you rate the overall effectiveness of this graduate student instructor? | 6.48 | 6.03 |
+- Performed data analysis on historical assignment snapshot data from 7 semesters and 2 courses at UC Berkeley, created a web app to help TAs give metacognitive and qualitative coding feedback to programming novices, and ran 2 user studies to evaluate the effectiveness of the app. Advised by Professors Lisa Yan, Michael Ball, and Kay Ousterhout.
+- [Beyond the Autograder: Improving Feedback on CS Student Metacognition via the Assignment Snapshots Tool](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2026/EECS-2026-196.html)
+
+## Speaker at UC Open 2026
+Apr 2026 | Berkeley, CA
+
+- Presented talk on behalf of Michael Ball (with Silas Santini): [Using Continuous Integration to Ensure Accessible Experiences](https://ucospo.net/events/uc-open-2026/talks/continuous-integration-accessible-experiences/) ([recording](https://youtu.be/gS53XivNCow?si=AFV-ISiNNlpsUPt0&t=1742))
+
+## Head Graduate Student Instructor for [DATA 188](https://data-188-berkeley.github.io/sp26/) at UC Berkeley
+Jun 2026 - Aug 2026 | Berkeley, CA
+
+- Introduction to Deep Learning
+- Taught discussion sections, developed discussion worksheets, and hosted office hours
+
+## Presenter at JupyterCon 2025: Teaching Data Engineering at Scale with Jupyter Notebooks at UC Berkeley
+Nov 5, 2025 | San Diego, CA
+
+- Authors: Rebecca Dang, Jonathan M. Ferrari, Christy Quang, Michael Ball, and Lisa Yan
+- [Lightning talk page on conference schedule website](https://jupytercon2025.sched.com/event/28H4W/lightning-talk-teaching-data-engineering-at-scale-with-jupyter-notebooks-at-uc-berkeley-rebecca-dang-michael-ball-uc-berkeley)
+- [Lightning talk recording](https://www.youtube.com/watch?v=YBDSij5ZOZg)
+- [GitHub repository](https://github.com/cal-data-eng/jupytercon2025-data101-demo)
+- Featured in UC Berkeley CDSS news article: [How student partnerships keep Berkeley's data science program ahead](https://cdss.berkeley.edu/dsus/news/student-partnerships-keep-berkeleys-data-science-program-ahead) by Brandilyn Buckley
+- Featured in UC Berkeley Data Science Undergraduate Studies [LinkedIn post](https://www.linkedin.com/posts/ucberkeleydsus_how-student-partnerships-keep-berkeleys-activity-7402123538503233537-EWqu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADHNbzIBBXcmnFIlmaYDdOWL7JSd7jzgekE)
+- Featured in UC Berkeley BIDS news article: [Reflections from JupyterCon San Diego 2025: Lessons for Berkeley DataHub](https://bids.berkeley.edu/news/reflections-jupytercon-san-diego-2025-lessons-berkeley-datahub) by Yijun Ge
+
+## We Have Spotify at Home
+Aug 2025 - Dec 2025 | Berkeley, CA
+
+- Co-created a new project with Abigail Brooks-Ramirez for CS 61A or DATA C88C called [We Have Spotify at Home](https://berkeley-cs294-189.github.io/projects/proj03/) where students implement a full stack web application similar to Spotify's Daylist feature (a daily customized music playlist), thereby learning modern software engineering skills and frameworks (including a GenAI component) in the process
+- Advised by Professors Lisa Yan and Michael Ball in [CS 294-189: Designing CS Education at Scale](https://berkeley-cs294-189.github.io/projects/proj03/)
+- Presented the project to students with Abigail Brooks-Ramirez in CS 61A (Summer 2026) Lecture 25: Web Applications
+
+## Graduate Student Instructor for DATA C88C at UC Berkeley
+Aug 2025 - Dec 2025 | Berkeley, CA
+
+## CDSS Common Docs
+
+- Working on a [common documentation website](https://berkeley-cdss.github.io/docs/) for course staff in UC Berkeley's College of Computing, Data Science, and Society (CDSS)
+
+## Outstanding GSI Award for Data Science
+May 2025 | Berkeley, CA
+
+- For excellent service as a TA for DATA C88C and DATA 101 at UC Berkeley
+
+## ASEE LEES 2025 Paper
+Jun 2025 | Montreal, Canada
+
+- Brooks-Ramirez, A., & Dang, R., & Ventura Benitez, B. A., & Yan, L. (2025, June), Scaling Responsible Data Science Education: The Role of a Teaching Assistant in Bridging the Sociotechnical Divide Paper presented at 2025 ASEE Annual Conference & Exposition , Montreal, Quebec, Canada . 10.18260/1-2--57629 [(permalink)](https://peer.asee.org/57629)
+
+## Head Teaching Assistant for DATA C88C at UC Berkeley
+Jan 2025 - May 2025 | Berkeley, CA
+
+- Managed 12 other course staff members and organized course logistics for 500+ students
+- Delivered guest lecture on inheritance (see video below and lecture materials in video description)
+- Taught weekly discussion and lab sections and held office hours
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hmWSTqX-rDg?si=pK2j4GddT2s9EXmi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Poster Presenter at SIGCSE TS 2025
+Mar 2025 | Pittsburgh, PA
+
+- Attended [SIGCSE TS 2025](https://sigcse2025.sigcse.org/) (a CS education research conference hosted by [ACM](https://www.acm.org/)) and presented a [poster](https://dl.acm.org/doi/10.1145/3641555.3705179) on undergraduate teaching assistants in data science courses
 
 ## CS 194-271 Research in AI Education
 Aug 2024 - Dec 2024 | Berkeley, CA
@@ -117,23 +180,25 @@ Jun 2024 | Berkeley, CA
 - Implemented linting and web accessibility checks in continuous integration workflows through GitHub Actions
 - [Presentation slides](https://docs.google.com/presentation/d/1YnjKDKzW7QvbXxW5Et1gv-kJnxRacAZr9KIfeEQnPeQ/edit#slide=id.g2739fc2f2bc_0_24)
 
-## Head Teaching Assistant for CS 88 at UC Berkeley
+## Head Teaching Assistant for DATA C88C at UC Berkeley
 Jan 2024 - May 2024 | Berkeley, CA
 
 - Managed 12 other course staff members and organized course logistics for 450+ students
 - Created onboarding process and training session for new TAs
 - Implemented new Gradescope autograder that could check if the student submitted the correct code for lab attendance
-- Delivered guest lecture on linked lists
+- Delivered guest lecture on linked lists (see video below and lecture materials in video description)
 - Wrote documentation on how to run exam logistics and how to write a good exam problem
 - Taught weekly discussion and lab sections and held office hours
 
-## Teaching Assistant for CS 88 at UC Berkeley
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OzF6u7PTMfc?si=LJkKjT3NyEfoM4nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Teaching Assistant for DATA C88C at UC Berkeley
 Aug 2023 - Dec 2023 | Berkeley, CA
 
-- Taught weekly discussion and lab sections, held office hours, and wrote exam questions for CS 88:
+- Taught weekly discussion and lab sections, held office hours, and wrote exam questions for DATA C88C:
 Computational Structures in Data Science (aka DATA C88C)
 
-## Tutor for CS 88 at UC Berkeley
+## Tutor for DATA C88C at UC Berkeley
 Jan 2023 - May 2023 | Berkeley, CA
 
 - [DATA C88C course website](https://c88c.org): Computational Structures in Data Science
@@ -145,17 +210,17 @@ Jan 2023 - May 2023 | Berkeley, CA
 ## Coordinator for Computer Science Mentors (CSM)
 Jan 2022 - Present | Berkeley, CA
 
-CSM is a club on the UC Berkeley campus that organizes supplemental tutoring sections for lower division computer science and EECS courses. Currently, I'm serving as **CS 88 Coordinator** (Spring 2023 - Present), where I am:
+CSM is a club on the UC Berkeley campus that organizes supplemental tutoring sections for lower division computer science and EECS courses. Currently, I'm serving as **DATA C88C Coordinator** (Spring 2023 - Present), where I am:
 
 - **Managing 30+ weekly tutoring sections**
 - Hosting exam review sessions
 - **Reviewing weekly teaching materials** (worksheets and slideshows)
 - Interviewing prospective senior mentors
 
-Previously, as a **CS 88 Senior Mentor** (Fall 2022) and **Junior Mentor** (Spring 2022), I:
+Previously, as a **DATA C88C Senior Mentor** (Fall 2022) and **Junior Mentor** (Spring 2022), I:
 
 - **Taught weekly tutoring sections**
-  - Topics covered in CS 88 include Python, control, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
+  - Topics covered in DATA C88C include Python, control, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, object-oriented programming, exceptions, efficiency, iterators, generators, and SQL
 - Trained and **provided pedagogical feedback to Junior Mentors**
 - Reviewed and **revised CSM content** (e.g. worksheets, slideshows, etc.)
 - Created **walkthrough videos for past exam questions**

@@ -10,8 +10,10 @@ permalink: /about/
 2. [Education](#-education)
 3. [Experience](#-experience)
 4. [Projects](#-projects)
-5. [Skills](#-skills)
-6. [I'm currently learning...](#-im-currently-learning-)
+5. [Research Publications](#research-publications)
+6. [Teaching and CS Education](#teaching--cs-education)
+7. [Skills](#-skills)
+8. [I'm currently learning...](#-im-currently-learning-)
 
 ## 👋 Hello world!
 
@@ -23,24 +25,31 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
 
 ## 🍎 Education
 
-| School | Dates | Major | GPA | Honors |
+| School | Dates | Degree | GPA | Details |
 |--------|-------|-------|-----|------------------|
-| University of California, Berkeley | Aug 2021 - May 2025 | Electrical Engineering & Computer Science | 3.9 | Member of Eta Kappa Nu, Mu Chapter (IEEE-HKN), EECS Honor Society |
+| University of California, Berkeley | Aug 2025 - May 2026 | M.S. Electrical Engineering & Computer Science | 4.0 | Advised by [Professor Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html), with a research focus on CS Education ([technical report](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2026/EECS-2026-196.html)) |
+| University of California, Berkeley | Aug 2021 - May 2025 | B.S. Electrical Engineering & Computer Science | 3.9 | Graduated with [honors](https://engineering.berkeley.edu/students/undergraduate-guide/policies-procedures/academic-honors/); Member of [Eta Kappa Nu, Mu Chapter (IEEE-HKN)](https://hkn.eecs.berkeley.edu/), EECS Honor Society; [Outstanding GSI Award](https://gsi.berkeley.edu/ogsi-recipients-2024-2025/) for Data Science 2024-25 |
 | Evergreen Valley College | Jun 2019 - Jul 2020 | N/A (dual enrollment during high school) | 4.0 |  |
-| Evergreen Valley High School | Aug 2017 - Jun 2021 | N/A | 4.0 | Valedictorian |
 
 ### Relevant Coursework
 
 - UC Berkeley
-  - Spring 2025 coursework: TBA
+  - [CS 288: Advanced Natural Language Processing](https://cal-cs288.github.io/sp26/)
+  - CS 294-304 Human-AI Interaction
+  - [CS 302: Designing Computer Science Education](https://cs302.org/sp26) (generally, cs302.org)
+  - CS 260A: User Interface Design & Development (see my course project, [Lumio](https://github.com/quincythai/cs160-lumio), an AI-powered app that helps novice/hobby filmmakers create shot lists)
+  - [CS 294-189: Designing Computer Science Education at Scale](https://berkeley-cs294-189.github.io/fa25/) (see my [Education Portfolio](/ed-portfolio.md))
+  - [CS 162: Operating Systems (C Programming Language, Rust)](https://inst.eecs.berkeley.edu/~cs162/sp25) (generally, cs162.org)
+  - [CS 168: Computer Networking](https://sp25.cs168.io)
+  - [CS 294-184: Building User-Centered Programming Tools](https://schasins.com/cs294-usable-programming-2025/) (see my course project, [Tangerine](https://github.com/sampoder/tangerine), a visual editor for creating undirected graphs in [Typst](https://typst.app))
   - [CS 180: Computer Vision & Computational Photography](https://inst.eecs.berkeley.edu/~cs180/fa24/) (see my [portfolio](https://phrdang.github.io/cs180-portfolio/))
-  - CS 194-271: Research in AI Education (see my [Education Portfolio](/ed-portfolio.md))
+  - CS 194-271: Research in AI Education (see my [Education Portfolio](/ed-portfolio.md#cs-194-271-research-in-ai-education))
   - INTEGBI 134L: Practical Genomics
-  - [CS 189: Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
-  - [CS 186: Database Systems](https://cs186berkeley.net/)
+  - [CS 189: Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) (generally, eecs189.org)
+  - [CS 186: Database Systems](https://cs186berkeley.net/sp24/) (generally, cs186berkeley.net)
   - [CS 198-008: Linux System Administration](https://decal.ocf.berkeley.edu/archives/2023-fall/) (generally, decal.ocf.berkeley.edu)
   - [CS 188: Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa23)
-  - [CS 170: Efficient Algorithms & Intractable Problems](https://cs170.org/) (generally, cs170.org)
+  - [CS 170: Efficient Algorithms & Intractable Problems](https://inst.eecs.berkeley.edu/~cs170/archive/sp23/) (generally, cs170.org)
   - [CS 161: Computer Security (C Programming Language, Golang)](https://sp23.cs161.org/) (generally, cs161.org)
   - [CS 70: Discrete Mathematics & Probability Theory](https://fa22.eecs70.org/) (generally, eecs70.org)
   - [CS 61C: Machine Structures (C Programming Language)](https://inst.eecs.berkeley.edu/~cs61c/fa22/) (generally, cs61c.org)
@@ -53,17 +62,23 @@ Hey there! I'm a service-minded student dedicated to academic excellence. In my 
   - COMSC 76: Intro to Data Structures (Java)
   - COMSC 75: Intro to Program Structures (Java)
   - CIT 20: Program Design & Development (Python)
-- Evergreen Valley High School
-  - Database Design and SQL Programming
-  - AP Calculus BC
-  - AP Calculus AB
 
 ## 💼 Experience
+
+### Incoming Software Engineer at [Databricks](https://www.databricks.com/)
+Sep 2026 - Present | Mountain View, CA
+
+### Software Engineer Intern at [Databricks](https://www.databricks.com/)
+May 2025 - Aug 2025 | Mountain View, CA
+
+- Continuous Integration team
+- Implemented an extensible and configurable system to automatically remediate failed CI jobs, saving 120+ engineer hours/month
+- Migrated source of truth for CI checker results from GitHub to an internal RPC service, reducing Databricks' dependency on 3rd party APIs and halving request latency
 
 ### Software Engineer Intern at [Stripe](https://stripe.com/)
 May 2023 - Aug 2023 | South San Francisco, CA
 
-- Developer Infrastructure organization, Ruby Infrastructure team
+- Developer Infrastructure organization > Language and Runtime Tools > Ruby Infrastructure team
 - Saved 38+ engineer hours weekly by creating a heuristic to prioritize tests run in continuous integration builds for
 the largest Ruby codebase in the world (20+ million lines of code and 3+ million tests)
 - Created dashboard to evaluate effectiveness of different test ordering heuristics
@@ -108,7 +123,17 @@ Sep 2023 - Dec 2023 | Berkeley, CA
 - Leveraged AI techniques to model and predict health outcomes resulting from extreme weather events due to climate change.
 - Research mentor: Professor Irene Chen, [UCSF UC Berkeley Joint Program in Computational Precision Health](https://computationalhealth.berkeley.edu/)
 
-### Teaching & CS Education
+## Research Publications
+
+[Google Scholar](https://scholar.google.com/citations?user=XSwwjzIAAAAJ&hl=en&authuser=1)
+
+- Bhavya Chopra, Meng Chen, **Rebecca Dang**, Chanbin Park, Shreya Shankar, Sepanta Zeighami, Bjoern Hartmann, and Aditya Parameswaran. 2026. Who's Keeping Score? Interactive Steering of LLM-Powered Scoring with Attune. In *Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology (UIST 2026)*. Association for Computing Machinery, New York, NY, USA, *page numbers pending*. [https://doi.org/10.1145/3830398.3830567](https://doi.org/10.1145/3830398.3830567).
+  - arXiv preprint [arXiv:2608.14948](https://arxiv.org/abs/2608.14948)
+- **Rebecca Dang**. 2026. Beyond the Autograder: Improving Feedback on CS Student Metacognition via the Assignment Snapshots Tool. University of California, Berkeley. [https://www2.eecs.berkeley.edu/Pubs/TechRpts/2026/EECS-2026-196.html](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2026/EECS-2026-196.html).
+- Brooks-Ramirez, A., & **Dang, R.**, & Ventura Benitez, B. A., & Yan, L. (2025, June), Scaling Responsible Data Science Education: The Role of a Teaching Assistant in Bridging the Sociotechnical Divide Paper presented at 2025 ASEE Annual Conference & Exposition, Montreal, Quebec, Canada. 10.18260/1-2--57629 [(permalink)](https://peer.asee.org/57629)
+- Krina Patel, Abigail Brooks-Ramirez, **Rebecca Dang**, Bryan Adolfo Ventura Benitez, and Lisa Yan. 2025. Exploration of Undergraduate Teaching Assistant Identity and Teaching Goals in Data Science Courses. In *Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSETS 2025)*. Association for Computing Machinery, New York, NY, USA, 1573–1574. [https://doi.org/10.1145/3641555.3705179](https://doi.org/10.1145/3641555.3705179).
+
+## Teaching & CS Education
 
 For my experience in teaching and CS education, please see my [Education Portfolio](/ed-portfolio.md)!
 
@@ -161,6 +186,7 @@ Jan 2019
 - C Programming Language
 - Golang
 - SQL
+- Rust
 - Scheme
 
 ### Other
