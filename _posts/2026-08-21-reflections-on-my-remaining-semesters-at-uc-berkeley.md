@@ -22,11 +22,11 @@ These tips are also in no particular order.
 It has always been tempting for me to look at my (in)famously packed Google Calendar during
 the school year and try to spread things out. There is definitely some wisdom in this; you can only
 have so many classes and meetings and socials in a day before you go kaput. At the same time,
-I've realized that by trying to space things out, you're also unfortunately minimizing long
-periods of time where you can think, focus, and do work. Therefore, I would recommend if you're
-trying to create a college schedule for yourself, to minimize the amount of context switching
-and instead schedule as many things back-to-back as you can so that you have uninterrupted
-time periods for work and play. (This is also what Berkeley time is for, so you might as well use it!)
+I've realized that by trying to space things out, you're also reducing long
+periods of time where you can think, focus, and do work. Therefore, I would recommend minimzing
+the amount of context switching and instead schedule as many things back-to-back as you can so
+that you have uninterrupted time periods for work and play. (This is also what Berkeley time is for,
+so you might as well use it!)
 
 ## 2. Miscellaneous bucket list items for Berkeley students
 
@@ -52,23 +52,23 @@ not really applicable anymore since EECS has now moved into the [Gateway](https:
 When I was Southside, I would often work in [MLK](https://maps.app.goo.gl/GSmmEYqFnKSbLjsM7) since there's plenty
 of seating and access to various campus eateries if you have a meal plan (which I did have). One thing
 that would often annoy me is the line to use the bathroom on the ground floor. It took me several semesters
-to realize that there is another set of bathrooms in the back of MLK if you keep walking past the [OCF](https://ocf.berkeley.edu)
+to realize that there is another bathroom in the back of MLK if you keep walking past the [OCF](https://ocf.berkeley.edu)
 and yearbook rooms. Barely anyone goes there, which means there's never a line and it's cleaner. Would recommend!
 
 ## 4. Professors (and PhD students) are just people
 
 In my first few years at Berkeley, I thought of professors as these untouchable, perfect, nearly-superhuman
 experts in their fields. I would get starstruck just being a student in one of their courses, and it was quite
-intimidating to attend instructor office hours. Because after all, what would we even discuss given how little I knew?
+intimidating to attend instructor office hours.
 
-While it is true that faculty are very knowledgeable, as I've gotten older, more involved in course staff, research,
+While it is true that faculty are very knowledgeable, as I've gotten more involved in course staff, research,
 and special topics and graduate-level courses, I've realized that professors are just people. They're usually very
 happy to have a conversation with you, especially about their teaching and research. The key is not wasting anyone's time:
-Come prepared (e.g. read their papers and other papers in their fields), put in the work (e.g. for the course you're taking
+Come prepared (e.g. read their papers and other papers in their field), put in the work (e.g. for the course you're taking
 or the research you're doing with them), and demonstrate your genuine curiosity and interest.
 
 Speaking of special topics and graduate-level courses, they are also a great and lesser-known way to get involved in research
-or at the very least get practice with research skills. I was able to rub elbows with and sometimes even publish
+(or at the very least get practice with research skills). I was able to rub elbows with and sometimes even publish
 with professors by taking special topics courses, like Professors Gireeja Ranade and Narges Norouzi (CS 194-271 Research in AI Education), Professor Sarah Chasins (CS 294-184 Building User-Centered Programming Tools), Professors Lisa Yan and Michael Ball (CS 294-189 Designing CS Education at Scale), and Professor Bjoern Hartmann (CS 294-304 Human-AI Interaction).
 
 Related to this, PhD students are *also* just people. Again, this is not to trivialize what PhD students do --
@@ -79,31 +79,32 @@ very inspiring and down-to-earth people who can give you great advice and insigh
 
 ## 5. Attending research conferences effectively is an art
 
-It is very tempting to try to attend every single paper session and poster session and demo and tutorial
+It is very tempting to try to attend every single paper session, poster session, demo, tutorial,
 and workshop in a research conference, but it is also impossible and incredibly draining. After my first
 research conference (SIGCSE 2025), I learned to pace myself a bit better and do more pre-research to determine
-which sessions I really wanted to attend, and which ones I was okay with skipping to take a break, catch up on work,
+which sessions I really wanted to attend. It's totally fine to skip sessions to take a break, catch up on work,
 or attend spontaneous social events (e.g. all the Berkeley folks at the conference grabbing dinner together).
 
-Another thing I found overwhelming and difficult to do at research conferences is network. I felt like
-a very small fish in an enormous ocean (not to mention SIGCSE isn't even that big of a conference). It took all of
-my mental energy to get over the initial intimidation of introducing myself to talk to people
-I didn't know. However, when I did (and often I did this by dragging friends along with me for emotional support),
-it was usually very rewarding, such as talking to the keynote speaker at SIGCSE 2025, Professor Cecilia Aragon (UW)
-after I inadvertently sat down for lunch at the same table as her, or meeting Professors Adam Blank (Caltech) and Travis McGaha (UPenn), who all encouraged me to pursue a PhD despite just meeting me. (I say this not to say "wow I was so cool they recommended
-I pursue a PhD," but rather to show how people are generally very encouraging and nice.)
+Another thing I found overwhelming is networking. I felt like a very small fish in an enormous ocean
+(not to mention SIGCSE isn't even that big of a conference). It took all of my mental energy to get
+over the initial intimidation of introducing myself to talk to people I didn't know. However, when I did
+(often by dragging friends with me for emotional support), it was usually very rewarding, such as talking
+to the keynote speaker at SIGCSE 2025, Professor Cecilia Aragon (UW) after I inadvertently sat down
+for lunch at the same table as her, or meeting Professors Adam Blank (Caltech) and Travis McGaha (UPenn).
+They all encouraged me to pursue a PhD despite just meeting me, and I say this not to brag,
+but rather to show how academics are generally very encouraging and nice.
 
 ## 6. Maybe hopping around courses is the move for gaining teaching experience
 
 After taking CS 61A in my first semester at Berkeley, I was determined to join course staff. My first step
 was becoming an academic intern the following spring (the position is now called "teaching intern")
 and applying to [Computer Science Mentors](https://csmentors.studentorg.berkeley.edu/). I must admit,
-when I learned that I had been accepted as a Junior Mentor (JM) to CS 88 (aka DATA C88C) instead of CS 61A,
-I was disappointed. Part of it was probably the classic EECS elitism (a lot of students scoff at
+when I learned that I had been accepted as a Junior Mentor (JM) for CS 88 (aka DATA C88C) instead of CS 61A,
+I was disappointed. Part of it was probably internalized EECS elitism (a lot of students scoff at
 data science as "easier" than CS or EECS), and part of it was my lack of emotional connection to DATA C88C
 since I'd never taken the course. But I'd checked the box on the application because I wanted to go
-where I was needed, and so I diligently taught weekly sections as a JM, then eventually as a Senior Mentor (SM),
-and finally as a Course Coordinator. In that time, I got to know some amazing people who were all
+where I was needed, and so I diligently taught weekly sections as a JM, then as a Senior Mentor (SM),
+and finally I became a Course Coordinator. In that time, I got to know some amazing people who were all
 just as passionate about CS and DS education as I was, and I am still friends with many of them to this day.
 
 I eventually joined DATA C88C course staff as a tutor in Fall 2023, and the rest is history: I've taught
@@ -114,35 +115,34 @@ that I first felt when I went from CS 61A to DATA C88C. Thoughts would swirl in 
 *Wouldn't it be easier for me to just do what I know I'm already good at?*
 
 But over time as I had all of these teaching experiences, I realized that it was actually a blessing in disguise:
-Every course does things slightly differently, and I could leverage my past experiences to improve
-the current course I was teaching. I also got to know more instructors, staff, and students,
-which expanded my professional network. And the fact that I taught so many courses I had technically never taken
-(DATA C88C, 101, and 188) kept me on my toes and gave me empathy for students, which is one of
-the [most important parts of being a teacher](/2025/01/06/how-to-be-a-great-ta-and-student.html).
+Every course does things slightly differently, and I could not only learn new things, but also leverage
+my past experiences to improve the current course I was teaching. I also got to know more instructors,
+staff, and students, which expanded my professional network. And the fact that I taught so many courses
+I had technically never taken (DATA C88C, 101, and 188) kept me on my toes and gave me empathy for students,
+which is one of the [most important parts of being a teacher](/2025/01/06/how-to-be-a-great-ta-and-student.html).
 So while there is merit to going deep and staying with one course, there's also a lot to gain
-by hopping around courses.
+by hopping around courses. Looking back on it now, I wouldn't change a thing.
 
 ## 7. Don't leave your electronics in your (locked) car
 
-When Thanksgiving break began in the first semester of my 5th year MS, I thought it would be fun
+When Thanksgiving break began in the first semester of my master's, I thought it would be fun
 to go with my parents to the local Rialto cinema in Elmwood to see the newest Knives Out movie (Wake Up Dead Man).
 We naively thought that leaving our belongings (including our electronics) in the locked car would be
 fine given that Elmwood is a pretty popular shopping district, but unfortunately someone broke in and stole all our stuff.
 
 Luckily we had some insurance and savings, and the Thanksgiving holiday meant that we could take
 advantage of Black Friday deals to buy replacements. It definitely could have been a lot worse.
-But it reminded us to make sure to take our valuables with us wherever we go, and it also reminded
-me to make sure to never keep sensitive information on my devices because remote erasure only works
-when the devices are connected to the internet. It also emphasized the importance of backing up
-my files and also making sure all of my code and dot files were saved somewhere so that I could set up
-a new laptop fast.
+But it reminded us to take our valuables with us wherever we go, and reminded
+me to religiously back up my files, code, and dot files so that I can set up a new laptop fast.
+It was also a nice "reset" for me to re-evaluate my hobbled together `.bashrc`, and since then I've been a happy
+[starship](https://starship.rs/) user.
 
 ## 8. Caffeine is a dangerous cheat code
 
 I managed to avoid caffeine consumption for about the first 3 years of being a college student, but
 in senior year and during my MS, I found myself drinking coffee on and off. There were weeks where
 I'd be really busy and sleep deprived, and coffee was basically the easiest solution to my problems.
-But then I'd get hit with about 3 days of caffeine withdrawal symptoms (not fun), and it would remind
+Then I'd get hit with 3 days of caffeine withdrawal symptoms (not fun), which reminded
 me of why I tried so hard to avoid coffee in the first place. I know peers who would get so deep into
 caffeine addiction that they'd drink multiple Red Bulls a day, so all I'm trying to say is: Use caffeine
 wisely, and it helps to quit gradually rather than "cold turkey" if you really must have some caffeine
@@ -191,5 +191,4 @@ at the end.
 
 I'm very glad that senior-year Rebecca had the foresight to request the latest start date possible
 for my full-time job at Databricks, because it allowed me to have the time to be a summer instructor
-this year and gave me some breathing room to relax and apartment hunt. Of course, one always wishes
-they have more time to do everything regardless.
+this year and gave me some breathing room to relax and apartment hunt.
