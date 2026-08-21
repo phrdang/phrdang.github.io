@@ -23,7 +23,7 @@ It has always been tempting for me to look at my (in)famously packed Google Cale
 the school year and try to spread things out. There is definitely some wisdom in this; you can only
 have so many classes and meetings and socials in a day before you go kaput. At the same time,
 I've realized that by trying to space things out, you're also reducing long
-periods of time where you can think, focus, and do work. Therefore, I would recommend minimzing
+periods of time where you can think, focus, and do work. Therefore, I would recommend minimizing
 the amount of context switching and instead schedule as many things back-to-back as you can so
 that you have uninterrupted time periods for work and play. (This is also what Berkeley time is for,
 so you might as well use it!)
@@ -108,7 +108,7 @@ and finally I became a Course Coordinator. In that time, I got to know some amaz
 just as passionate about CS and DS education as I was, and I am still friends with many of them to this day.
 
 I eventually joined DATA C88C course staff as a tutor in Fall 2023, and the rest is history: I've taught
-DATA C88C for over 2 years, and occassionally jumped to other courses like DATA 101 and DATA 188.
+DATA C88C for over 2 years, and occasionally jumped to other courses like DATA 101 and DATA 188.
 Every time I made a switch (for one reason or another), I always felt that same sense of disappointment
 that I first felt when I went from CS 61A to DATA C88C. Thoughts would swirl in my head: *Will the staff be as good?*
 *Will the instructor(s) be good supervisors?* *Do I have the skills and expertise to even teach this course?*
