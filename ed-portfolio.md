@@ -82,6 +82,7 @@ Jun 2026 - Aug 2026 | Berkeley, CA
 
 - The Structure and Interpretation of Computer Programs
 - Delivered lectures, supervised a 20-person course staff, oversaw the introduction of weekly quizzes using the computer-based testing facility at UC Berkeley, hosted office hours, and wrote exam questions
+- [Contact me](/contact.md) if you would like to view lecture recordings
 
 ## Workshop Leader at UC Berkeley
 Jun 2026 | Berkeley, CA
