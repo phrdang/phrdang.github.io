@@ -158,6 +158,7 @@ permalink: /resources/
 - [Computer Security by David Wagner, Nicholas Weaver, Peyrin Kao, Fuzail Shakir, Andrew Law, and Nicholas Ngai](https://textbook.cs161.org/) ⭐ (online textbook used in UC Berkeley's [CS 161](https://cs161.org) course)
 - [Qualtrics Glossary of Coding and Programming Terms](https://www.qualtrics.com/blog/glossary-of-coding-and-programming-terms/) (thanks Kaitlin and Jonas!)
 - [CS 61C: Great Ideas in Computer Architecture (Machine Structures) Course Notes](https://notes.cs61c.org/) ⭐
+- [Probability Distribution Explorer](https://distribution-explorer.github.io/)
 
 # 💻 Writing Code
 
@@ -312,6 +313,8 @@ permalink: /resources/
 - [Work At A Startup](https://www.workatastartup.com/) (Y Combinator job postings)
 - [theFreshDev](https://www.thefreshdev.com/) (internship and entry level tech job postings)
 - [Hardware FYI](https://www.hardwarefyi.com/) (hardware resources and job postings)
+- [newgrad-jobs.com](https://www.newgrad-jobs.com/)
+- [intern-list.com](https://www.intern-list.com/)
 
 ### First/Second Year/Minimal Experience/University Programs
 
@@ -417,12 +420,14 @@ permalink: /resources/
 - [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 - [Advent of Code](https://adventofcode.com/)
 - [carbon](https://carbon.now.sh/) (generate aesthetic screenshots of code)
+- [Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter/) (allows you to copy and paste syntax-highlighted code into slides/documents)
 - [Dev Resources](https://devresourc.es/)
 - [Slackmojis](https://slackmojis.com/) ⭐
 - [Discordmojis](https://discordmojis.com/) ⭐
 - [Coolors.co](https://coolors.co/) ⭐ (generate color palettes)
 - [JS is Weird](https://jsisweird.com/)
 - [neal.fun](https://neal.fun/)
+- [Cinenerdle](https://www.cinenerdle.app/)
 - [UCSD Professor Philip Guo](https://pg.ucsd.edu/) (A professor's website organized by Taylor Swift eras)
 - Variations of [motherfuckingwebsite.com](https://motherfuckingwebsite.com/)
   - [perfectmotherfuckingwebsite.com](https://perfectmotherfuckingwebsite.com/)
@@ -431,3 +436,4 @@ permalink: /resources/
   - [thebestmotherfuckingwebsite.co](https://thebestmotherfuckingwebsite.co/)
 - [UC Berkeley Pedagogy Blog](https://pedagogy.cs161.org/)
 - [Get Cyber Smart](https://www.getcybersmart.org/) (free cybersecurity educational resources)
+- [layoffs.fyi](https://layoffs.fyi/) (tech layoffs tracker)
