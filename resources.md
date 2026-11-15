@@ -287,6 +287,7 @@ permalink: /resources/
 - [Online Assessments and interviews guide](https://github.com/Leader-board/OA-and-Interviews)
 - [Interview Bit](https://www.interviewbit.com/)
 - [Interviewing.io](https://interviewing.io/) (mock technical interviews)
+- [Nyrion](https://nyrion.ai/) (AI-assisted coding interview practice)
 
 ## Job Postings and Cool Programs
 
